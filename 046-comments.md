@@ -9,7 +9,7 @@ Verse 21: the brother of Ad warns "amid the sand-dunes (الأَحْقَاف)." 
 Verses 29–32 describe spectres listening to the Recitation: "when they were in its presence, they said: 'Give ear!'" The spectres then return to warn their own people. This passage is the direct precursor to Surah 72 (Al-Jinn), where the same event is narrated from the spectres' perspective. The hidden dimension does not merely overhear revelation — it actively responds, believes, and propagates the message.
 
 ### Root ب-ر-ر (b-r-r) — "kindness to parents"
-Verse 15: the mature human at forty years prays for gratitude toward parents and righteous offspring. The root connections span the human lifecycle: bearing (حَمْل), weaning (فِصَال), and the prayer at full strength. This is the Qur'an's most complete portrait of the human arc from dependence through maturity to surrender.
+Verse 15: the mature human at forty years prays for gratitude toward parents and righteous offspring. The root connections span the human lifecycle: bearing (حَمْل), weaning (فِصَال), and the prayer at full strength. This is the Qur'an's most complete portrait of the human arc from dependence through maturity to devotion.
 
 ## Integrative Links
 

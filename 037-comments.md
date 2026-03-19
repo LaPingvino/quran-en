@@ -3,7 +3,7 @@
 ## Key Root Findings
 
 ### Root ذ-ب-ح (dh-b-ḥ) in vv.102-107 — Abraham's sacrifice
-Verse 102: Abraham tells his son of the dream, and the son responds **افْعَلْ مَا تُؤْمَرُ** (do what thou art commanded). The root ذ-ب-ح means to slaughter, to sacrifice. In v.107 God ransoms the son with **ذِبْحٍ عَظِيمٍ** (a tremendous sacrifice). The Qur'an does not name the son — the tradition that it is Ishmael (not Isaac as in Genesis 22) rests on context (the Isaac annunciation comes separately in v.112). The unnamed son makes the sacrifice universal — it is every father's test, every child's surrender.
+Verse 102: Abraham tells his son of the dream, and the son responds **افْعَلْ مَا تُؤْمَرُ** (do what thou art commanded). The root ذ-ب-ح means to slaughter, to sacrifice. In v.107 God ransoms the son with **ذِبْحٍ عَظِيمٍ** (a tremendous sacrifice). The Qur'an does not name the son — the tradition that it is Ishmael (not Isaac as in Genesis 22) rests on context (the Isaac annunciation comes separately in v.112). The unnamed son makes the sacrifice universal — it is every father's test, every child's devotion.
 
 ### Root ص-ف-ف (ṣ-f-f) in vv.1, 165 — "ranged in rows"
 The surah opens with **وَالصَّافَّاتِ صَفًّا** (by those ranged in rows) and closes with the angels declaring **وَإِنَّا لَنَحْنُ الصَّافُّونَ** (we are they who range in rows). The root ص-ف-ف means to arrange in lines, to rank. The angels' self-identification as "those who range" creates an inclusio — the surah begins and ends with celestial order. Prayer rows (ṣufūf) mirror angelic rows — human worship imitates the cosmic pattern.

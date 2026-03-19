@@ -181,7 +181,7 @@ A devastating comparison: stones are better than hardened hearts because at leas
 - **v.31 teaching of names ↔ 55:2 teaching the Recitation ↔ 55:4 teaching Expression**: God as the great Teacher, each teaching building on the last
 - **v.48 no soul avails another ↔ 55:26–27 all perish, only God's Countenance remains**: radical equality before the divine
 - **v.50 parting the sea (f-r-q) ↔ 77:4 Measure of separation (f-r-q)**: divine separation as the root act of justice
-- **v.71 musallamat (unblemished, s-l-m) ↔ "Islam" by meaning**: the cow in a state of islām — wholeness, surrender — the word used as quality, not religion label. Same root as v.112 "devoteth his countenance," v.128 "devoted unto Thee," v.131 "Devote!"
+- **v.71 musallamat (unblemished, s-l-m) ↔ "Islam" by meaning**: the cow in a state of islām — wholeness, devotion — the word used as quality, not religion label. Same root as v.112 "devoteth his countenance," v.128 "devoted unto Thee," v.131 "Devote!"
 - **v.87 progressive revelation rejected ↔ 55:13 "which Bestowals will ye contradict?" ↔ 77:50 "what later message do they believe?"**: the pattern of refusal across all three surahs
 
 ## Cross-Surah Theme: The Pattern of Refusal
@@ -244,7 +244,7 @@ The translation renders: "Nay! Whoso devoteth his countenance unto God, and he i
 
 Arabic: بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — the root س-ل-م (s-l-m) used as a verb, not a label. The one who has أَسْلَمَ (aslama, devoted) his وَجْه (wajh, face/countenance/direction) unto God. This is Islam by *meaning*: the act of turning one's entire orientation toward God. It is not a denominational identity but a spiritual state.
 
-The same root appears in the unblemished cow of v.71 (مُسَلَّمَة, musallamat — whole, in a state of islām), in Abraham's declaration at v.131, and in the prayer at v.128. The surah weaves a thread of s-l-m from animal wholeness through patriarchal surrender to communal identity — showing that "Islam" names a quality before it names a community.
+The same root appears in the unblemished cow of v.71 (مُسَلَّمَة, musallamat — whole, in a state of islām), in Abraham's declaration at v.131, and in the prayer at v.128. The surah weaves a thread of s-l-m from animal wholeness through patriarchal devotion to communal identity — showing that "Islam" names a quality before it names a community.
 
 ### Verse 115: The Face of God Everywhere
 
@@ -267,7 +267,7 @@ The root ك-و-ن also gives كَوْن (kawn, the cosmos) — the universe is l
 - **v.124** Abraham is tested and succeeds: "I am making thee a leader (إِمَامًا, imām) for the people." The root أ-م-م (a-m-m) gives both إِمَام (leader) and أُمَّة (umma, community) — the leader and the community share a root. Abraham asks for his descendants; God answers: "My covenant reacheth not the wrongdoers" — lineage alone does not secure the covenant.
 - **v.125** The Ka'ba as مَثَابَةً (mathābatan, a place of return), from ث-و-ب (th-w-b, to return, to reward). The same root as ثَوَاب (thawāb, reward). The Ka'ba is not merely a destination but a place of spiritual return and recompense.
 - **v.127** Abraham and Ishmael raise the foundations: "Our Lord, accept from us! Verily, Thou art the All-Hearing, the All-Knowing." The dual supplication of father and son building together — an image of cooperative submission.
-- **v.128** "Our Lord, and make us surrendered (مُسْلِمَيْنِ, muslimayni) unto Thee, and of our offspring a community surrendered (أُمَّةً مُّسْلِمَةً, ummatan muslimatan) unto Thee." The root s-l-m here creates a chain: two individuals surrendered → a community devoted. Islam as collective state flowing from individual surrender. The prayer is for a quality of being, not a religious label.
+- **v.128** "Our Lord, and make us surrendered (مُسْلِمَيْنِ, muslimayni) unto Thee, and of our offspring a community surrendered (أُمَّةً مُّسْلِمَةً, ummatan muslimatan) unto Thee." The root s-l-m here creates a chain: two individuals surrendered → a community devoted. Islam as collective state flowing from individual devotion. The prayer is for a quality of being, not a religious label.
 - **v.129** Abraham prays for a future messenger from among his descendants — "a messenger of them who shall recite unto them Thy signs" — the Qur'an presents Muhammad's mission as the answer to Abraham's prayer, linking the Abrahamic and Muhammadan dispensations.
 
 ### Verse 131: The Pure s-l-m Exchange
@@ -284,7 +284,7 @@ This verse is the surah's thesis statement for what Islam means as a quality.
 
 The root ح-ن-ف (ḥ-n-f) means to incline away from falsehood toward truth, to be naturally upright. A ḥanīf is one who turns away from all false worship toward the one God — not by following an established religion but by natural inclination. Abraham is ḥanīf *before* any organized religion exists, making the term pre-religious, describing a primordial spiritual orientation.
 
-The term appears also at 3:67, 3:95, 4:125, 6:79, 6:161, 16:120, 16:123 — always for Abraham, always paired with "not of those who associate." The ḥanīf is the spiritual prototype: one who arrives at surrender (islām) through innate recognition, not institutional transmission.
+The term appears also at 3:67, 3:95, 4:125, 6:79, 6:161, 16:120, 16:123 — always for Abraham, always paired with "not of those who associate." The ḥanīf is the spiritual prototype: one who arrives at devotion (islām) through innate recognition, not institutional transmission.
 
 ### Verse 138: The Dyeing of God (ṣibghat Allāh)
 
@@ -455,7 +455,7 @@ The verse's inclusion of women as witnesses (with the proviso that "if one of th
 
 This is the resolution of the entire surah's arc. At v.93, the Israelites said: "We hear and we disobey" (سَمِعْنَا وَعَصَيْنَا, samiʿnā wa-ʿaṣaynā) — hearing paired with refusal. Here, 192 verses later, the believers say: "We hear and we obey" — hearing paired with submission.
 
-The root ط-و-ع (ṭ-w-ʿ) gives أَطَعْنَا (aṭaʿnā, we obey) and also طَوْع (ṭawʿ, willingness). Obedience here is not compulsion (which v.256 forbids) but willing surrender — the same quality as Abraham's instantaneous response at v.131. The surah moves from forced covenant → broken covenant → refused messengers → willing obedience.
+The root ط-و-ع (ṭ-w-ʿ) gives أَطَعْنَا (aṭaʿnā, we obey) and also طَوْع (ṭawʿ, willingness). Obedience here is not compulsion (which v.256 forbids) but willing devotion — the same quality as Abraham's instantaneous response at v.131. The surah moves from forced covenant → broken covenant → refused messengers → willing obedience.
 
 "We make no distinction between any of His messengers" — the believers accept ALL messengers, the exact opposite of v.85 ("believe in part of the Book and cover over part") and v.91 ("We believe in what was sent down unto us" — rejecting anything beyond their own tradition). This is the progressive revelation principle fully embraced.
 

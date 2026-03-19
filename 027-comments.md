@@ -14,5 +14,5 @@ The ant addresses her community: **يَا أَيُّهَا النَّمْلُ ا
 ## Integrative Links
 
 - Verse 40 — "this is of the bounty of my Lord, to test me whether I am grateful or ungrateful" — echoes the core Qur'anic principle that power is a test, not a reward. The same testing-through-blessing appears in 28:76-78 (Korah) and 89:15-16.
-- The Queen of Sheba's diplomatic wisdom (vv.32-35) — consulting her council, sending a gift to test Solomon's intentions — presents a model of female leadership. She ultimately surrenders "with Solomon unto God, Lord of the worlds" (v.44) — her surrender is to God, not to Solomon.
+- The Queen of Sheba's diplomatic wisdom (vv.32-35) — consulting her council, sending a gift to test Solomon's intentions — presents a model of female leadership. She ultimately surrenders "with Solomon unto God, Lord of the worlds" (v.44) — her devotion is to God, not to Solomon.
 - The surah opens with Moses encountering divine fire (v.7-8) and closes with the command to worship "the Lord of this city" (v.91). Both endpoints — fire and sanctuary — are thresholds of the sacred.

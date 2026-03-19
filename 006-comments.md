@@ -17,6 +17,6 @@ The term **فَرَّقُوا دِينَهُمْ** (they split their religion) u
 ## Integrative Links
 
 - Verse 95 (f-l-q, splitting grain) connects directly to 113:1 (Lord of the Splitting). The Splitter of seeds in Surah 6 is the Lord of Dawn in Surah 113 — the same divine act across the Qur'an.
-- Verses 75-79 (Abraham's search) parallel 21:51-67 (Abraham destroying idols) and 37:83-98 (Abraham's sacrifice). Each surah reveals a different facet of the Abrahamic journey: 6 is the intellectual search, 21 is the active rejection of idols, 37 is the test of surrender.
+- Verses 75-79 (Abraham's search) parallel 21:51-67 (Abraham destroying idols) and 37:83-98 (Abraham's sacrifice). Each surah reveals a different facet of the Abrahamic journey: 6 is the intellectual search, 21 is the active rejection of idols, 37 is the test of devotion.
 - Verse 103 (God beyond vision) complements 7:143 where Moses asks to see God and the mountain crumbles. What 6:103 states theologically, 7:143 dramatizes narratively.
 - Verse 38 — "there is no creature on the earth nor bird that flieth with its wings but they are communities like unto you" — anticipates modern ecology. The same word أُمَم (umam, communities/nations) used for human peoples is applied to animals.

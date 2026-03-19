@@ -19,7 +19,7 @@ Ten paired categories of spiritual achievement, each listed for both men AND wom
 
 "God hath prepared for them forgiveness and a great reward."
 
-This verse demolishes any reading of the Qur'an that assigns spiritual hierarchy by gender. Every spiritual quality — surrender, belief, devotion, truth, patience, humility, charity, fasting, guarding of openings, remembrance of God — is listed in exact parallel for men and women. The reward is identical.
+This verse demolishes any reading of the Qur'an that assigns spiritual hierarchy by gender. Every spiritual quality — devotion, belief, devotion, truth, patience, humility, charity, fasting, guarding of openings, remembrance of God — is listed in exact parallel for men and women. The reward is identical.
 
 Note: القانتات (al-qānitāt, devout women) is the same word used in 4:34 for "righteous women." Here it appears in a list of universal virtues, proving it describes spiritual devotion, not marital obedience.
 

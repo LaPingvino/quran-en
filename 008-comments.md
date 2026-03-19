@@ -38,4 +38,4 @@ The same surah that describes angelic battle (v.12) commands inclination toward 
 
 - **v.12 ḍ-r-b (strike above necks) ↔ 4:34 ḍ-r-b (set apart) ↔ 24:31 ḍ-r-b (draw coverings)**: the root carries different meanings in different contexts — battle, marriage, modesty. Context determines meaning, not the root alone.
 - **v.17 "God slew them" ↔ 4:157 "they slew him not"**: both verses challenge the human perception of violence — the ẓāhir (apparent violence) vs. the bāṭin (divine agency)
-- **v.61 "incline to peace" (s-l-m) ↔ "devotion" (islām, s-l-m)**: peace and surrender share a root. To incline toward peace IS to incline toward islām (submission/surrender to God).
+- **v.61 "incline to peace" (s-l-m) ↔ "devotion" (islām, s-l-m)**: peace and devotion share a root. To incline toward peace IS to incline toward islām (submission/surrender to God).

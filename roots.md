@@ -53,31 +53,31 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### Root ح-و-ر (ḥ-w-r) — "to return, to be devoted"
+### Root ح-و-ر (ḥ-w-r) — "to return"
 
 **Conventional:** حُور = "houris," "fair maidens," "72 virgins"
 **Root meaning:** to return, to whiten, to be intensely contrasting
 
-**Impact:** حُور (ḥūr) shares its root with حَوَارِيُّون (ḥawāriyyūn) — the disciples of Jesus (3:52, 5:111). The "paradise maidens" and "Jesus's disciples" are the same root word. Both are the devoted returners — those who return to God from the margins. "The Devoted" replaces "fair maidens" entirely.
+**Impact:** حُور (ḥūr) shares its root with حَوَارِيُّون (ḥawāriyyūn) — the disciples of Jesus (3:52, 5:111). The "paradise maidens" and "Jesus's disciples" are the same root word. Both are the devoted returners — those who return to God from the margins. "The Returners" replaces "fair maidens" entirely.
 
-**Key verses:** 55:72 (the Devoted, sheltered in the dwellings), 3:52 (the Returners said: "We are the helpers of God"), 5:111–112 (the Returners and the Table).
+**Key verses:** 55:72 (the Returners, sheltered in the dwellings), 3:52 (the Returners said: "We are the helpers of God"), 5:111–112 (the Returners and the Table).
 
 **Connection:** The root meaning "return" links to تَوْبَة (tawba, repentance — root ت-و-ب, to return). Surah 9 (At-Tawbah/Repentance) and the ḥūr of Surah 55 share the concept: returning to God.
 
 ---
 
-### Root س-ل-م (s-l-m) — "to surrender, to be whole, to be at peace"
+### Root س-ل-م (s-l-m) — "to devote, to be whole, to be at peace"
 
 **Conventional:** إسلام = "Islam" (the religion), مُسْلِم = "Muslim" (an adherent)
-**Root meaning:** to surrender, to submit, to be whole, to be at peace
+**Root meaning:** to devote, to submit, to be whole, to be at peace
 
-**Impact:** When Abraham says أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ (2:131), he is not saying "I became a Muslim" — he is saying "I have devoted myself unto the Lord of the worlds." The word describes a *quality* (wholeness, surrender, peace), not a *label* (religious identity). This recovers the Qur'an's own universalism: anyone who surrenders to God is in a state of islām, regardless of which Manifestation they follow.
+**Impact:** When Abraham says أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ (2:131), he is not saying "I became a Muslim" — he is saying "I have devoted myself unto the Lord of the worlds." The word describes a *quality* (wholeness, devotion, peace), not a *label* (religious identity). This recovers the Qur'an's own universalism: anyone who devotes themselves to God is in a state of islām, regardless of which Manifestation they follow.
 
-**Key verses:** 2:112 (whoso devoteth his countenance unto God), 2:128 (Abraham: make us devoted unto Thee), 2:131 (Surrender! / I have devoted), 3:19 (the religion with God is surrender), 3:67 (Abraham was upright, devoted), 4:125 (he who hath devoted his face unto God), 5:3 (am well pleased with Devotion as a religion).
+**Key verses:** 2:112 (whoso devoteth his countenance unto God), 2:128 (Abraham: make us Devoted unto Thee), 2:131 (Be devoted! / I have devoted myself), 3:19 (the religion with God is Devotion), 3:67 (Abraham was upright, devoted), 4:125 (he who hath devoted his face unto God), 5:3 (am well pleased with Devotion as a religion).
 
-**Also:** 8:61 "if they incline to peace (السَّلْم, as-salm)" — same root. To incline toward peace IS to incline toward surrender/islām.
+**Also:** 8:61 "if they incline to peace (السَّلْم, as-salm)" — same root. To incline toward peace IS to incline toward devotion. Peace and devotion are two faces of the same root.
 
-**Related:** The cow in 2:71 is described as مُسَلَّمَة (musallamat, unblemished/whole) — the same root. The cow is in a state of islām — wholeness, integrity, being complete.
+**Related:** The cow in 2:71 is described as مُسَلَّمَة (musallamat, unblemished/whole) — the same root. The cow is in a state of devotion — wholeness, integrity, being complete.
 
 ---
 

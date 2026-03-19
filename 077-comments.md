@@ -106,7 +106,7 @@ The closing verse "Then in what later message do they believe?" (v.50) is the ca
 
 The word حديث (ḥadīth, message) in v.50 is key. It means not just any speech but a *new* narration, a fresh telling. The question is: after all the messages God has sent — through creation (vv.20–27), through destruction (vv.16–18), through paradise and hellfire — what *new* message could possibly convince those who have contradicted every previous one? This echoes 2:91 where they say "we believe in what was sent down unto us" while covering over everything beyond it, and 2:87 where "whensoever a messenger cometh" pride and denial follow.
 
-The answer, as Al-Baqarah makes clear, is not more messages but surrender (أَسْلِمْ, 2:131) — the breaking of the pattern itself.
+The answer, as Al-Baqarah makes clear, is not more messages but devotion (أَسْلِمْ, 2:131) — the breaking of the pattern itself.
 
 ## Resolved Corrections
 
