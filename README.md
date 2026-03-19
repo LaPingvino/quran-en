@@ -21,25 +21,25 @@ The file **roots.md** catalogues all major root discoveries.
 
 | Arabic | Root | Conventional | This translation | Why |
 |--------|------|-------------|-----------------|-----|
-| كافر | ك-ف-ر | disbeliever, infidel | those who cover over | The root means "to cover/conceal." Describes an action, not an identity |
-| مسلم / إسلام | س-ل-م | Muslim / Islam | the Devoted / Devotion | The root means wholeness, peace, devotion — a quality, not a label |
-| حور | ح-و-ر | houris, fair maidens | the Returners | Same root as حواريون (Jesus's disciples). The devoted who return to God |
-| القرآن | ق-ر-أ | the Quran | the Recitation | Named after what you *do* with it, not what it *is* |
-| البيان | ب-ي-ن | explanation | the Expression | The human capacity to express — and the title of the Báb's Book |
-| جنة | ج-ن-ن | paradise, garden | Garden / hidden Realm | The root means "to conceal." The garden IS the hidden place |
-| جن | ج-ن-ن | jinn, genie | spectres | The hidden ones — unseen forces, from the same concealment root |
+| kafir | k-f-r | disbeliever, infidel | those who cover over | The root means "to cover/conceal." Describes an action, not an identity |
+| muslim / islam | s-l-m | Muslim / Islam | the Devoted / Devotion | The root means wholeness, peace, devotion — a quality, not a label |
+| hur | h-w-r | houris, fair maidens | the Returners | Same root as hawariyin (Jesus's disciples). The devoted who return to God |
+| al-qur'an | q-r-' | the Quran | the Recitation | Named after what you *do* with it, not what it *is* |
+| al-bayan | b-y-n | explanation | the Expression | The human capacity to express — and the title of the Bab's Book |
+| janna | j-n-n | paradise, garden | Garden / hidden Realm | The root means "to conceal." The garden IS the hidden place |
+| jinn | j-n-n | jinn, genie | spectres | The hidden ones — unseen forces, from the same concealment root |
 
 ## Root discoveries that change everything
 
-- **4:34** — واضربوهن conventionally "strike them" — the root ض-ر-ب means "to put forth, to set apart." Proven by 24:31 where the identical root describes the gentle gesture of women *drawing* coverings over their bosoms. Translated as "set them apart" — the verse prescribes escalating distance, not violence.
+- **4:34** — The term *wa-dribuhunna* conventionally "strike them" — the root d-r-b means "to put forth, to set apart." Proven by 24:31 where the identical root describes the gentle gesture of women *drawing* coverings over their bosoms. Translated as "set them apart" — the verse prescribes escalating distance, not violence.
 
-- **4:157** — شبه لهم conventionally "a likeness was made for them" (substitution theology) — the grammar is impersonal passive: "it was made ambiguous unto them." No substitute person is implied. And يقينا at the end: "they slew him not *with certainty*" — they lack certain knowledge, not that the event didn't happen.
+- **4:157** — The term *shubbiha lahum* conventionally "a likeness was made for them" (substitution theology) — the grammar is impersonal passive: "it was made ambiguous unto them." No substitute person is implied. And *yaqinan* at the end: "they slew him not *with certainty*" — they lack certain knowledge, not that the event didn't happen.
 
-- **55:72** — حور conventionally "houris/virgins" — shares the root ح-و-ر with حواريون, the word for Jesus's disciples (3:52, 5:111). The "paradise maidens" and the disciples of Jesus are the same root word: the Returners.
+- **55:72** — The term *hur* conventionally "houris/virgins" — shares the root h-w-r with *hawariyin*, the word for Jesus's disciples (3:52, 5:111). The "paradise maidens" and the disciples of Jesus are the same root word: the Returners.
 
-- **33:40** — خاتم النبيين conventionally "the last of the prophets" — the root خ-ت-م means both "to conclude" AND "to authenticate/seal." A seal on a letter validates it; Muhammad's revelation authenticates the entire prophetic cycle.
+- **33:40** — The term *khatam an-nabiyyin* conventionally "the last of the prophets" — the root kh-t-m means both "to conclude" AND "to authenticate/seal." A seal on a letter validates it; Muhammad's revelation authenticates the entire prophetic cycle.
 
-- **5:51** — أولياء conventionally "friends" — the root و-ل-ي means guardian, protector, authority. The verse forbids taking non-believers as *legal guardians*, not as friends. Friendship is صداقة from a completely different root.
+- **5:51** — The term *awliya'* conventionally "friends" — the root w-l-y means guardian, protector, authority. The verse forbids taking non-believers as *legal guardians*, not as friends. Friendship is *sadaqa* from a completely different root.
 
 - **55:1–4** — The opening arc: God (v.1) → taught the Recitation (v.2) → created the human (v.3) → taught it the Expression (v.4). The movement from divine speech to human expression — from receiving to creating.
 
@@ -54,7 +54,7 @@ KJV / Shoghi Effendi English — thee, thy, ye, hath — giving the translation 
 1. **Root meaning over received interpretation.** When a word is rare or might be in common use only because of the Qur'an, check the Arabic root and related words. If the meaning in context improves, you have a likely candidate.
 2. **Integrative reading.** Link Qur'anic imagery to the present day and understand surahs in the context of each other as a unified whole.
 3. **The Qur'an teaches spiritual law through practical examples.** Many verses that seem to prescribe social rules are actually illustrating spiritual principles.
-4. **Arabic "loanwords" may have Arabic roots.** The Qur'an claims to be in "clear Arabic" (16:103). Words classified as Persian or Greek loanwords may yield meaning when analyzed through Arabic roots (e.g., إستبرق as "brilliance-seeking" from إست + برق rather than Persian for "brocade").
+4. **Arabic "loanwords" may have Arabic roots.** The Qur'an claims to be in "clear Arabic" (16:103). Words classified as Persian or Greek loanwords may yield meaning when analyzed through Arabic roots (e.g., *istabraq* as "brilliance-seeking" from *ist* + *baraq* rather than Persian for "brocade").
 5. **Preserve the ẓāhir/bāṭin (apparent/hidden) structure.** Every verse has a surface meaning and a root meaning. This translation recovers the root meaning without destroying the surface.
 
 ## Contributing
