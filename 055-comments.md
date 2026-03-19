@@ -38,29 +38,21 @@ Verse 46: وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّت
 - **v.3 "the man"** for الإنسان (al-insān). The definite article is preserved — it is *the* man, humanity as a category, not "a man."
 - **v.4 "the Expression"** for البيان (al-bayān). The root ب-ي-ن (b-y-n) means to make clear, to express, to distinguish. In Bahá'í theology, the Bayán is the title of the Báb's central book. This double resonance — both "expression/eloquence" as a divine gift and the Bayán as scripture — is preserved by capitalizing.
 
-### Verses 1–4: The Dispensational Arc
+### Verses 1–4: The Arc from God to Human Expression
 
-The opening four verses encode the entire movement from God to human flourishing:
+The opening four verses trace a movement from God toward human flourishing:
 
-1. **الرحمن** — God's nature (the Source, the All-Merciful)
-2. **علم القرآن** — God speaks (the Recitation descends — divine text, strict divine law)
-3. **خلق الإنسان** — the human is created (the pivot, the hinge)
-4. **علمه البيان** — the human speaks (Expression — the capacity to articulate, create, express)
+1. **الرحمن** — God's nature (the Source)
+2. **علم القرآن** — God speaks (the Recitation descends)
+3. **خلق الإنسان** — the human is created (the pivot)
+4. **علمه البيان** — the human speaks (Expression — the capacity to articulate and create)
 
-The movement is FROM God TOWARD humanity: divine nature → divine speech → human creation → human speech. The human sits at the center (v.3), between divine Recitation (v.2) and human Expression (v.4). Creation is not the end point but the hinge — God made humans not merely to exist but to *express*, to create into infinity (cf. 18:109, "if the sea were ink for the words of my Lord, the sea would be spent").
+The human (v.3) sits at the center, between divine Recitation (v.2) and human Expression (v.4). Creation is the hinge — God made humans not merely to receive but to *express*, to create into infinity (cf. 18:109, "if the sea were ink for the words of my Lord, the sea would be spent").
 
-The Bahá'í dispensational parallel maps precisely onto these four verses:
-1. **الرحمن** = God, the Source of all dispensations
-2. **علم القرآن** = the Qur'anic cycle (Adam through Muhammad — God speaks, humanity receives, religion is the Recitation of divine law)
-3. **خلق الإنسان** = **the Báb** — the pivot, the Gate (باب). The Báb sits between the Qur'anic and Bahá'í cycles as the creation of the new human. His title means "the Gate" — the passage between two ages. The old cycle of reception ends; the new cycle of expression begins. The Báb IS the hinge: he brings the seeds of the new grown-up society while completing the God-centered religion.
-4. **علمه البيان** = the Bahá'í cycle (Bahá'u'lláh onward — humanity empowered to express, create, and flourish with free will). البيان (al-Bayán) is both "Expression" and the title of the Báb's central book — the word itself bridges the two cycles.
-
-The Qur'an (v.2) is the religion up to and including Islam; the Bayán (v.4) brings the seeds of the mature society. The Báb (v.3) is the pivot between them — not merely a transition but a new creation. All are taught by الرحمن (the All-Merciful, v.1) — mercy as the motive force behind both strict divine law and liberating human expression.
-
-This same arc mirrors the Qur'an's own structure: it opens with بِسْمِ اللَّهِ (God's Name, 1:1) and closes with وَالنَّاسِ (and humanity, 114:6). From God to human flourishing — the entire Book enacts what 55:1–4 encodes in four verses.
+This arc mirrors the Qur'an's own structure: it opens with بِسْمِ اللَّهِ (God's Name, 1:1) and closes with وَالنَّاسِ (and humanity, 114:6). From God to human flourishing — the entire Book enacts what 55:1–4 encodes in four verses.
 
 ### Verses 5–6: Cosmic Order
-- **v.5 "gathered"** for بِحُسْبَانٍ (bi-ḥusbān) — most render this as "by precise calculation." The root ح-س-b (ḥ-s-b) includes meanings of reckoning, gathering, accounting. "Gathered" emphasizes the cosmic harmony rather than mere mathematics.
+- **v.5 "by reckoning"** for بِحُسْبَانٍ (bi-ḥusbān). The root ح-س-ب (ḥ-s-b) means to reckon, to account, to calculate. The sun and moon move by divine reckoning — cosmic order as precise accounting.
 - **v.6 "Stars and Trees bow down"** — النجم (an-najm) can mean star or plant/herb. Most translations choose "herbs/plants" to contrast with "trees" (الشجر). This translation reads it as "stars" — creating a heaven-earth parallel (sun+moon / stars+trees) that mirrors the surah's cosmic scope.
 
 ### Verses 7–9: The Balance
