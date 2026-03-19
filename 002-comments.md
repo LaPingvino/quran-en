@@ -103,6 +103,74 @@ The opening 50 verses establish the surah's architecture:
 
 The movement mirrors the surah's overall design: from universal truths → primordial history → specific history → law (to come in later verses). Each layer builds on the last.
 
+## Verse-by-Verse Notes (51–100)
+
+### Verses 51–56: Moses, the Mount, and the Calf
+The golden calf episode is retold twice in this surah (here and v.92–93), forming a frame. The forty nights (أَرْبَعِينَ لَيْلَةً) parallel the Biblical forty days — a recurring span of trial and transformation.
+
+- **v.53 "the Criterion"** — الفرقان (al-furqān), from ف-ر-ق (f-r-q), the same root as the parting of the sea in v.50 and the "Measure of separation" in 77:4. Moses receives both الكتاب (the Book) and الفرقان (the Criterion) — the text and the capacity to distinguish truth from falsehood. These are complementary gifts: the Book is what is revealed; the Criterion is the faculty to understand it.
+- **v.54 "slay yourselves"** — فَاقْتُلُوا أَنفُسَكُمْ. Literally "kill your selves/souls." Read mystically: the command is to slay the ego, the nafs that led to idolatry. The Maker (بَارِئ, bāri') — from ب-ر-أ (b-r-'), to create, to fashion, to be free from — is used rather than the more general "Lord," emphasizing God as the one who *fashioned* them and from whom they should seek remaking.
+- **v.55 "see God openly"** — نَرَى اللَّهَ جَهْرَةً. The demand to see God directly is answered with a thunderbolt. Compare with 7:143 where Moses himself asks to see God and the mountain crumbles. The integrative lesson: God is known through His Manifestations, not through direct vision.
+
+### Verses 57–61: Provision and Ingratitude
+- **v.58 "Unburdening"** — حِطَّةٌ (ḥiṭṭa), from the root ح-ط-ط (ḥ-ṭ-ṭ), to put down, to lower, to unburden. They are told to say "Unburdening" — an act of humility, of putting down the weight of sin. Instead they substitute another word (v.59) — the act of distorting divine speech, a pattern that recurs throughout the surah.
+- **v.60 twelve springs** — one for each tribe. The rock that gives water when struck connects to v.74 where stones are praised as more responsive than hardened hearts — some stones burst with rivers, while human hearts refuse to yield.
+- **v.61 "Would ye exchange that which is lesser for that which is better?"** — The complaint about monotonous food (manna) and desire for earthly variety (herbs, cucumbers, garlic, lentils, onions) is a parable about spiritual contentment vs. material desire. The list of vegetables is strikingly mundane — the contrast between heavenly provision and onions is deliberately absurd.
+
+### Verse 62: The Universal Verse
+إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ — This is one of the Qur'an's most universalist verses: Muslims, Jews, Christians, and Sabians — all who believe in God and the Last Day and do good — receive their reward. The formula "no fear shall be upon them, neither shall they grieve" applies to all equally. This verse undermines any exclusivist reading of the Qur'an and embodies the progressive revelation principle: God's mercy is not confined to one community.
+
+Note: the Sabians (الصَّابِئِينَ) remain historically debated — Mandaeans, star-worshippers, or a broader category of monotheistic seekers. Their inclusion alongside the major Abrahamic faiths suggests the Qur'an's scope extends beyond recognized religions.
+
+### Verses 63–66: The Mount and the Sabbath
+- **v.63 "raised above you the Mount"** — وَرَفَعْنَا فَوْقَكُمُ الطُّورَ. The physical raising of the mountain over the Israelites as a sign of covenantal weight — the covenant is not abstract but has the heft of a mountain. Compare with 77:27 "firm and lofty mountains" — mountains as anchors of the Earth, here as anchors of the covenant.
+- **v.65 "Be ye apes, despised"** — كُونُوا قِرَدَةً خَاسِئِينَ. The transformation of Sabbath-breakers into apes. Read spiritually rather than literally: those who violate sacred boundaries become imitations of humanity — they have the form but not the substance. An ape mimics without understanding, just as the Sabbath-breakers went through religious motions while violating the spirit.
+
+### Verses 67–73: The Cow (البقرة)
+The surah's namesake passage. The Israelites are commanded to slaughter a cow, but keep asking for specifications — a parable about the human tendency to complicate simple divine commands.
+
+- **v.67 "Dost thou take us in mockery?"** — They think Moses is joking. The gap between divine seriousness and human incomprehension.
+- **v.68–71** Three rounds of questions: what is she? what colour? what kind? Each answer narrows the field but the point is: they should have simply obeyed. "Now thou hast come with the truth" (v.71) — as if the truth wasn't already present in the first command. The progressive specificity mirrors how human resistance to divine commands forces ever more detailed legislation.
+- **v.71 "not broken to plough"** — لَّا ذَلُولٌ. The cow is unbroken, untamed, free — a pure animal, uncorrupted by human use. مُسَلَّمَةٌ (musallamat) — "unblemished," from the root س-ل-م (s-l-m), the same root as إسلام (islām, submission/peace) and سلام (salām, peace). The unblemished cow is literally one in a state of *islām* — wholeness, peace, submission to its nature. This is the word "Islam" used by meaning, not as a label for a religion but as a quality of being: whole, complete, surrendered.
+- **v.72–73** The murder mystery resolved by striking the dead man with a part of the cow — life from death, truth from concealment. "God give life to the dead" — not just physical resurrection but the revival of truth that people tried to bury.
+
+### Verse 74: Hearts Harder than Stone
+A devastating comparison: stones are better than hardened hearts because at least some stones yield water, split open, or fall in awe. The three types of stone (gushing rivers, seeping water, falling in awe) mirror three levels of spiritual response — abundant generosity, quiet yielding, and humble submission — all of which the hardened heart refuses.
+
+### Verses 75–79: Distortion of Scripture
+- **v.75 "distort it"** — يُحَرِّفُونَهُ (yuḥarrifūnahu), from ح-ر-ف (ḥ-r-f), to alter, to turn aside, to distort. This is the Qur'anic concept of taḥrīf — the distortion of previous scriptures. Note: the Qur'an specifies they distort *after understanding* (بَعْدِ مَا عَقَلُوهُ) — the distortion is deliberate, not accidental.
+- **v.78 "save fancies"** — إِلَّا أَمَانِيَّ (illā amāniyy), from م-ن-ي (m-n-y), wishes, fancies, false hopes. The unlettered who know the Book only as wishful thinking — religion reduced to comforting fantasies rather than transformative truth.
+- **v.79** The scribes who write scripture "with their own hands" and claim divine authorship — a timeless warning against the manufacture of religious authority for profit. The triple "woe" (وَيْلٌ... فَوَيْلٌ... وَوَيْلٌ) echoes the refrain of 77:15 "Woe, that Day, to the deniers."
+
+### Verses 80–86: False Security and the Covenant
+- **v.80 "numbered days"** — أَيَّامًا مَّعْدُودَةً. The belief that punishment is finite and manageable — a spiritual complacency that reduces divine justice to a bookkeeping exercise.
+- **v.83** The covenant's content: worship God alone, kindness to parents, kindred, orphans, the destitute, good speech, prayer, alms. This is a comprehensive ethical programme, not merely ritual — the social obligations outnumber the devotional ones.
+- **v.85 "believe in part of the Book and cover over part"** — أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ. Selective belief is itself a form of covering over. This applies to every religious community that cherry-picks convenient teachings while ignoring inconvenient ones.
+
+### Verses 87–93: Progressive Revelation and Rejection
+- **v.87** The chain of revelation made explicit: Moses → messengers → Jesus. عِيسَى ابْنَ مَرْيَمَ (Jesus son of Mary) receives البَيِّنَات (the clear proofs) and is strengthened by رُوح الْقُدُسِ (the Holy Spirit). The question "Is it that whensoever a messenger cometh..." establishes the *pattern* of rejection — not a one-time event but a recurring human failure.
+- **v.88 "wrapped"** — غُلْفٌ (ghulf), from غ-ل-ف (gh-l-f), to wrap, to encase, to sheathe. They claim their hearts are wrapped/covered — ironically using the same concept as كفر (covering over). They describe their own spiritual state accurately without recognizing it as a problem.
+- **v.89** The cruel irony: they used to pray for victory *using* the promise of a coming prophet, but when that prophet came, they covered it over. The very prophecy they wielded as a weapon becomes the evidence against them.
+- **v.93 "made to drink the calf into their hearts"** — وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ. One of the Qur'an's most striking metaphors: idolatry as a liquid that is *drunk into the heart*. The calf is not merely worshipped externally but absorbed, internalized. Idolatry becomes part of one's being. This connects to v.10 "in their hearts is a sickness" — the disease is the internalized idol.
+
+### Verses 94–96: The Death Wish Challenge
+- **v.94–95** "Wish for death, if ye be truthful" / "And they shall never wish for it" — if the Hereafter is exclusively theirs, they should welcome death. Their refusal proves their doubt. This is the Qur'an's pragmatic test of sincerity.
+- **v.96 "a thousand years"** — أَلْفَ سَنَةٍ. Their clinging to life, even more than the polytheists (الَّذِينَ أَشْرَكُوا), exposes the contradiction: claiming exclusive access to paradise while fearing death more than anyone.
+
+### Verses 97–100: Gabriel, Revelation, and Broken Covenants
+- **v.97 Gabriel** — جِبْرِيل. Some objected to Gabriel as the angel of revelation (preferring Michael). The Qur'an's response: enmity toward Gabriel is enmity toward God, since Gabriel acts by God's leave (بِإِذْنِ اللَّهِ). The messenger cannot be separated from the message.
+- **v.100** The surah's recurring theme crystallized: covenant-making followed by covenant-breaking. The pattern applies beyond any one community — it is the human pattern itself.
+
+## Structural Notes (Verses 51–100)
+
+6. **Moses and the wilderness** (51–61): calf, Sinai, manna, springs, ingratitude
+7. **Universal salvation** (62): the great levelling verse
+8. **Covenant and transgression** (63–74): Mount, Sabbath, cow, hardened hearts
+9. **Scripture distortion** (75–82): taḥrīf, false scribes, false security
+10. **The greater covenant** (83–86): ethical programme and selective belief
+11. **Progressive revelation rejected** (87–93): Moses → Jesus → Muhammad, each denied
+12. **Tests of sincerity** (94–100): death wish, Gabriel, broken covenants
+
 ## Integrative Links
 
 - **v.7 sealed hearts ↔ 55:4 Expression**: God gave humanity the power of expression; those who cover over have it sealed away
