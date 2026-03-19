@@ -94,7 +94,8 @@ The entire garden section is saturated with the ج-ن-ن (concealment) root and 
 - **v.50** فِيهِمَا **عَيْنَانِ** تَجْرِيَانِ — "Therein two wellsprings flowing." عَيْنَان (ʿaynān) from root ع-ي-ن (ʿ-y-n): **spring AND eye**. The same word means both. The two "eyes/springs" in the hidden Realms are two sources of insight, two wellsprings of knowledge — flowing (تجريان, from ج-ر-ي, to run/flow). They see and they give.
 - **v.52** فِيهِمَا مِن كُلِّ فَاكِهَةٍ **زَوْجَانِ** — "Therein of every fruit, two kinds." زوجان (zawjān, two pairs/kinds). Everything in the hidden Realms comes doubled — duality within unity.
 - **v.54** مُتَّكِئِينَ عَلَىٰ فُرُشٍ **بَطَائِنُهَا** مِنْ إِسْتَبْرَقٍ وَ**جَنَى** **الْجَنَّتَيْنِ** دَانٍ — Three key roots:
-  - بَطَائِن (baṭā'in, inner linings) from the same root as بَاطِن (bāṭin, the Hidden/Esoteric — a divine name). The inner lining is of brocade: the esoteric dimension is richly woven.
+  - بَطَائِن (baṭā'in, inner linings) from the same root as بَاطِن (bāṭin, the Hidden/Esoteric — a divine name).
+  - إِسْتَبْرَق (istabraq) — conventionally treated as a Persian loanword for "brocade/thick silk." But since the Qur'an claims to be in "clear Arabic" (عربي مبين, 16:103), we can read it through Arabic roots: إِسْتَ (Form X prefix, "seeking/drawing forth") + بَرَقَ (b-r-q, to flash, to radiate — the root of بَرْق/lightning and بُرَاق). Thus إستبرق = "that which seeks to radiate," "brilliance-seeking." The inner linings (the bāṭin, the esoteric) seek to radiate — the hidden dimension shines with its own light. This transforms the verse: not luxury fabric but luminous inner truth.
   - جَنَى (janā, harvest) echoes ج-ن-ن phonetically: the harvest from what was hidden.
   - جَنَّتَيْنِ (jannatayn, two hidden realms) — ج-ن-ن explicitly.
   - دَانٍ (dānin, near) — the harvest of the hidden is nigh. What was concealed is about to be revealed.
