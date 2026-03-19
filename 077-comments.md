@@ -31,10 +31,10 @@ The surah opens with a cascade of participles, all feminine plural, describing a
 Note: this appears to be a typo for "extinguished." طُمِسَتْ (ṭumisat) means to be blotted out, obliterated. The stars losing their light is a standard Qur'anic sign of the end times (cf. 81:2 كُوِّرَتْ, "folded up").
 
 ### Verse 9: "riven asunder"
-فُرِجَتْ (furijat) — from ف-ر-ج (f-r-j), to open, to cleave, to relieve. The heaven being split open. "Riven asunder" has good KJV resonance (cf. Mark 1:10, "he saw the heavens rent asunder").
+Arabic: فُرِجَتْ (furijat) — from ف-ر-ج (f-r-j), to open, to cleave, to relieve. The heaven being split open. "Riven asunder" has good KJV resonance (cf. Mark 1:10, "he saw the heavens rent asunder").
 
 ### Verse 10: "blown away"
-نُسِفَتْ (nusifat) — from ن-س-ف (n-s-f), to blow away, to winnow, to demolish. The mountains reduced to nothing. Cf. 20:105 where the same root describes mountains being scattered as dust.
+Arabic: نُسِفَتْ (nusifat) — from ن-س-ف (n-s-f), to blow away, to winnow, to demolish. The mountains reduced to nothing. Cf. 20:105 where the same root describes mountains being scattered as dust.
 
 ### Verses 11–14: The Assembly
 - **v.11 "messengers assemble"** — أُقِّتَتْ (uqqitat) means "are appointed/timed." The messengers (الرسل, ar-rusul) are given their appointed time. This is the Day when all prophets and messengers are gathered.

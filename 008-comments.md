@@ -2,7 +2,7 @@
 
 ## The "Strike Above the Necks" Verse (v.12)
 
-إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ
+Verse: إِذْ يُوحِي رَبُّكَ إِلَى الْمَلَائِكَةِ أَنِّي مَعَكُمْ فَثَبِّتُوا الَّذِينَ آمَنُوا سَأُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ وَاضْرِبُوا مِنْهُمْ كُلَّ بَنَانٍ
 
 ### Who is speaking to whom?
 
@@ -18,7 +18,7 @@ The command is from **God to the angels** — not to human warriors. This is God
 
 ### v.17: "Ye Slew Them Not, but God Slew Them"
 
-فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ
+Verse: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ اللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ اللَّهَ رَمَىٰ
 
 This verse explicitly REMOVES the violence from human agency. "Ye slew them not, but God slew them. And thou threwest not when thou threwest, but God threw." The physical action is real, but its true agent is divine. This retroactively reframes vv.12–16: the battle is God's, enacted through angels and through human hands that are instruments of divine will.
 
@@ -26,7 +26,7 @@ This is the same ẓāhir/bāṭin principle: the apparent (humans fighting) con
 
 ### v.61: The Peace Verse
 
-وَإِن جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ
+Verse: وَإِن جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ
 
 "And if they incline to peace, then incline thou to it, and put thy trust in God."
 

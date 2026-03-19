@@ -118,7 +118,7 @@ The golden calf episode is retold twice in this surah (here and v.92–93), form
 - **v.61 "Would ye exchange that which is lesser for that which is better?"** — The complaint about monotonous food (manna) and desire for earthly variety (herbs, cucumbers, garlic, lentils, onions) is a parable about spiritual contentment vs. material desire. The list of vegetables is strikingly mundane — the contrast between heavenly provision and onions is deliberately absurd.
 
 ### Verse 62: The Universal Verse
-إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ — This is one of the Qur'an's most universalist verses: Muslims, Jews, Christians, and Sabians — all who believe in God and the Last Day and do good — receive their reward. The formula "no fear shall be upon them, neither shall they grieve" applies to all equally. This verse undermines any exclusivist reading of the Qur'an and embodies the progressive revelation principle: God's mercy is not confined to one community.
+Arabic: إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ — This is one of the Qur'an's most universalist verses: Muslims, Jews, Christians, and Sabians — all who believe in God and the Last Day and do good — receive their reward. The formula "no fear shall be upon them, neither shall they grieve" applies to all equally. This verse undermines any exclusivist reading of the Qur'an and embodies the progressive revelation principle: God's mercy is not confined to one community.
 
 Note: the Sabians (الصَّابِئِينَ) remain historically debated — Mandaeans, star-worshippers, or a broader category of monotheistic seekers. Their inclusion alongside the major Abrahamic faiths suggests the Qur'an's scope extends beyond recognized religions.
 

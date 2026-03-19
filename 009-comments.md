@@ -10,7 +10,7 @@ The surah is also called **Barā'a** (Disavowal) after its opening word. It was 
 
 ### What the verse says
 
-فَإِذَا انسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+Verse: فَإِذَا انسَلَخَ الْأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
 
 "So when the sacred months have passed, then slay those who associate wheresoever ye find them, and seize them, and besiege them, and sit in wait for them at every place of ambush. But if they repent and establish the prayer and give the alms, then let them go their way. Verily, God is Most Forgiving, Most Merciful."
 
@@ -25,7 +25,7 @@ The verse is almost always quoted from فَاقْتُلُوا ("then slay") onwa
 
 ### Verse 6: The Asylum Verse — Always Omitted
 
-وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ
+Verse: وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ
 
 "And if any of those who associate seeketh thy protection, then grant him protection, that he may hear the Word of God; then convey him to his place of safety."
 
@@ -51,7 +51,7 @@ The supposed "kill all disbelievers" reading requires ignoring v.4, the second h
 
 ## Verse 29: Fighting the People of the Book
 
-قَاتِلُوا الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلَا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ حَتَّىٰ يُعْطُوا الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ
+Verse: قَاتِلُوا الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ اللَّهُ وَرَسُولُهُ وَلَا يَدِينُونَ دِينَ الْحَقِّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ حَتَّىٰ يُعْطُوا الْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ
 
 ### Form III vs. Form I: The Crucial Distinction
 
@@ -78,7 +78,7 @@ These conditions describe a SPECIFIC subset — not Christians and Jews as such,
 
 ## Verse 32: The Light Verse
 
-يُرِيدُونَ أَن يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى اللَّهُ إِلَّا أَن يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ
+Verse: يُرِيدُونَ أَن يُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَيَأْبَى اللَّهُ إِلَّا أَن يُتِمَّ نُورَهُ وَلَوْ كَرِهَ الْكَافِرُونَ
 
 "They desire to extinguish the light of God with their mouths, but God refuseth save to perfect His light, though the coverers be averse."
 
@@ -88,7 +88,7 @@ This connects to the refusal pattern: every attempt to extinguish the Bestowal (
 
 ## Verse 36: The Twelve Months
 
-إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا — "Verily, the number of the months with God is twelve months."
+Arabic: إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا — "Verily, the number of the months with God is twelve months."
 
 This verse establishes the calendar as divinely ordained — twelve months, four sacred. The Bahá'í calendar also has nineteen months of nineteen days (plus intercalary days), totaling a full year. The principle: sacred time is measured by God, not by human convenience. The manipulation of sacred months (النسيء, an-nasī', deferral — 9:37) is condemned as a form of covering over.
 

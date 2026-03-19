@@ -2,7 +2,7 @@
 
 ## Verse 35: The Great Gender Equality Verse
 
-إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ...
+Verse: إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ...
 
 Ten paired categories of spiritual achievement, each listed for both men AND women:
 
@@ -25,7 +25,7 @@ Note: القانتات (al-qānitāt, devout women) is the same word used in 4:3
 
 ## Verse 53: The Ḥijāb Verse — Not What You Think
 
-وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِن وَرَاءِ حِجَابٍ
+Verse: وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِن وَرَاءِ حِجَابٍ
 
 "And when ye ask of them any article, ask of them from behind a curtain."
 
@@ -37,7 +37,7 @@ The word حِجَاب in the Qur'an never means a garment worn on the head. It m
 
 ## Verse 59: The Other "Veiling" Verse
 
-يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ
+Verse: يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ
 
 ### Root Analysis
 
@@ -62,7 +62,7 @@ This is confirmed by v.60, which immediately follows and threatens the **harasse
 
 ## Verse 72: The Trust
 
-إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
+Verse: إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنسَانُ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
 
 "Verily, We offered the Trust unto the heavens and the earth and the mountains, but they refused to bear it and were afraid thereof. But the human bore it — verily, he is ever unjust, ignorant."
 
@@ -74,7 +74,7 @@ This is confirmed by v.60, which immediately follows and threatens the **harasse
 
 ## Verse 40: The Seal of the Prophets
 
-مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ
+Verse: مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ
 
 "Muhammad is not the father of any of your men, but the Messenger of God and the Seal of the Prophets."
 
@@ -95,7 +95,7 @@ The standard reading collapses all this into "last prophet." The root preserves 
 
 ### Connection to 55:29
 
-كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ — "Each day He is upon some affair." If God is engaged in a new affair every day, the idea that divine communication ceased permanently with one prophet contradicts the Qur'an's own description of God's ongoing activity. The Seal authenticates the prophetic cycle; it does not seal God Himself into silence.
+Arabic: كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ — "Each day He is upon some affair." If God is engaged in a new affair every day, the idea that divine communication ceased permanently with one prophet contradicts the Qur'an's own description of God's ongoing activity. The Seal authenticates the prophetic cycle; it does not seal God Himself into silence.
 
 ## Bahá'í Interpretive Notes
 

@@ -8,7 +8,7 @@ An-Nur opens with strong legal prescriptions (adultery, slander, the incident of
 
 ### v.30 — Men First
 
-قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ
+Verse: قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ
 
 "Say unto the believing men that they lower their gaze and guard their openings."
 
@@ -49,7 +49,7 @@ Three crucial roots:
 
 ### v.60 — The Contextual Proof
 
-وَالْقَوَاعِدُ مِنَ النِّسَاءِ اللَّاتِي لَا يَرْجُونَ نِكَاحًا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَن يَضَعْنَ ثِيَابَهُنَّ
+Verse: وَالْقَوَاعِدُ مِنَ النِّسَاءِ اللَّاتِي لَا يَرْجُونَ نِكَاحًا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَن يَضَعْنَ ثِيَابَهُنَّ
 
 "And the elderly among the women who have no hope of marriage — there is no blame upon them to lay aside their garments."
 
@@ -57,7 +57,7 @@ If the covering were an absolute spiritual command (like prayer or fasting), it 
 
 ## Verse 33: No Compulsion — In Faith or Body
 
-وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ
+Verse: وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ
 
 "And compel not your young women unto prostitution."
 
@@ -67,7 +67,7 @@ If the covering were an absolute spiritual command (like prayer or fasting), it 
 
 ## Verse 35: The Light Verse (Ayat an-Nur)
 
-اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَارَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ
+Verse: اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَارَكَةٍ زَيْتُونَةٍ لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ عَلَىٰ نُورٍ
 
 ### The Structure of Light — Layer by Layer
 
