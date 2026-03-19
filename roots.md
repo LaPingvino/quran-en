@@ -174,9 +174,86 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ---
 
+## Additional Confirmed Roots
+
+### ن-س-خ (n-s-kh) — "to copy, to transcribe"
+
+**Conventional (2:106):** "abrogate" — used to argue that later verses cancel earlier ones
+**Root meaning:** to copy, to transcribe, to transfer. Abrogation is a secondary meaning.
+
+**Impact:** The "abrogation verse" (2:106) can be read as: "Whatsoever sign We *transcribe* or cause to be forgotten, We bring one better than it or the like thereof." God transcribes/copies His signs into new forms — each revelation is a new transcription of the eternal message, not the cancellation of a previous one. This aligns with the progressive revelation principle: each Dispensation is a fresh copy of the divine template, adapted for its age.
+
+---
+
+### ر-ح-م (r-ḥ-m) — "mercy AND womb"
+
+**Conventional:** رحمة = "mercy," رحم = "womb" — treated as separate concepts
+**Root meaning:** both derive from the same root — mercy IS womb, the place of nurture, gestation, protection
+
+**Impact:** God's primary self-identification (الرحمن الرحيم, the All-Merciful, the Most Merciful) is rooted in the womb. Divine mercy is maternal, gestational, nurturing. Surah 19 (Maryam) has 16 occurrences of الرحمن — Mary's surah is drenched in womb-mercy. The Basmala that opens every surah (except 9) invokes the womb-root twice. And 1:1 instructs: "be mindful of God... and of the wombs (الأرحام)" — God and wombs in the same command, because they share the root of mercy.
+
+**Key verses:** Every Basmala, 1:1, 19:passim, 55:1 (the All-Merciful as first word).
+
+---
+
+### و-ل-ي (w-l-y) — "guardian, protector" (NOT "friend")
+
+**Conventional (5:51):** "Take not the Jews and Christians as friends"
+**Root meaning:** to be near, to be a guardian, to have authority, to protect
+
+**Impact:** أَوْلِيَاء (awliyā') means guardians, protectors, those with authority over you — not friends. The verse forbids taking non-believers as *legal guardians or political protectors* in a specific wartime context, not as friends. The root gives us وَلِيّ (walī, guardian/saint), مَوْلَى (mawlā, master/patron), and وِلَايَة (wilāya, authority/guardianship). Friendship is صَدَاقَة (ṣadāqa) from a completely different root (ص-د-ق, truth). The mistranslation "friends" has caused immeasurable interfaith damage.
+
+**Key verses:** 5:51 (guardians, not friends), 2:257 (God is the walī of the believers), 4:45 (God as walī and helper).
+
+---
+
+### ح-م-د (ḥ-m-d) — "to praise, to commend"
+
+**Conventional:** محمد = "Muhammad" (a name), أحمد = "Ahmad" (another name)
+**Root meaning:** to praise, to commend, to be praiseworthy
+
+**Impact:** Muhammad, Ahmad, Mahmud are all the same root — different forms of "the praised one." In 61:6, Jesus prophesies a messenger "whose name is Ahmad" — this is not merely a proper name but "the most praiseworthy," allowing it to point beyond a single individual. The root connects the Prophet's name to الحمد (al-ḥamd, praise) in 1:2 (الحمد لله, "Praise be to God") — the Qur'an's second word after the Basmala shares the Prophet's own root.
+
+**Key verses:** 1:2, 61:6 (Ahmad prophecy), 33:40 (Muhammad as Seal), 17:79 (مقاما محمودا, "a praised station").
+
+---
+
+### ك-ن-ن (k-n-n) — "to conceal, to treasure"
+
+**Conventional:** مكنون = "well-guarded" (of a book or pearls)
+**Root meaning:** to conceal, to treasure, to protect within
+
+**Impact:** In 56:77–78, the Qur'an is called "a noble Recitation in a hidden Book" (كتاب مكنون). The root ك-ن-ن parallels ج-ن-ن (concealment) — the Recitation itself is concealed within a treasured Book. This second concealment root reinforces the j-n-n saturation of Surah 55: the hidden dimension has multiple layers of concealment, each with its own root. What is مكنون is doubly hidden — concealed AND treasured.
+
+**Key verses:** 56:78 (hidden Book), 52:24 (pearls hidden/treasured), 37:49 (eggs hidden/treasured).
+
+---
+
+### ظ-ه-ر / ب-ط-ن (ẓ-h-r / b-ṭ-n) — "manifest / hidden"
+
+**Conventional:** treated as opposites
+**Root meaning:** two aspects of every reality — the apparent and the concealed
+
+**Impact:** 57:3 is the locus classicus: "He is the First and the Last, the Manifest (الظاهر) and the Hidden (الباطن)." God Himself encompasses both dimensions. This verse provides the Qur'anic foundation for the entire root-recovery method: every verse has a ẓāhir (what it appears to say) and a bāṭin (what it says at the root level). The four divine names in 57:3 — First, Last, Manifest, Hidden — map onto progressive revelation: God is the First (origin), the Last (destination), the Manifest (in each Manifestation), and the Hidden (in essence, always).
+
+**Key verses:** 57:3, 55:54 (بطائن/inner linings from the same root), 18:60–82 (the entire Khiḍr passage as ẓāhir/bāṭin drama).
+
+---
+
+### ق-ر-أ (q-r-') — "to recite, to read"
+
+**Conventional:** القرآن = "the Quran" (a proper name)
+**Root meaning:** to recite, to read aloud, to gather
+
+**Impact:** Translating القرآن as "the Recitation" (as in 55:2) recovers the word's meaning. It is not a static book title but an active process — the act of reciting, of reading aloud, of gathering meaning through speech. The very first word revealed was اقرأ (iqra', "Recite!" — 96:1), from the same root. The Book is named after what you DO with it, not what it IS. And 55:1–2 places the teaching of the Recitation as God's first act after identifying Himself as the All-Merciful — mercy teaches recitation, recitation awakens the human (55:3), the awakened human receives expression (55:4).
+
+**Key verses:** 96:1 (the first revelation — "Recite!"), 55:2 (taught the Recitation), 56:77 (a noble Recitation), 2:185 (Ramadan in which the Recitation was sent down).
+
+---
+
 ## Roots Still Under Investigation
 
 - **م-ر-ج (m-r-j)** — 55:15/55:19: "current" (of fire) and "pastures" (of the seas). The diacritical dot correction that revealed the "current" reading for the jinn's creation. Connects jinn to energy, electricity, invisible currents.
-- **ن-و-ر / ن-ا-ر (n-w-r / n-a-r)** — light and fire share a root with a vowel shift. The same source illuminates and burns. 24:35 (Light Verse) and 55:15 (current of fire) as two faces of the same reality.
-- **أ-م-ن ('-m-n)** — faith (إيمان), safety (أمان), trust (أمانة), trustworthy (أمين) — all one root. The Trust that humanity bore (33:72) IS faith IS the capacity to create safety.
+- **ن-و-ر / ن-ا-ر (n-w-r / n-a-r)** — light and fire share a root with a vowel shift. The same source illuminates and burns. 24:35 (Light Verse) and 55:15 (current of fire) as two faces of the same reality. 36:80 "from the green tree, fire" connects kh-ḍ-r (fresh/green) to n-a-r (fire) — freshness becoming energy.
 - **د-ن-و (d-n-w)** — nearness. 55:54 (harvest of the hidden Realms is *nigh*) and 33:59 (draw garments *close*) share a root. Proximity as both spiritual and physical act.
+- **ر-ي-ن (r-y-n)** — 83:14 "rusted" (rāna) — sin as rust on the heart, another kind of covering parallel to ك-ف-ر. The heart can be covered (kafara) or rusted (rāna) — both obscure the inner light.
