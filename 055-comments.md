@@ -49,7 +49,13 @@ The opening four verses encode the entire movement from God to human flourishing
 
 The movement is FROM God TOWARD humanity: divine nature → divine speech → human creation → human speech. The human sits at the center (v.3), between divine Recitation (v.2) and human Expression (v.4). Creation is not the end point but the hinge — God made humans not merely to exist but to *express*, to create into infinity (cf. 18:109, "if the sea were ink for the words of my Lord, the sea would be spent").
 
-The Bahá'í dispensational parallel: البيان (al-Bayán, Expression) is also the title of the Báb's central book. The Báb's dispensation corresponds to القرآن (the Recitation — God speaking, pure divine law made strict); Bahá'u'lláh's dispensation corresponds to البيان (the Expression — humanity empowered with free will to flourish and create). The Báb brings the God-centered religion as people imagine it; Bahá'u'lláh brings the human-centered religion that accounts for creation and free will. Both are taught by الرحمن (the All-Merciful) — mercy as the motive force behind both strict law and liberating expression.
+The Bahá'í dispensational parallel maps precisely onto these four verses:
+1. **الرحمن** = God, the Source of all dispensations
+2. **علم القرآن** = the Qur'anic cycle (Adam through Muhammad — God speaks, humanity receives, religion is the Recitation of divine law)
+3. **خلق الإنسان** = **the Báb** — the pivot, the Gate (باب). The Báb sits between the Qur'anic and Bahá'í cycles as the creation of the new human. His title means "the Gate" — the passage between two ages. The old cycle of reception ends; the new cycle of expression begins. The Báb IS the hinge: he brings the seeds of the new grown-up society while completing the God-centered religion.
+4. **علمه البيان** = the Bahá'í cycle (Bahá'u'lláh onward — humanity empowered to express, create, and flourish with free will). البيان (al-Bayán) is both "Expression" and the title of the Báb's central book — the word itself bridges the two cycles.
+
+The Qur'an (v.2) is the religion up to and including Islam; the Bayán (v.4) brings the seeds of the mature society. The Báb (v.3) is the pivot between them — not merely a transition but a new creation. All are taught by الرحمن (the All-Merciful, v.1) — mercy as the motive force behind both strict divine law and liberating human expression.
 
 This same arc mirrors the Qur'an's own structure: it opens with بِسْمِ اللَّهِ (God's Name, 1:1) and closes with وَالنَّاسِ (and humanity, 114:6). From God to human flourishing — the entire Book enacts what 55:1–4 encodes in four verses.
 
