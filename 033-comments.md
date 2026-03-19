@@ -72,6 +72,37 @@ This is confirmed by v.60, which immediately follows and threatens the **harasse
 
 - Humanity bore it, though unjust (ظَلُوم, ẓalūm) and ignorant (جَهُول, jahūl). The intensive forms suggest persistent injustice and persistent ignorance. Yet humanity alone bore the Trust — the very qualities that make us fail (injustice, ignorance) are inseparable from the capacity that makes us unique (bearing the Trust of faith).
 
+## Verse 40: The Seal of the Prophets
+
+مَّا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ
+
+"Muhammad is not the father of any of your men, but the Messenger of God and the Seal of the Prophets."
+
+### Root Analysis: خَاتَم (khātam)
+
+Root خ-ت-م (kh-t-m): to seal, to stamp, to conclude, to authenticate. The root carries TWO meanings simultaneously:
+
+1. **To close/conclude** — a seal closes a letter or document
+2. **To authenticate/validate** — a seal PROVES the document is genuine
+
+A king's seal on a decree does not mean "no more decrees will ever be issued." It means "this decree is authenticated by the king's authority." خاتم النبيين can mean both "the last of the prophets" AND "the one who authenticates/validates all the prophets."
+
+Bahá'u'lláh in the Kitáb-i-Íqán interprets this verse through the authentication meaning: Muhammad's revelation is the seal that validates the entire prophetic cycle from Adam onward. He also distinguishes between نَبِيّ (nabiyy, prophet — one who brings news of God, root ن-ب-أ, to inform) and رَسُول (rasūl, messenger — one who is sent with a mission, root ر-س-ل, to send). Muhammad is the Seal of the النَّبِيِّينَ (nabiyyīn, prophets), but the verse itself calls him رَسُول اللَّهِ (rasūl Allāh, Messenger of God) — the door of رِسَالَة (risāla, messengership) is not the same as the door of نُبُوَّة (nubuwwa, prophethood).
+
+Additionally, خاتم can also mean "ornament" or "ring" — the finest adornment. Muhammad as the choicest ornament of the prophetic line.
+
+The standard reading collapses all this into "last prophet." The root preserves the full range: authenticator, ornament, seal of completion. These need not be mutually exclusive — but the authentication meaning is the one most consistent with the Qur'an's own progressive revelation framework (2:41, 2:87, 2:91 — each Book "confirming what is with you").
+
+### Connection to 55:29
+
+كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ — "Each day He is upon some affair." If God is engaged in a new affair every day, the idea that divine communication ceased permanently with one prophet contradicts the Qur'an's own description of God's ongoing activity. The Seal authenticates the prophetic cycle; it does not seal God Himself into silence.
+
+## Bahá'í Interpretive Notes
+
+- **v.35 (gender equality)**: The ten paired categories embody the Bahá'í principle of the equality of men and women — one of Bahá'u'lláh's core social teachings. The Qur'an already teaches it here; the Bahá'í revelation makes it explicit law.
+- **v.40 (Seal)**: Central to the Kitáb-i-Íqán's argument. The kh-t-m root analysis is the key to understanding how progressive revelation continues beyond Muhammad.
+- **v.72 (the Trust)**: The Trust (أمانة, amāna) that humanity bore connects to the '-m-n root: faith (إيمان), safety (أمان), trustworthiness (أمين). In Bahá'í reading, bearing the Trust = the unique human capacity to know and reflect God — the same capacity that makes the Covenant (and covenant-breaking, the subject of Surah 9) possible.
+
 ## Integrative Links
 
 - **v.35 gender equality ↔ 4:34 قانتات**: the same word for "devout" appears in both — 33:35 proves it means spiritual devotion for all, not wifely obedience
