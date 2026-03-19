@@ -11,7 +11,16 @@ The surah moves through a grand arc: creation and teaching (1–4), cosmic order
 ### "Bestowals" for آلاء (ālā')
 The Arabic آلاء (singular: إلي ilā or ألو uluww) denotes favors, blessings, or bounties. "Bestowal" was chosen to emphasize the active giving — God as bestower rather than passive blessing. This also preserves the nominal form matching the Arabic.
 
-**Sound pun: آلاء (ālā') and علي (ʿAlí).** The phonetic proximity is striking in recitation. The refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ rings with the sound of Alí throughout. In a Bahá'í reading, this resonance — the Bestowals of the Lord echoing the name of the Báb's first disciple and son-in-law of the Prophet — adds a layer of meaning. This may also connect to the "two Manifestations" (maqāmayn) in verse 46.
+**Sound pun: آلاء (ālā') and علي (ʿAlí).** The phonetic proximity is striking in recitation. The refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ rings with the sound of Alí throughout — "which of the Bestowals of thy Lord will ye contradict?" echoes "which Alí will ye contradict?"
+
+The name ʿAlí runs through the entire chain of revelation in remarkable ways:
+- **ʿAlí ibn Abí Ṭálib**, the son-in-law of the Prophet, whose claim to succession was contradicted — the original Sunni/Shia split
+- **The Báb** (Siyyid ʿAlí-Muḥammad), Herald of the Bahá'í Faith, whose claim was contradicted and who was martyred
+- **Bahá'u'lláh** (Mírzá Ḥusayn-ʿAlí), who bore the name ʿAlí and whose claim was likewise contradicted
+
+Bahá'u'lláh in the Tablet to Aḥmad specifically identifies the Báb as "ʿAlí" — not merely by birth name but as the return of the spiritual reality of ʿAlí. The refrain thus encodes a recurring pattern across religious history: God sends His Bestowals (ālā'), which are embodied in the station of ʿAlí (the Exalted One), and each time humanity contradicts (tukadhdhibān) them. The dual form of the verb — addressing both spectres and men — suggests this pattern operates on both the unseen and visible planes.
+
+This connects to the "two Manifestations" (maqāmayn) in verse 46: the Twin Manifestations of the Báb and Bahá'u'lláh, both bearing the name ʿAlí, both contradicted.
 
 ### "contradict" for تُكَذِّبَانِ (tukadhdhibān)
 Most translations use "deny." The root ك-ذ-ب (k-dh-b) fundamentally means to lie, to declare false, to contradict. "Contradict" captures the active opposition better than "deny" — one does not merely ignore the Bestowals, one actively gainsays them.
