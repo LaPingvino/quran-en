@@ -6,7 +6,7 @@ Al-Imran is the Qur'an's most sustained Christological surah, tracing the lineag
 
 ## Key Root Findings
 
-### س-ل-م (s-l-m) — "surrender" saturating the surah
+### Root س-ل-م (s-l-m) — "surrender" saturating the surah
 
 The root pervades Al-Imran as its theological spine:
 - Verse 19: "the religion with God is surrender" (الدين عند الله الإسلام) — not "Islam" as a label but surrender as a universal quality.
@@ -20,11 +20,11 @@ The root pervades Al-Imran as its theological spine:
 
 The sheer density of this root in a single surah makes Al-Imran the Qur'an's primary text on surrender as universal principle.
 
-### ح-و-ر (ḥ-w-r) — The Devoted (v.52)
+### Root ح-و-ر (ḥ-w-r) — The Devoted (v.52)
 
 Verse 52: "The Devoted (الحواريون, al-ḥawāriyyūn) said: 'We are the helpers of God.'" The root ح-و-ر means to return, to whiten, to be pure. This is the same root as حُور (ḥūr) in 55:72 — the "Devoted" of the hidden Realms. The disciples of Jesus and the paradisiacal beings are linguistically the same community: the devoted returners. Standard translations obscure this by rendering one as "disciples" and the other as "houris." The translation "the Devoted" recovers the connection.
 
-### ك-ف-ر (k-f-r) — "covering over" as active verb
+### Root ك-ف-ر (k-f-r) — "covering over" as active verb
 
 Al-Imran uses this root with remarkable grammatical variety:
 - Verse 70: "why do ye cover over the signs of God" — active, deliberate concealment.
@@ -35,7 +35,7 @@ Al-Imran uses this root with remarkable grammatical variety:
 
 The variety demonstrates that k-f-r describes an action (covering truth), not an identity (infidel).
 
-### ق-و-م (q-w-m) — "standing/rising" through the surah
+### Root ق-و-م (q-w-m) — "standing/rising" through the surah
 
 - Verse 18: "upholding justice" (قائماً بالقسط) — God's own attribute.
 - Verse 39: "as he stood praying" (قائم يصلي) — Zachariah's posture mirrors God's attribute.
@@ -43,7 +43,7 @@ The variety demonstrates that k-f-r describes an action (covering truth), not an
 - Verse 104: "let there be from you a community (أمة) who call unto the good" — the believers are called to stand up collectively.
 - Verse 110: "the best community raised up (أخرجت) for the people" — the upright community that embodies the root's meaning.
 
-### ش-ب-ه (sh-b-h) — Ambiguity in verse 7
+### Root ش-ب-ه (sh-b-h) — Ambiguity in verse 7
 
 Verse 7 introduces the concept of مُتَشَابِه (mutashābih) — the "allegorical" or "ambiguous" verses — from the same root as شُبِّهَ in 4:157. The root ش-ب-ه (to resemble, to be ambiguous) thus frames the entire Qur'anic hermeneutic: some verses are مُحْكَم (firm, clear) and some are مُتَشَابِه (resembling each other, ambiguous). Those "in whose hearts is a deviation" chase the ambiguous, seeking discord. This verse is the Qur'an's own instruction on how to read it — and the same root that describes the ambiguity of the crucifixion event in 4:157.
 

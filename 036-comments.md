@@ -6,7 +6,7 @@ Ya-Sin is called "the heart of the Qur'an" in the hadith tradition, and its stru
 
 ## Key Root Findings
 
-### ح-ي-ي (ḥ-y-y) — Life and Spiritual Awakening (v.12, v.33, v.70)
+### Root ح-ي-ي (ḥ-y-y) — Life and Spiritual Awakening (v.12, v.33, v.70)
 
 The root ح-ي-ي (to live, to give life) threads through the surah as its core argument:
 - Verse 12: "We give life to the dead" (نحن نحيي الموتى) — stated as present-tense divine activity, not merely eschatological promise.
@@ -16,19 +16,19 @@ The root ح-ي-ي (to live, to give life) threads through the surah as its core 
 
 The surah's claim is that resurrection is not future but continuous: God gives life to dead earth now, will give life to dead bones later, and gives spiritual life to the heedless through the Recitation.
 
-### ز-و-ج (z-w-j) — Pairs (v.36)
+### Root ز-و-ج (z-w-j) — Pairs (v.36)
 
 Verse 36: "Glory be to Him who created all the pairs (الأزواج), of what the earth groweth and of themselves and of what they know not." The root ز-و-ج (to pair, to join, to couple) extends beyond biological sex to cosmic duality: earth-pairs, human-pairs, and pairs "of what they know not." This last phrase opens the concept beyond anything observable. The unknown pairs may include the ẓāhir/bāṭin duality itself — the apparent and the hidden as a cosmic pair. This connects to 55's dual structure (two gardens, two springs, two fruits) as an expression of the pairing principle.
 
-### خ-ت-م (kh-t-m) — Sealing (v.65)
+### Root خ-ت-م (kh-t-m) — Sealing (v.65)
 
 Verse 65: "This day We shall seal their mouths" (نختم على أفواههم). The root خ-ت-م (to seal, to stamp, to conclude) is the same root as in 33:40 ("Seal of the Prophets"). Here the seal is upon the mouths of sinners — their speech is closed, and their hands and feet become witnesses instead. The seal both closes and authenticates: the sealed mouth cannot lie, and the hands' testimony is authenticated by the seal. This dual function of sealing mirrors the debate on 33:40.
 
-### ش-ع-ر (sh-ʿ-r) — Poetry Denied (v.69)
+### Root ش-ع-ر (sh-ʿ-r) — Poetry Denied (v.69)
 
 Verse 69: "We have not taught him poetry (الشعر), nor doth it befit him." The root ش-ع-ر means to perceive, to feel, to know — poetry is literally "perception-craft." The Qur'an distinguishes itself from poetry: it is ذكر (dhikr, remembrance) and قرآن مبين (clear Recitation). The denial is not anti-aesthetic but categorical: the Recitation's source is divine, not the poet's imaginative perception. This is a classification claim, not a value judgment on poetry.
 
-### ك-ن-ن / ك-و-ن (k-w-n) — "Be!" (v.82)
+### Root ك-ن-ن / ك-و-ن (k-w-n) — "Be!" (v.82)
 
 Verse 82: "His command, when He willeth a thing, is but to say unto it: 'Be!' and it is" (كن فيكون). The root ك-و-ن (to be, to exist, to come into being) is the most fundamental verb in Arabic. The creative command compresses all causation into a single syllable. This formula appears also in 3:47 (Jesus's birth), 19:35, and 2:117 — always in the context of creation ex nihilo. The universe is speech before it is matter.
 

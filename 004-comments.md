@@ -10,27 +10,27 @@ Verse: الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاء
 
 ### Root Analysis — Every Key Word
 
-- **الرجال** (ar-rijāl) — root ر-ج-ل (r-j-l): men, but literally "those who walk on foot," the earthbound, the practically grounded. Compare with رِجْل (rijl, foot/leg). The word carries a sense of practical, earthly engagement.
+- ** The term الرجال** (ar-rijāl) — root ر-ج-ل (r-j-l): men, but literally "those who walk on foot," the earthbound, the practically grounded. Compare with رِجْل (rijl, foot/leg). The word carries a sense of practical, earthly engagement.
 
-- **النساء** (an-nisā') — root ن-س-أ (n-s-') or ن-س-ي (n-s-y): women. If from n-s-': to delay, defer, postpone (cf. النسيئة, an-nasī'a, deferment — the same root in 9:37 about deferring sacred months). If from n-s-y: to forget, to be overlooked. Either way, the word carries the sense of "the deferred ones" or "the overlooked" — not a neutral descriptor but one encoding the social reality of women being postponed and sidelined. The Qur'an uses this very word while legislating their rights — the name itself is the diagnosis.
+- ** The term النساء** (an-nisā') — root ن-س-أ (n-s-') or ن-س-ي (n-s-y): women. If from n-s-': to delay, defer, postpone (cf. النسيئة, an-nasī'a, deferment — the same root in 9:37 about deferring sacred months). If from n-s-y: to forget, to be overlooked. Either way, the word carries the sense of "the deferred ones" or "the overlooked" — not a neutral descriptor but one encoding the social reality of women being postponed and sidelined. The Qur'an uses this very word while legislating their rights — the name itself is the diagnosis.
 
-- **قوامون** (qawwāmūn) — root ق-و-م (q-w-m): to stand, rise up, establish, maintain. The intensive form (فعّال) means persistent upholders, sustainers, those who keep things standing. Not "rulers over" but "those who stand up for." The same root gives us قيامة (qiyāma, resurrection — the great standing up) and إقامة (iqāma, establishing prayer). Men as upholders means they bear the responsibility of sustaining, not the privilege of commanding.
+- ** The term قوامون** (qawwāmūn) — root ق-و-م (q-w-m): to stand, rise up, establish, maintain. The intensive form (فعّال) means persistent upholders, sustainers, those who keep things standing. Not "rulers over" but "those who stand up for." The same root gives us قيامة (qiyāma, resurrection — the great standing up) and إقامة (iqāma, establishing prayer). Men as upholders means they bear the responsibility of sustaining, not the privilege of commanding.
 
-- **الصالحات** (aṣ-ṣāliḥāt) — root ص-ل-ح (ṣ-l-ḥ): righteous, wholesome, functioning properly. The same root as إصلاح (iṣlāḥ, reform/reconciliation — v.35 uses this exact word for what the arbiters should seek).
+- ** The term الصالحات** (aṣ-ṣāliḥāt) — root ص-ل-ح (ṣ-l-ḥ): righteous, wholesome, functioning properly. The same root as إصلاح (iṣlāḥ, reform/reconciliation — v.35 uses this exact word for what the arbiters should seek).
 
-- **قانتات** (qānitāt) — root ق-ن-ت (q-n-t): devoutly obedient, standing in prayer, devoted. Used of both men and women elsewhere in the Qur'an (33:35 lists القانتين والقانتات together). Not gendered submission but shared spiritual devotion.
+- ** The term قانتات** (qānitāt) — root ق-ن-ت (q-n-t): devoutly obedient, standing in prayer, devoted. Used of both men and women elsewhere in the Qur'an (33:35 lists القانتين والقانتات together). Not gendered submission but shared spiritual devotion.
 
-- **حافظات للغيب** (ḥāfiẓāt lil-ghayb) — "guarding the unseen." The غَيْب (ghayb) is the same word as in 2:3 where believers "believe in the unseen." Standard reading: they guard their chastity in the husband's absence. Root reading: they guard the invisible, the spiritual dimension — the hidden realm (the same j-n-n concealment as janna/jinn). The righteous women are guardians of the unseen reality.
+- ** The term حافظات للغيب** (ḥāfiẓāt lil-ghayb) — "guarding the unseen." The غَيْب (ghayb) is the same word as in 2:3 where believers "believe in the unseen." Standard reading: they guard their chastity in the husband's absence. Root reading: they guard the invisible, the spiritual dimension — the hidden realm (the same j-n-n concealment as janna/jinn). The righteous women are guardians of the unseen reality.
 
-- **نشوز** (nushūz) — root ن-ش-ز (n-sh-z): to rise up, to swell, to become elevated. Used positively in 58:11 (إذا قيل انشزوا فانشزوا — "when it is said rise up, then rise up"). "Rising up" rather than "disobedience" or "rebellion." The word describes elevation — whether that elevation is appropriate or disruptive depends on context.
+- ** The term نشوز** (nushūz) — root ن-ش-ز (n-sh-z): to rise up, to swell, to become elevated. Used positively in 58:11 (إذا قيل انشزوا فانشزوا — "when it is said rise up, then rise up"). "Rising up" rather than "disobedience" or "rebellion." The word describes elevation — whether that elevation is appropriate or disruptive depends on context.
 
-- **فعظوهن** (fa-ʿiẓūhunna) — root و-ع-ظ (w-ʿ-ẓ): to counsel, admonish, remind. The same root as موعظة (mawʿiẓa), the sermon, the wise counsel. Step 1: words of guidance.
+- ** The term فعظوهن** (fa-ʿiẓūhunna) — root و-ع-ظ (w-ʿ-ẓ): to counsel, admonish, remind. The same root as موعظة (mawʿiẓa), the sermon, the wise counsel. Step 1: words of guidance.
 
-- **واهجروهن في المضاجع** (wa-uhjurūhunna fī l-maḍājiʿ) — root ه-ج-ر (h-j-r): to emigrate, to forsake, to depart. This is the root of هِجْرَة (hijra) — the Prophet's emigration from Mecca to Medina, the defining act of the early Muslim community. "Emigrate from them in the beds" is not merely "sleep separately" but carries the weight of hijra — a spiritual departure, a principled withdrawal. المضاجع (al-maḍājiʿ), root ض-ج-ع (ḍ-j-ʿ), the places of lying down. Step 2: principled withdrawal from intimacy.
+- ** The term واهجروهن في المضاجع** (wa-uhjurūhunna fī l-maḍājiʿ) — root ه-ج-ر (h-j-r): to emigrate, to forsake, to depart. This is the root of هِجْرَة (hijra) — the Prophet's emigration from Mecca to Medina, the defining act of the early Muslim community. "Emigrate from them in the beds" is not merely "sleep separately" but carries the weight of hijra — a spiritual departure, a principled withdrawal. المضاجع (al-maḍājiʿ), root ض-ج-ع (ḍ-j-ʿ), the places of lying down. Step 2: principled withdrawal from intimacy.
 
-- **واضربوهن** (wa-ḍribūhunna) — root ض-ر-ب (ḍ-r-b): to strike, but also to set forth (ضرب مثلا, "strike a parable" — used dozens of times in the Qur'an), to travel (ضرب في الأرض, "travel in the land" — 4:101), to separate, to put forth, to coin. "Set them apart" follows the escalation: counsel → emigrate from the bed → separate entirely. The progression is increasing *distance*, not increasing *violence*. Each step creates more space. This reading is supported by the next verse (v.35) which immediately prescribes sending *arbiters* from both families — mediation, not punishment.
+- ** The term واضربوهن** (wa-ḍribūhunna) — root ض-ر-ب (ḍ-r-b): to strike, but also to set forth (ضرب مثلا, "strike a parable" — used dozens of times in the Qur'an), to travel (ضرب في الأرض, "travel in the land" — 4:101), to separate, to put forth, to coin. "Set them apart" follows the escalation: counsel → emigrate from the bed → separate entirely. The progression is increasing *distance*, not increasing *violence*. Each step creates more space. This reading is supported by the next verse (v.35) which immediately prescribes sending *arbiters* from both families — mediation, not punishment.
 
-- **علياً كبيراً** (ʿaliyyan kabīrā) — the verse ends by invoking God as "Most High (ʿAlī), Most Great." The name ʿAlī appears here as a divine attribute — the same name that echoes throughout Surah 55's refrain. God is the ʿAlī — the truly exalted one — not the human male who might misuse this verse to claim authority.
+- ** The term علياً كبيراً** (ʿaliyyan kabīrā) — the verse ends by invoking God as "Most High (ʿAlī), Most Great." The name ʿAlī appears here as a divine attribute — the same name that echoes throughout Surah 55's refrain. God is the ʿAlī — the truly exalted one — not the human male who might misuse this verse to claim authority.
 
 ### The Spiritual Reading
 
@@ -97,7 +97,7 @@ Arabic: شُبِّهَ (shubbiha) — Form II passive of ش-ب-ه (sh-b-h): to r
 
 The substitution theology (that another person was made to look like Jesus and crucified in his place) **requires adding a subject that the grammar does not provide**. The Arabic leaves the شُبِّهَ entirely open: what was made ambiguous? The event itself. Their perception. The nature of what happened on the cross.
 
-### يَقِينًا — The Keyword Everyone Misses
+### Root يَقِينًا — The Keyword Everyone Misses
 
 Arabic: وَمَا قَتَلُوهُ **يَقِينًا** — "and they slew him not **with certainty**."
 
@@ -142,7 +142,7 @@ Arabic: بَل رَّفَعَهُ اللَّهُ إِلَيْهِ — "Nay, God 
 "There is none of the People of the Book but shall believe in him before his death." The pronoun "his" is ambiguous — before whose death? Jesus' or each individual's? Both readings are supported. In the Bahá'í reading, this points to the return of the Christ-spirit in a new Manifestation — all People of the Book will eventually recognize him.
 
 ### Integrative Links
-- **شُبِّهَ (made ambiguous) ↔ 55:54 بَطَائِن (inner linings/the hidden)**: the ẓāhir/bāṭin principle — appearance differs from reality
-- **يَقِين (certainty) ↔ 2:4 يُوقِنُونَ (believe firmly in the Hereafter)**: certainty as the highest knowledge, which the crucifixion-boasters lack
-- **رَفَعَ (raised) ↔ 55:7 رَفَعَهَا (raised the heaven)**: divine raising as the transformative act
+- ** The term شُبِّهَ (made ambiguous) ↔ 55:54 بَطَائِن (inner linings/the hidden)**: the ẓāhir/bāṭin principle — appearance differs from reality
+- ** The term يَقِين (certainty) ↔ 2:4 يُوقِنُونَ (believe firmly in the Hereafter)**: certainty as the highest knowledge, which the crucifixion-boasters lack
+- ** The term رَفَعَ (raised) ↔ 55:7 رَفَعَهَا (raised the heaven)**: divine raising as the transformative act
 - **The refusal pattern**: those who boast of killing Jesus are the ultimate contradictors — they claim to have destroyed God's Bestowal, which is precisely what Surah 55's refrain asks: "which of thy Lord's Bestowals will ye contradict?"

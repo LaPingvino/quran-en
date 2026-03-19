@@ -6,13 +6,13 @@ Al-Ma'idah is traditionally considered one of the last surahs revealed, and it r
 
 ## Key Root Findings
 
-### و-ل-ي (w-l-y) — "guardian" not "friend" (v.51)
+### Root و-ل-ي (w-l-y) — "guardian" not "friend" (v.51)
 
 Verse 51: "Take not the Jews and the Christians as guardians (أولياء, awliyā')." The root و-ل-ي means to be near, to have authority, to govern, to protect. The word أولياء is the plural of ولي (walī) — patron, guardian, protector, one with authority. Standard translations often render this as "friends," which has fueled the reading that Muslims should not befriend Jews or Christians. But ولي is a political-juridical term: it describes a patron-client relationship, not personal friendship. The Qur'an elsewhere commands good treatment of all people (60:8) and permits marriage with People of the Book (5:5). The prohibition is against placing one's political loyalty and governance under non-Muslim authority, not against human friendship.
 
 The same root gives us: ولاية (walāya, guardianship/authority), والي (wālī, governor), مولى (mawlā, master/patron), and — critically — ولي الله (walī Allāh, the friend/saint of God). The word carries too much juridical weight to be reduced to "friend."
 
-### ح-و-ر (ḥ-w-r) — The Devoted and the Table (vv.111–115)
+### Root ح-و-ر (ḥ-w-r) — The Devoted and the Table (vv.111–115)
 
 Verses 111–112: "And when I inspired the Devoted (الحواريين): 'Believe in Me and in My messenger.' ... When the Devoted said: 'O Jesus son of Mary, is thy Lord able to send down upon us a table from the heaven?'"
 
@@ -20,7 +20,7 @@ The Devoted (ḥawāriyyūn) reappear here in their most dramatic scene. The roo
 
 The Table itself becomes a test: "whoso covereth over after that among you — verily I shall chastise him with a chastisement wherewith I chastise not anyone in all the worlds" (v.115). Knowledge received creates greater accountability.
 
-### ك-ف-ر (k-f-r) — Covering-over and Christology (vv.17, 72–73)
+### Root ك-ف-ر (k-f-r) — Covering-over and Christology (vv.17, 72–73)
 
 The surah uses k-f-r specifically to describe those who equate Jesus with God:
 - Verse 17: "They have indeed covered over who said: 'Verily, God is the Messiah, son of Mary.'"
@@ -29,7 +29,7 @@ The surah uses k-f-r specifically to describe those who equate Jesus with God:
 
 In each case, the "covering" is theological: claiming divinity for Jesus covers over the reality of God's transcendence. This is not about denying Jesus but about confusing the Manifestation with the Source.
 
-### ش-ر-ع (sh-r-ʿ) — Law and Way (v.48)
+### Root ش-ر-ع (sh-r-ʿ) — Law and Way (v.48)
 
 Verse 48: "For each of you We have made a law and a way" (شرعة ومنهاجا, shirʿatan wa minhājan). The root ش-ر-ع means to open, to begin, to prescribe a path — hence شريعة (sharīʿa, sacred law). The word منهاج (minhāj, way/method, root ن-ه-ج, to be clear/open) describes an open road. Each community has both: a specific law (sharīʿa) and an open way (minhāj). This is the Qur'an's strongest pluralist statement — diversity of law and practice is divinely intended: "Had God willed, He would have made you one community, but that He might try you in what He hath given you."
 

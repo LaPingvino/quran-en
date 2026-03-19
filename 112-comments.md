@@ -7,17 +7,17 @@ Four verses said to equal one-third of the Qur'an in weight. The entire theology
 ## Root Analysis
 
 ### v.1: قُلْ هُوَ اللَّهُ أَحَدٌ
-- **أَحَد** (aḥad) — root و-ح-د (w-ḥ-d): one, unique, singular. Not merely the number one (واحد, wāḥid) but أحد — the absolutely unique, the one beyond comparison. The distinction matters: واحد = first in a series; أحد = the only one, with no series possible.
+- The term **أَحَد** (aḥad) — root و-ح-د (w-ḥ-d): one, unique, singular. Not merely the number one (واحد, wāḥid) but أحد — the absolutely unique, the one beyond comparison. The distinction matters: واحد = first in a series; أحد = the only one, with no series possible.
 
 ### v.2: اللَّهُ الصَّمَدُ
-- **الصمد** (aṣ-Ṣamad) — root ص-م-د (ṣ-m-d): to be solid, impervious, self-sufficient, eternal, to resist penetration. "Everlasting" in the translation captures duration but the root means more: the one to whom all turn in need, yet who Himself needs nothing. The one everything leans on, who leans on nothing. Impenetrable, self-subsisting, the ultimate foundation.
+- The term **الصمد** (aṣ-Ṣamad) — root ص-م-د (ṣ-m-d): to be solid, impervious, self-sufficient, eternal, to resist penetration. "Everlasting" in the translation captures duration but the root means more: the one to whom all turn in need, yet who Himself needs nothing. The one everything leans on, who leans on nothing. Impenetrable, self-subsisting, the ultimate foundation.
 
 ### v.3: لَمْ يَلِدْ وَلَمْ يُولَدْ
-- **يَلِدْ** (yalid) — root و-ل-د (w-l-d): to beget, to give birth. The past tense with لَمْ: "He begat not" — it never happened, at any point.
-- **يُولَدْ** (yūlad) — passive of the same root: "nor was He begotten." God is neither cause nor effect in a generative chain.
+- The term **يَلِدْ** (yalid) — root و-ل-د (w-l-d): to beget, to give birth. The past tense with لَمْ: "He begat not" — it never happened, at any point.
+- The term **يُولَدْ** (yūlad) — passive of the same root: "nor was He begotten." God is neither cause nor effect in a generative chain.
 
 ### v.4: وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
-- **كُفُو** (kufuw) — root ك-ف-أ (k-f-'): to be equal, comparable, equivalent. "None is His equal." No equivalence exists — nothing can be placed beside God on the Balance. This is the anti-shirk (anti-association) verse in its purest form.
+- The term **كُفُو** (kufuw) — root ك-ف-أ (k-f-'): to be equal, comparable, equivalent. "None is His equal." No equivalence exists — nothing can be placed beside God on the Balance. This is the anti-shirk (anti-association) verse in its purest form.
 
 ## Bahá'í Interpretive Notes
 

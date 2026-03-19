@@ -2,13 +2,13 @@
 
 ## Key Root Findings
 
-### ق-م-ر (q-m-r) — "the moon"
+### Root ق-م-ر (q-m-r) — "the moon"
 Verse 1: "The Hour hath drawn nigh and the moon hath been rent asunder (انشَقَّ القَمَر)." The root ش-ق-ق (to split, to rend) applied to the moon is one of the Qur'an's most debated images. Whether physical miracle or eschatological sign, the splitting of the moon marks the rupture of cosmic order — the ẓāhir of the heavens torn open. The moon that moves "by reckoning" (55:5) is here rent beyond reckoning.
 
-### ي-س-ر (y-s-r) — "to make easy"
+### Root ي-س-ر (y-s-r) — "to make easy"
 The refrain: "We have made the Recitation easy for remembrance; is there then any who remembereth?" (vv.17, 22, 32, 40). The root ي-س-ر means to make easy, to facilitate, to make possible. The Recitation is يَسَّرْنَا — actively made accessible. God does not merely reveal; He facilitates understanding. The question "is there then any who remembereth?" implies that the ease is offered but the uptake is uncertain.
 
-### ق-د-ر (q-d-r) — "measure, decree"
+### Root ق-د-ر (q-d-r) — "measure, decree"
 Verse 49: "We have created all things in measure (بِقَدَر)." The root ق-د-ر means to measure, to decree, to determine. Everything — from the splitting of the moon to the destruction of nations — operates within divine measure. Even the "single Shout" (v.31) and the "twinkling of an eye" (v.50) are measured. Destruction is not chaos but precision.
 
 ## Integrative Links

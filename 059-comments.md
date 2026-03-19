@@ -2,13 +2,13 @@
 
 ## Key Root Findings
 
-### ح-ش-ر (ḥ-sh-r) — "to gather, to expel"
+### Root ح-ش-ر (ḥ-sh-r) — "to gather, to expel"
 Verse 2: "He it is Who expelled (أَخْرَجَ) those who covered over... at the first gathering (الحَشْر)." The root ح-ش-ر means to gather, to muster, to crowd together. Paradoxically, the "gathering" here is an expulsion — people gathered out of their homes. The earthly ḥashr foreshadows the eschatological Gathering (Day of Resurrection), where all are mustered before God. Exile as rehearsal for judgement.
 
-### ف-ي-أ (f-y-') — "what returns, spoils"
+### Root ف-ي-أ (f-y-') — "what returns, spoils"
 Verses 6–7: "what God hath bestowed (أَفَاء) upon His Messenger." The root ف-ي-أ means to return, to come back — spoils are what "returns" to the community. The distribution rules (v.7: "that it become not a thing taken in turns among the rich of you") establish economic justice: wealth must circulate, not accumulate. The root echoes ح-و-ر (to return) — the Devoted are returners; wealth too must return to the community.
 
-### أ-س-م-ء ('-s-m-') — "the most beautiful names"
+### Root أ-س-م-ء ('-s-m-') — "the most beautiful names"
 Verses 22–24 contain the greatest concentration of divine names in the Qur'an: the Knower, the All-Merciful, the Sovereign, the Holy, the Peace, the Faithful, the Guardian, the Mighty, the Compeller, the Sublime, the Creator, the Originator, the Fashioner. The closing "unto Him belong the most beautiful names (الأَسْمَاء الحُسْنَى)" uses the root ح-س-ن (beauty, goodness) — the same root as الإحسان in 55:60. The names are not labels but attributes of beauty.
 
 ## Integrative Links

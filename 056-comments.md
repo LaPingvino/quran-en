@@ -6,25 +6,25 @@ Al-Waqi'ah is structured around a threefold division of humanity at the Event (t
 
 ## Key Root Findings
 
-### ك-ن-ن (k-n-n) — Concealment and the Hidden Book (vv.78, 23)
+### Root ك-ن-ن (k-n-n) — Concealment and the Hidden Book (vv.78, 23)
 
 Verse 78: "in a hidden Book" (في كتاب مكنون, fī kitābin maknūn). The root ك-ن-ن means to conceal, to shelter, to hide within. The same root appears in verse 23: "like unto hidden pearls" (كأمثال اللؤلؤ المكنون) — the fair ones are "concealed pearls," sheltered from exposure.
 
 The k-n-n root here parallels the ج-ن-ن root in Surah 55: both describe concealment, but k-n-n emphasizes protective sheltering (as a pearl within its shell) while j-n-n emphasizes the hidden dimension itself. The Recitation is not merely written but concealed within a sheltered Book — its true meaning is protected, available only to "the purified" (المطهرون, v.79). The root reinforces the ẓāhir/bāṭin principle: the Recitation has an outer form (recited words) and a hidden interior (the maknūn Book).
 
-### س-ب-ق (s-b-q) — The Foremost (v.10)
+### Root س-ب-ق (s-b-q) — The Foremost (v.10)
 
 Verse 10: "And the foremost, the foremost" (والسابقون السابقون). The root س-ب-ق means to precede, to outstrip, to be first. The repetition intensifies: these are the utterly foremost, those who preceded all others. They are identified as "the brought-near" (المقربون, al-muqarrabūn, v.11, root ق-ر-ب, to be near). Nearness to God is the reward for being foremost. This connects to the first pair of gardens in 55:46–61, which are for "him who feareth the Manifestation of his Lord" — the spiritually closest receive the highest gardens.
 
-### و-ق-ع (w-q-ʿ) — The Event (v.1)
+### Root و-ق-ع (w-q-ʿ) — The Event (v.1)
 
 The root و-ق-ع means to fall, to befall, to happen, to occur. The واقعة (wāqiʿa) is not a vague "event" but a befalling — something that drops upon reality. The word carries the weight of impact, like something falling from height. This is the same root used in 69:1 (الحاقة, al-ḥāqqa, "the Reality") for the Day of Judgment, though that surah uses a different noun form. Both describe the Day as something that hits.
 
-### ي-م-ن / ش-أ-م (y-m-n / sh-'-m) — Right and Left (vv.8–9)
+### Root ي-م-ن / ش-أ-م (y-m-n / sh-'-m) — Right and Left (vv.8–9)
 
 The companions of the right hand (الميمنة, al-maymana) derive from the root ي-م-ن (to be blessed, to go right, to be auspicious — the same root as يمن/Yemen, the "blessed land"). The companions of the left hand (المشأمة, al-mash'ama) derive from ش-أ-م (to be ill-omened, to go left). The right-left dichotomy encodes blessing and misfortune at the root level. Arabic culture reads right as auspicious and left as ominous, but the root meaning enriches this: يمن suggests abundance and wholeness; شؤم suggests incompleteness and diminishment.
 
-### ن-ز-ل (n-z-l) — Sending Down (vv.69, 80)
+### Root ن-ز-ل (n-z-l) — Sending Down (vv.69, 80)
 
 The surah asks a series of questions about creation — seed, water, fire — each challenging: "do ye create it, or are We the creators?" The root ن-ز-ل (to descend, to send down) appears in v.69 about rain and in v.80 about the Recitation: "a sending down from the Lord of the Worlds." The parallel is deliberate: rain descends and gives physical life; the Recitation descends and gives spiritual life. Both are acts of divine sending-down.
 

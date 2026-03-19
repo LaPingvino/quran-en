@@ -2,13 +2,13 @@
 
 ## Key Root Findings
 
-### غ-ب-ن (gh-b-n) — "to cheat, to deceive"
+### Root غ-ب-ن (gh-b-n) — "to cheat, to deceive"
 Verse 9: "the Day of Gathering, that shall be the Day of Mutual Cheating (التَّغَابُن)." The root غ-ب-ن means to cheat, to shortchange, to deceive in a transaction. The Form VI (تَغَابُن) is reciprocal: mutual cheating. On that Day, everyone discovers they have been shortchanged — the coverers cheated themselves of faith, and even believers discover they could have done more. The commercial metaphor is precise: life is a transaction, and the Day reveals who got the raw deal.
 
-### ن-و-ر (n-w-r) — "light"
+### Root ن-و-ر (n-w-r) — "light"
 Verse 8: "believe in God and His Messenger, and the Light (النُّور) which We have sent down." The Light is sent down alongside the Messenger — it is not metaphorical but a distinct thing. The root ن-و-ر here connects to 57:12–13 (light running before the believers) and 57:28 ("a light whereby ye walk"). Light as divine provision, sent down like scripture.
 
-### ع-د-و (ʿ-d-w) — "enemy"
+### Root ع-د-و (ʿ-d-w) — "enemy"
 Verse 14: "among your spouses and your children is an enemy (عَدُوّ) unto you." The root ع-د-و means to be hostile, to transgress, to run past. Family as potential enemy — not through malice but through distraction. The verse immediately softens: "if ye pardon and overlook and forgive." The enemy is not to be fought but pardoned. Domestic enmity is resolved through mercy, not confrontation.
 
 ## Integrative Links

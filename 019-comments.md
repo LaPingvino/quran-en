@@ -6,7 +6,7 @@ Maryam is the Qur'an's most intimate surah — its emotional register is persona
 
 ## Key Root Findings
 
-### ر-ح-م (r-ḥ-m) — Mercy as the Surah's Spine
+### Root ر-ح-م (r-ḥ-m) — Mercy as the Surah's Spine
 
 The root ر-ح-م (to be merciful) generates both رحمة (raḥma, mercy) and رَحِم (raḥim, womb). This is not a coincidence but a root-level theological statement: mercy and the womb share their linguistic origin. Surah 19, which is centered on Mary's womb and its miraculous fruit, is simultaneously a surah about divine mercy made physically manifest.
 
@@ -21,11 +21,11 @@ The root ر-ح-م (to be merciful) generates both رحمة (raḥma, mercy) and 
 
 The arc: mercy → womb → birth → prophets → love. The womb is the physical form of mercy; the prophets are mercy's messengers; love is mercy's destination.
 
-### ع-ب-د (ʿ-b-d) — Servant (v.30)
+### Root ع-ب-د (ʿ-b-d) — Servant (v.30)
 
 Verse 30: Jesus's first words from the cradle are "I am the servant of God" (إني عبد الله). The root ع-ب-د means to serve, to worship, to be a servant. This is the Qur'an's Christological cornerstone: before anything else — before prophecy, before miracles, before the Book — Jesus declares servanthood. The word عبد is the same used for Muhammad (v.2 calls Zachariah "His servant"; 18:1 calls Muhammad "His servant"). Servanthood is the shared station of all prophets.
 
-### و-ل-د (w-l-d) — Sonship and the Cosmic Rupture (vv.88–92)
+### Root و-ل-د (w-l-d) — Sonship and the Cosmic Rupture (vv.88–92)
 
 The claim that God "has taken a son" (اتخذ الرحمن ولدا, v.88) triggers the surah's most violent imagery:
 - Verse 90: "the heavens are well-nigh rent asunder" (تكاد السماوات يتفطرن)
@@ -34,11 +34,11 @@ The claim that God "has taken a son" (اتخذ الرحمن ولدا, v.88) trig
 
 The root و-ل-د (to give birth/beget) is the site of theological crisis. Creation itself recoils at the attribution of biological generation to God. The irony is profound: the surah that most tenderly describes physical birth (Mary's, Jesus's) most violently rejects the metaphorical extension of birth to God. Human birth is sacred; divine "begetting" is a category error that the cosmos cannot bear.
 
-### ح-ن-ن (ḥ-n-n) — Tenderness (v.13)
+### Root ح-ن-ن (ḥ-n-n) — Tenderness (v.13)
 
 Verse 13: Yahya receives حنان (ḥanān, tenderness/compassion). This rare word appears only here in the Qur'an. The root ح-ن-ن means to long for, to feel tenderness, to yearn. Combined with the description of Yahya as "God-fearing" (تقي, taqī) and "dutiful to his parents" (بر بوالديه, barr bi-wālidayhi), the portrait is of a prophet defined by emotional sensitivity rather than power. Prophethood in this surah is tender, not triumphant.
 
-### ك-ل-م (k-l-m) — Word (vv.34)
+### Root ك-ل-م (k-l-m) — Word (vv.34)
 
 Verse 34: "That is Jesus son of Mary — the word of truth (قول الحق), concerning which they dispute." The root ق-و-ل (q-w-l, to say/speak) here is paired with حق (ḥaqq, truth/reality). Jesus is called a "Word from Him" (كلمة منه) in 3:45 — using the root ك-ل-م. Both roots describe speech; together they establish Jesus as divine utterance made manifest. This connects to 55:2 ("He taught the Recitation") and to the kun fa-yakun formula in v.35: "When He decreeth a matter, He but saith to it: 'Be!' and it is."
 
@@ -68,7 +68,7 @@ These verses connect the tender birth-narratives to cosmic theology. The surah t
 
 ## Integrative Links
 
-- **الرحمن in Maryam ↔ Surah 55 (Ar-Raḥmān)**: The divine name that dominates both surahs connects them: Maryam is the personal, intimate face of mercy (birth, tenderness, prophetic care); Ar-Raḥmān is the cosmic, structural face of mercy (creation, order, the hidden Realms).
+- ** The term الرحمن in Maryam ↔ Surah 55 (Ar-Raḥmān)**: The divine name that dominates both surahs connects them: Maryam is the personal, intimate face of mercy (birth, tenderness, prophetic care); Ar-Raḥmān is the cosmic, structural face of mercy (creation, order, the hidden Realms).
 - **v.30 "I am the servant of God" ↔ 5:116–117 Jesus denies divinity**: The same Christological position across surahs — servanthood, not divinity.
 - **v.34 "word of truth" ↔ 3:45 "a Word from Him" ↔ 55:2 "He taught the Recitation"**: Jesus as divine utterance connects to the Qur'an's opening theology of speech: God speaks, and what God speaks becomes manifest.
 - **vv.88–92 heavens rent ↔ 55:37 "rose-painted" sky**: Both describe the heavens responding to theological crisis — in 19, the crisis of sonship; in 55, the crisis of judgement. The sky is not inert; it participates in divine drama.

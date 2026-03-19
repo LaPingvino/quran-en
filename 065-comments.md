@@ -2,13 +2,13 @@
 
 ## Key Root Findings
 
-### ط-ل-ق (ṭ-l-q) — "to release, to divorce"
+### Root ط-ل-ق (ṭ-l-q) — "to release, to divorce"
 The root ط-ل-ق means to release, to set free, to loosen. Divorce is a releasing — not a punishment but an unbinding. Verse 1's instruction to "divorce them for their waiting period" (لِعِدَّتِهِنَّ) establishes that release must be measured, not impulsive. The عِدَّة (waiting period, root ع-د-د, to count) imposes reckoning on separation: even dissolution requires order.
 
-### ت-ق-و (t-q-w) — "God-awareness, piety"
+### Root ت-ق-و (t-q-w) — "God-awareness, piety"
 The phrase "whosoever feareth God" (وَمَن يَتَّقِ اللَّه) appears five times in this short surah (vv.2, 3, 4, 5, and implied in v.1). The root و-ق-ي means to guard, to shield, to be aware. The surah frames divorce law entirely within taqwa: every legal instruction is followed by a promise for those who are God-aware. Taqwa is the ethical container that makes painful social ruptures navigable.
 
-### س-ب-ع (s-b-ʿ) — "seven"
+### Root س-ب-ع (s-b-ʿ) — "seven"
 Verse 12: "God it is Who created seven heavens, and of the earth the like thereof." Seven heavens and seven earths — the cosmic structure mirrors itself above and below. "The command descendeth between them" — revelation moves between the layers. This is the surah's unexpected cosmic coda: a domestic-law surah ends with the architecture of the universe, suggesting that even divorce occurs within God's seven-layered design.
 
 ## Integrative Links

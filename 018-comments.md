@@ -6,7 +6,7 @@ Al-Kahf is structured around four parables — the Sleepers of the Cave, the Two
 
 ## Key Root Findings
 
-### خ-ض-ر (kh-ḍ-r) — The Fresh One / Khidr (vv.60–82)
+### Root خ-ض-ر (kh-ḍ-r) — The Fresh One / Khidr (vv.60–82)
 
 The unnamed "servant from among Our servants" (v.65) is traditionally identified as al-Khiḍr (الخضر). The root خ-ض-ر means fresh, alive, moist, new-grown — the color green is secondary to the quality of freshness. Al-Khiḍr is "the Fresh One" — a being of hidden, living wisdom that does not dry out or decay.
 
@@ -14,17 +14,17 @@ This root connects directly to 55:76, where the cushions of the hidden Realms ar
 
 The three tests — the ship, the youth, the wall — all follow the same pattern: the apparent action (destruction, killing, unpaid labor) conceals a hidden mercy. This is the ẓāhir/bāṭin principle dramatized.
 
-### ر-ق-م (r-q-m) — The Inscription (v.9)
+### Root ر-ق-م (r-q-m) — The Inscription (v.9)
 
 Verse 9: "the companions of the Cave and the Inscription" (الرقيم, ar-raqīm). Most translations struggle with الرقيم — it is usually rendered "the inscription" or left transliterated. The root ر-ق-م means to write, to inscribe, to mark, to number. The raqīm is a written record, a tablet, an inscription.
 
 This connects to 83:9 (كتاب مرقوم, kitāb marqum, "a written/numbered book") — the same root describing the record of deeds. The Cave companions are associated not just with physical shelter but with a written record — their story itself is the raqīm, inscribed for posterity. The Qur'an recounting their tale IS the inscription.
 
-### ج-ن-ن (j-n-n) — Hidden beings and hidden realms
+### Root ج-ن-ن (j-n-n) — Hidden beings and hidden realms
 
 Verse 50: Iblīs "was of the jinn" (كان من الجن) — explicitly placing Iblīs among the hidden beings. The root ج-ن-ن (to conceal) governs both the jinn and the gardens (جنات) promised in v.31 and v.107. The Cave itself functions as a janna — a hidden place of concealment and protection. The youths enter concealment (the Cave) and emerge into revelation (their awakening). The movement from hidden to manifest is the surah's master pattern.
 
-### ظ-ه-ر / ب-ط-ن (ẓ-h-r / b-ṭ-n) — Apparent and Hidden Throughout
+### Root ظ-ه-ر / ب-ط-ن (ẓ-h-r / b-ṭ-n) — Apparent and Hidden Throughout
 
 The entire surah enacts the ẓāhir/bāṭin principle without naming it:
 - The Cave: appears dead, hides life (vv.9–26)
@@ -33,7 +33,7 @@ The entire surah enacts the ẓāhir/bāṭin principle without naming it:
 - Dhul-Qarnayn: appears to build a wall, conceals that God will level it (vv.83–98)
 - Verse 103–104: "those whose striving hath gone astray in the life of this world, while they reckon that they are doing well" — the ultimate ẓāhir/bāṭin inversion.
 
-### ف-ت-ي (f-t-y) — Youths (v.10, v.13, v.60)
+### Root ف-ت-ي (f-t-y) — Youths (v.10, v.13, v.60)
 
 The Cave companions are فتية (fitya, youths, root ف-ت-ي, to be young). Moses's companion is also called فتاه (fatāhu, his young companion, v.60) — the same root. Youth is the quality of those who can enter the hidden dimension: fresh, unencrusted by convention, willing to take refuge. This connects to the kh-ḍ-r root: freshness and youth share the same spiritual quality.
 

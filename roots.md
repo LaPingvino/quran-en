@@ -10,7 +10,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ## Roots That Change Everything
 
-### ك-ف-ر (k-f-r) — "to cover over"
+### Root ك-ف-ر (k-f-r) — "to cover over"
 
 **Conventional:** "to disbelieve," "infidel," "kafir"
 **Root meaning:** to cover, conceal, hide. A farmer is كافر because he covers seeds with earth.
@@ -23,7 +23,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### ض-ر-ب (ḍ-r-b) — "to put forth, to set apart"
+### Root ض-ر-ب (ḍ-r-b) — "to put forth, to set apart"
 
 **Conventional:** "to strike, to beat"
 **Root meaning:** to put forth, to set forth, to travel, to separate, to coin, to strike
@@ -36,7 +36,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### ج-ن-ن (j-n-n) — "to conceal, to hide"
+### Root ج-ن-ن (j-n-n) — "to conceal, to hide"
 
 **Conventional:** جَنَّة = "paradise/garden," جِنّ = "jinn/genie"
 **Root meaning:** to conceal, to hide, to cover from sight
@@ -44,16 +44,16 @@ This document catalogues the root discoveries made during this translation proje
 **Impact:** The "garden" of paradise is fundamentally the "hidden place." The jinn are the "hidden ones." The entire garden section of Surah 55 is saturated with this root — not a description of material luxury but the unveiling of concealed spiritual reality.
 
 **The saturation in Surah 55:**
-- جَنَّة (janna) = the hidden place/garden
-- جِنّ / جَانّ (jinn/jānn) = the hidden beings (named in vv.56, 74)
-- جَنَى (janā) = the harvest of what was hidden (v.54)
-- عَبْقَرِيّ (ʿabqarī) = crafts from ʿAbqar, the legendary jinn-inhabited place (v.76)
+- The term جَنَّة (janna) = the hidden place/garden
+- The term جِنّ / جَانّ (jinn/jānn) = the hidden beings (named in vv.56, 74)
+- The term جَنَى (janā) = the harvest of what was hidden (v.54)
+- The term عَبْقَرِيّ (ʿabqarī) = crafts from ʿAbqar, the legendary jinn-inhabited place (v.76)
 
 **Related roots:** بَطَائِن (baṭā'in, inner linings, v.54) shares the root of بَاطِن (bāṭin, the hidden/esoteric). مُدْهَامَّتَان (mudhāmmatān, v.64, root د-ه-م, to overwhelm/darken) — the second pair of hidden realms is *deeper*. The garden reading (couches, fruit) is the ظَاهِر (ẓāhir, apparent); the root reading reveals the بَاطِن (bāṭin, hidden).
 
 ---
 
-### ح-و-ر (ḥ-w-r) — "to return, to be devoted"
+### Root ح-و-ر (ḥ-w-r) — "to return, to be devoted"
 
 **Conventional:** حُور = "houris," "fair maidens," "72 virgins"
 **Root meaning:** to return, to whiten, to be intensely contrasting
@@ -66,7 +66,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### س-ل-م (s-l-m) — "to surrender, to be whole, to be at peace"
+### Root س-ل-م (s-l-m) — "to surrender, to be whole, to be at peace"
 
 **Conventional:** إسلام = "Islam" (the religion), مُسْلِم = "Muslim" (an adherent)
 **Root meaning:** to surrender, to submit, to be whole, to be at peace
@@ -81,7 +81,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### ش-ب-ه (sh-b-h) — "to resemble, to be ambiguous"
+### Root ش-ب-ه (sh-b-h) — "to resemble, to be ambiguous"
 
 **Conventional (4:157):** "a likeness was made for them" → substitution theology (someone else crucified in Jesus's place)
 **Root meaning:** to resemble, to be made to seem, to be made ambiguous
@@ -92,7 +92,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### خ-م-ر (kh-m-r) — "to cover, to ferment"
+### Root خ-م-ر (kh-m-r) — "to cover, to ferment"
 
 **Conventional:** خِمَار = "veil/headscarf," خَمْر = "wine"
 **Root meaning:** to cover, to conceal, to ferment
@@ -101,7 +101,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### إ-س-ت-ب-ر-ق (istabraq) — "brilliance-seeking"
+### Root إ-س-ت-ب-ر-ق (istabraq) — "brilliance-seeking"
 
 **Conventional:** A Persian loanword for "brocade/thick silk"
 **Arabic root reading:** إِسْتَ (Form X prefix, "seeking") + بَرَقَ (b-r-q, to flash, to radiate — root of بَرْق/lightning)
@@ -110,7 +110,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### خ-ض-ر (kh-ḍ-r) — "fresh, alive, new-grown"
+### Root خ-ض-ر (kh-ḍ-r) — "fresh, alive, new-grown"
 
 **Conventional:** "green" (the color)
 **Root meaning:** fresh, moist, new-grown, alive
@@ -119,7 +119,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### خ-ت-م (kh-t-m) — "to seal, to authenticate"
+### Root خ-ت-م (kh-t-m) — "to seal, to authenticate"
 
 **Conventional (33:40):** خاتم النبيين = "the last of the prophets"
 **Root meaning:** to seal, to stamp, to conclude, to authenticate
@@ -128,7 +128,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### ع-ي-ن (ʿ-y-n) — "spring AND eye"
+### Root ع-ي-ن (ʿ-y-n) — "spring AND eye"
 
 **Conventional:** عَيْن = "spring (of water)" or "eye" (two separate meanings)
 **Root meaning:** both simultaneously — the source that sees, the eye that flows
@@ -137,7 +137,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### ق-و-م (q-w-m) — "to stand upright, to rise, to uphold"
+### Root ق-و-م (q-w-m) — "to stand upright, to rise, to uphold"
 
 **Conventional:** قَوَّامُون (4:34) = "in charge of," "authority over" women
 **Root meaning:** to stand, to rise, to uphold, to sustain, to be upright
@@ -146,7 +146,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### ق-ص-ر (q-ṣ-r) — "to restrain, to shelter"
+### Root ق-ص-ر (q-ṣ-r) — "to restrain, to shelter"
 
 **Conventional:** Separate meanings for different forms
 **Root meaning:** to limit, to restrain, to confine, to shelter
@@ -155,7 +155,7 @@ This document catalogues the root discoveries made during this translation proje
 
 ---
 
-### ف-ل-ق (f-l-q) — "to split, to cleave"
+### Root ف-ل-ق (f-l-q) — "to split, to cleave"
 
 **Conventional:** الفلق (113:1) = "the dawn"
 **Root meaning:** to split open, to cleave apart
@@ -176,7 +176,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ## Additional Confirmed Roots
 
-### ن-س-خ (n-s-kh) — "to copy, to transcribe"
+### Root ن-س-خ (n-s-kh) — "to copy, to transcribe"
 
 **Conventional (2:106):** "abrogate" — used to argue that later verses cancel earlier ones
 **Root meaning:** to copy, to transcribe, to transfer. Abrogation is a secondary meaning.
@@ -185,7 +185,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ---
 
-### ر-ح-م (r-ḥ-m) — "mercy AND womb"
+### Root ر-ح-م (r-ḥ-m) — "mercy AND womb"
 
 **Conventional:** رحمة = "mercy," رحم = "womb" — treated as separate concepts
 **Root meaning:** both derive from the same root — mercy IS womb, the place of nurture, gestation, protection
@@ -196,7 +196,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ---
 
-### و-ل-ي (w-l-y) — "guardian, protector" (NOT "friend")
+### Root و-ل-ي (w-l-y) — "guardian, protector" (NOT "friend")
 
 **Conventional (5:51):** "Take not the Jews and Christians as friends"
 **Root meaning:** to be near, to be a guardian, to have authority, to protect
@@ -207,7 +207,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ---
 
-### ح-م-د (ḥ-m-d) — "to praise, to commend"
+### Root ح-م-د (ḥ-m-d) — "to praise, to commend"
 
 **Conventional:** محمد = "Muhammad" (a name), أحمد = "Ahmad" (another name)
 **Root meaning:** to praise, to commend, to be praiseworthy
@@ -218,7 +218,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ---
 
-### ك-ن-ن (k-n-n) — "to conceal, to treasure"
+### Root ك-ن-ن (k-n-n) — "to conceal, to treasure"
 
 **Conventional:** مكنون = "well-guarded" (of a book or pearls)
 **Root meaning:** to conceal, to treasure, to protect within
@@ -229,7 +229,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ---
 
-### ظ-ه-ر / ب-ط-ن (ẓ-h-r / b-ṭ-n) — "manifest / hidden"
+### Root ظ-ه-ر / ب-ط-ن (ẓ-h-r / b-ṭ-n) — "manifest / hidden"
 
 **Conventional:** treated as opposites
 **Root meaning:** two aspects of every reality — the apparent and the concealed
@@ -240,7 +240,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ---
 
-### ق-ر-أ (q-r-') — "to recite, to read"
+### Root ق-ر-أ (q-r-') — "to recite, to read"
 
 **Conventional:** القرآن = "the Quran" (a proper name)
 **Root meaning:** to recite, to read aloud, to gather
@@ -253,7 +253,7 @@ This is why the Qur'an commands its own preservation in Arabic: the true meaning
 
 ## Roots Still Under Investigation
 
-- **م-ر-ج (m-r-j)** — 55:15/55:19: "current" (of fire) and "pastures" (of the seas). The diacritical dot correction that revealed the "current" reading for the jinn's creation. Connects jinn to energy, electricity, invisible currents.
-- **ن-و-ر / ن-ا-ر (n-w-r / n-a-r)** — light and fire share a root with a vowel shift. The same source illuminates and burns. 24:35 (Light Verse) and 55:15 (current of fire) as two faces of the same reality. 36:80 "from the green tree, fire" connects kh-ḍ-r (fresh/green) to n-a-r (fire) — freshness becoming energy.
-- **د-ن-و (d-n-w)** — nearness. 55:54 (harvest of the hidden Realms is *nigh*) and 33:59 (draw garments *close*) share a root. Proximity as both spiritual and physical act.
-- **ر-ي-ن (r-y-n)** — 83:14 "rusted" (rāna) — sin as rust on the heart, another kind of covering parallel to ك-ف-ر. The heart can be covered (kafara) or rusted (rāna) — both obscure the inner light.
+- The term **م-ر-ج (m-r-j)** — 55:15/55:19: "current" (of fire) and "pastures" (of the seas). The diacritical dot correction that revealed the "current" reading for the jinn's creation. Connects jinn to energy, electricity, invisible currents.
+- The term **ن-و-ر / ن-ا-ر (n-w-r / n-a-r)** — light and fire share a root with a vowel shift. The same source illuminates and burns. 24:35 (Light Verse) and 55:15 (current of fire) as two faces of the same reality. 36:80 "from the green tree, fire" connects kh-ḍ-r (fresh/green) to n-a-r (fire) — freshness becoming energy.
+- The term **د-ن-و (d-n-w)** — nearness. 55:54 (harvest of the hidden Realms is *nigh*) and 33:59 (draw garments *close*) share a root. Proximity as both spiritual and physical act.
+- The term **ر-ي-ن (r-y-n)** — 83:14 "rusted" (rāna) — sin as rust on the heart, another kind of covering parallel to ك-ف-ر. The heart can be covered (kafara) or rusted (rāna) — both obscure the inner light.

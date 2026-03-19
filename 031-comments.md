@@ -2,13 +2,13 @@
 
 ## Key Root Findings
 
-### ح-ك-م (ḥ-k-m) — "wisdom, judgement"
+### Root ح-ك-م (ḥ-k-m) — "wisdom, judgement"
 Verse 2: "the Wise Book" (الكتاب الحكيم); verse 12: "We gave Luqman wisdom (الحكمة)." The root ح-ك-م means to judge, to be wise, to restrain. The Book is حَكِيم (wise) — not merely containing wisdom but itself exercising judgement. Luqman receives الحِكْمَة, the same quality attributed to the Book. Wisdom is the shared substance between scripture and the wise human: both judge, both restrain.
 
-### ش-ك-ر (sh-k-r) — "gratitude"
+### Root ش-ك-ر (sh-k-r) — "gratitude"
 Verse 12: "Give thanks unto God. And whosoever giveth thanks, he giveth thanks for his own soul; and whosoever is ungrateful (كَفَرَ), then verily God is Self-Sufficient." The ش-ك-ر / ك-ف-ر binary appears explicitly: gratitude versus covering over. Luqman's first teaching is that gratitude benefits the giver, not God. The Self-Sufficient (الغني) needs nothing — thankfulness is the human's own unveiling.
 
-### و-ص-ي (w-ṣ-y) — "to enjoin, to bequeath"
+### Root و-ص-ي (w-ṣ-y) — "to enjoin, to bequeath"
 Verse 14: "We have enjoined (وَصَّيْنَا) upon man concerning his parents." The root و-ص-ي (to command, to entrust, to bequeath) frames the parent-child bond as a divine trust. Luqman's wisdom is itself a و-ص-ي-ة — a bequest from father to son. The surah's structure mirrors this: God bequeaths wisdom to Luqman, Luqman bequeaths it to his son, the surah bequeaths it to the reader.
 
 ## Integrative Links
