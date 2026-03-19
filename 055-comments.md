@@ -38,6 +38,21 @@ Verse 46: وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّت
 - **v.3 "the man"** for الإنسان (al-insān). The definite article is preserved — it is *the* man, humanity as a category, not "a man."
 - **v.4 "the Expression"** for البيان (al-bayān). The root ب-ي-ن (b-y-n) means to make clear, to express, to distinguish. In Bahá'í theology, the Bayán is the title of the Báb's central book. This double resonance — both "expression/eloquence" as a divine gift and the Bayán as scripture — is preserved by capitalizing.
 
+### Verses 1–4: The Dispensational Arc
+
+The opening four verses encode the entire movement from God to human flourishing:
+
+1. **الرحمن** — God's nature (the Source, the All-Merciful)
+2. **علم القرآن** — God speaks (the Recitation descends — divine text, strict divine law)
+3. **خلق الإنسان** — the human is created (the pivot, the hinge)
+4. **علمه البيان** — the human speaks (Expression — the capacity to articulate, create, express)
+
+The movement is FROM God TOWARD humanity: divine nature → divine speech → human creation → human speech. The human sits at the center (v.3), between divine Recitation (v.2) and human Expression (v.4). Creation is not the end point but the hinge — God made humans not merely to exist but to *express*, to create into infinity (cf. 18:109, "if the sea were ink for the words of my Lord, the sea would be spent").
+
+The Bahá'í dispensational parallel: البيان (al-Bayán, Expression) is also the title of the Báb's central book. The Báb's dispensation corresponds to القرآن (the Recitation — God speaking, pure divine law made strict); Bahá'u'lláh's dispensation corresponds to البيان (the Expression — humanity empowered with free will to flourish and create). The Báb brings the God-centered religion as people imagine it; Bahá'u'lláh brings the human-centered religion that accounts for creation and free will. Both are taught by الرحمن (the All-Merciful) — mercy as the motive force behind both strict law and liberating expression.
+
+This same arc mirrors the Qur'an's own structure: it opens with بِسْمِ اللَّهِ (God's Name, 1:1) and closes with وَالنَّاسِ (and humanity, 114:6). From God to human flourishing — the entire Book enacts what 55:1–4 encodes in four verses.
+
 ### Verses 5–6: Cosmic Order
 - **v.5 "gathered"** for بِحُسْبَانٍ (bi-ḥusbān) — most render this as "by precise calculation." The root ح-س-b (ḥ-s-b) includes meanings of reckoning, gathering, accounting. "Gathered" emphasizes the cosmic harmony rather than mere mathematics.
 - **v.6 "Stars and Trees bow down"** — النجم (an-najm) can mean star or plant/herb. Most translations choose "herbs/plants" to contrast with "trees" (الشجر). This translation reads it as "stars" — creating a heaven-earth parallel (sun+moon / stars+trees) that mirrors the surah's cosmic scope.
