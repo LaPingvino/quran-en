@@ -6,7 +6,7 @@ Verse: إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ 
 
 Ten paired categories of spiritual achievement, each listed for both men AND women:
 
-1. **المسلمين والمسلمات** — the surrendered men and the surrendered women (root س-ل-م)
+1. **المسلمين والمسلمات** — the Devoted men and the Devoted women (root س-ل-م)
 2. **المؤمنين والمؤمنات** — the believing men and the believing women (root أ-م-ن)
 3. **القانتين والقانتات** — the devout men and the devout women (root ق-ن-ت — same as قَانِتَات in 4:34, proving this quality is for BOTH genders)
 4. **الصادقين والصادقات** — the truthful men and the truthful women (root ص-د-ق)

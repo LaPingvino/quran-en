@@ -5,8 +5,8 @@
 ### Root ع-ر-ف (ʿ-r-f) — "to know, to recognize"
 Verse 13: "We have made you into peoples and tribes, that ye may know one another (لِتَعَارَفُوا)." The root ع-ر-ف means to know, to recognize, to be acquainted. The Form VI (تَعَارَف) is reciprocal: mutual knowing. Diversity of peoples is not an accident but a divine instrument for mutual recognition. The verse continues: "the noblest of you in the sight of God is the most pious (أَتْقَاكُمْ)." Nobility is measured by taqwa (God-awareness), not lineage — and the path to taqwa runs through knowing others.
 
-### Root إ-ي-م-ن ('-y-m-n) vs. س-ل-م (s-l-m) — "faith" vs. "surrender"
-Verse 14: "The desert Arabs say: 'We believe (آمَنَّا).' Say: 'Ye have not believed, but say rather: We have surrendered (أَسْلَمْنَا), for the faith hath not yet entered your hearts.'" This verse draws a sharp distinction between outward surrender (islām) and inward faith (īmān). The root '-m-n (security, trust, faith) requires the heart; the root s-l-m (surrender, peace) can be enacted outwardly first. Surrender precedes faith; faith is surrender internalized.
+### Root إ-ي-م-ن ('-y-m-n) vs. س-ل-م (s-l-m) — "faith" vs. "devotion"
+Verse 14: "The desert Arabs say: 'We believe (آمَنَّا).' Say: 'Ye have not believed, but say rather: We have devoted (أَسْلَمْنَا), for the faith hath not yet entered your hearts.'" This verse draws a sharp distinction between outward surrender (islām) and inward faith (īmān). The root '-m-n (security, trust, faith) requires the heart; the root s-l-m (surrender, peace) can be enacted outwardly first. Surrender precedes faith; faith is surrender internalized.
 
 ### Root ح-ج-ر (ḥ-j-r) — "chamber, enclosure"
 The surah's name comes from الحُجُرَات (the chambers, v.4) — private rooms behind which people call out to the Prophet. The root ح-ج-ر means to enclose, to protect, to seclude. Those who shout from behind enclosures lack understanding; those who lower their voices in the Prophet's presence have hearts tested for piety. The physical barrier (chamber) mirrors the spiritual barrier (pride) between the caller and the called.

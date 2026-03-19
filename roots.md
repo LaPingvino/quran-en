@@ -60,7 +60,7 @@ This document catalogues the root discoveries made during this translation proje
 
 **Impact:** حُور (ḥūr) shares its root with حَوَارِيُّون (ḥawāriyyūn) — the disciples of Jesus (3:52, 5:111). The "paradise maidens" and "Jesus's disciples" are the same root word. Both are the devoted returners — those who return to God from the margins. "The Devoted" replaces "fair maidens" entirely.
 
-**Key verses:** 55:72 (the Devoted, sheltered in the dwellings), 3:52 (the Devoted said: "We are the helpers of God"), 5:111–112 (the Devoted and the Table).
+**Key verses:** 55:72 (the Devoted, sheltered in the dwellings), 3:52 (the Returners said: "We are the helpers of God"), 5:111–112 (the Returners and the Table).
 
 **Connection:** The root meaning "return" links to تَوْبَة (tawba, repentance — root ت-و-ب, to return). Surah 9 (At-Tawbah/Repentance) and the ḥūr of Surah 55 share the concept: returning to God.
 
@@ -71,9 +71,9 @@ This document catalogues the root discoveries made during this translation proje
 **Conventional:** إسلام = "Islam" (the religion), مُسْلِم = "Muslim" (an adherent)
 **Root meaning:** to surrender, to submit, to be whole, to be at peace
 
-**Impact:** When Abraham says أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ (2:131), he is not saying "I became a Muslim" — he is saying "I have surrendered unto the Lord of the worlds." The word describes a *quality* (wholeness, surrender, peace), not a *label* (religious identity). This recovers the Qur'an's own universalism: anyone who surrenders to God is in a state of islām, regardless of which Manifestation they follow.
+**Impact:** When Abraham says أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ (2:131), he is not saying "I became a Muslim" — he is saying "I have devoted myself unto the Lord of the worlds." The word describes a *quality* (wholeness, surrender, peace), not a *label* (religious identity). This recovers the Qur'an's own universalism: anyone who surrenders to God is in a state of islām, regardless of which Manifestation they follow.
 
-**Key verses:** 2:112 (whoso submitteth his countenance unto God), 2:128 (Abraham: make us surrendered unto Thee), 2:131 (Surrender! / I have surrendered), 3:19 (the religion with God is surrender), 3:67 (Abraham was upright, surrendered), 4:125 (he who hath surrendered his face unto God), 5:3 (am well pleased with surrender as a religion).
+**Key verses:** 2:112 (whoso devoteth his countenance unto God), 2:128 (Abraham: make us devoted unto Thee), 2:131 (Surrender! / I have devoted), 3:19 (the religion with God is surrender), 3:67 (Abraham was upright, devoted), 4:125 (he who hath devoted his face unto God), 5:3 (am well pleased with Devotion as a religion).
 
 **Also:** 8:61 "if they incline to peace (السَّلْم, as-salm)" — same root. To incline toward peace IS to incline toward surrender/islām.
 

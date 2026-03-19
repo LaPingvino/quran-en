@@ -131,7 +131,7 @@ The surah's namesake passage. The Israelites are commanded to slaughter a cow, b
 
 - **v.67 "Dost thou take us in mockery?"** — They think Moses is joking. The gap between divine seriousness and human incomprehension.
 - **v.68–71** Three rounds of questions: what is she? what colour? what kind? Each answer narrows the field but the point is: they should have simply obeyed. "Now thou hast come with the truth" (v.71) — as if the truth wasn't already present in the first command. The progressive specificity mirrors how human resistance to divine commands forces ever more detailed legislation.
-- **v.71 "not broken to plough"** — لَّا ذَلُولٌ. The cow is unbroken, untamed, free — a pure animal, uncorrupted by human use. مُسَلَّمَةٌ (musallamat) — "unblemished," from the root س-ل-م (s-l-m), the same root as إسلام (islām, submission/peace) and سلام (salām, peace). The unblemished cow is literally one in a state of *islām* — wholeness, peace, submission to its nature. This is the word "Islam" used by meaning, not as a label for a religion but as a quality of being: whole, complete, surrendered.
+- **v.71 "not broken to plough"** — لَّا ذَلُولٌ. The cow is unbroken, untamed, free — a pure animal, uncorrupted by human use. مُسَلَّمَةٌ (musallamat) — "unblemished," from the root س-ل-م (s-l-m), the same root as إسلام (islām, submission/peace) and سلام (salām, peace). The unblemished cow is literally one in a state of *islām* — wholeness, peace, submission to its nature. This is the word "Islam" used by meaning, not as a label for a religion but as a quality of being: whole, complete, devoted.
 - **v.72–73** The murder mystery resolved by striking the dead man with a part of the cow — life from death, truth from concealment. "God give life to the dead" — not just physical resurrection but the revival of truth that people tried to bury.
 
 ### Verse 74: Hearts Harder than Stone
@@ -181,7 +181,7 @@ A devastating comparison: stones are better than hardened hearts because at leas
 - **v.31 teaching of names ↔ 55:2 teaching the Recitation ↔ 55:4 teaching Expression**: God as the great Teacher, each teaching building on the last
 - **v.48 no soul avails another ↔ 55:26–27 all perish, only God's Countenance remains**: radical equality before the divine
 - **v.50 parting the sea (f-r-q) ↔ 77:4 Measure of separation (f-r-q)**: divine separation as the root act of justice
-- **v.71 musallamat (unblemished, s-l-m) ↔ "Islam" by meaning**: the cow in a state of islām — wholeness, surrender — the word used as quality, not religion label. Same root as v.112 "submitteth his countenance," v.128 "surrendered unto Thee," v.131 "Surrender!"
+- **v.71 musallamat (unblemished, s-l-m) ↔ "Islam" by meaning**: the cow in a state of islām — wholeness, surrender — the word used as quality, not religion label. Same root as v.112 "devoteth his countenance," v.128 "devoted unto Thee," v.131 "Devote!"
 - **v.87 progressive revelation rejected ↔ 55:13 "which Bestowals will ye contradict?" ↔ 77:50 "what later message do they believe?"**: the pattern of refusal across all three surahs
 
 ## Cross-Surah Theme: The Pattern of Refusal
@@ -240,9 +240,9 @@ The word آيَة (āya, sign/verse) here means both Qur'anic verse and divine s
 
 ### Verse 112: Submission by Meaning
 
-The translation renders: "Nay! Whoso submitteth his countenance unto God, and he is a doer of good — for him his reward is with his Lord."
+The translation renders: "Nay! Whoso devoteth his countenance unto God, and he is a doer of good — for him his reward is with his Lord."
 
-Arabic: بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — the root س-ل-م (s-l-m) used as a verb, not a label. The one who has أَسْلَمَ (aslama, surrendered) his وَجْه (wajh, face/countenance/direction) unto God. This is Islam by *meaning*: the act of turning one's entire orientation toward God. It is not a denominational identity but a spiritual state.
+Arabic: بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — the root س-ل-م (s-l-m) used as a verb, not a label. The one who has أَسْلَمَ (aslama, devoted) his وَجْه (wajh, face/countenance/direction) unto God. This is Islam by *meaning*: the act of turning one's entire orientation toward God. It is not a denominational identity but a spiritual state.
 
 The same root appears in the unblemished cow of v.71 (مُسَلَّمَة, musallamat — whole, in a state of islām), in Abraham's declaration at v.131, and in the prayer at v.128. The surah weaves a thread of s-l-m from animal wholeness through patriarchal surrender to communal identity — showing that "Islam" names a quality before it names a community.
 
@@ -267,12 +267,12 @@ The root ك-و-ن also gives كَوْن (kawn, the cosmos) — the universe is l
 - **v.124** Abraham is tested and succeeds: "I am making thee a leader (إِمَامًا, imām) for the people." The root أ-م-م (a-m-m) gives both إِمَام (leader) and أُمَّة (umma, community) — the leader and the community share a root. Abraham asks for his descendants; God answers: "My covenant reacheth not the wrongdoers" — lineage alone does not secure the covenant.
 - **v.125** The Ka'ba as مَثَابَةً (mathābatan, a place of return), from ث-و-ب (th-w-b, to return, to reward). The same root as ثَوَاب (thawāb, reward). The Ka'ba is not merely a destination but a place of spiritual return and recompense.
 - **v.127** Abraham and Ishmael raise the foundations: "Our Lord, accept from us! Verily, Thou art the All-Hearing, the All-Knowing." The dual supplication of father and son building together — an image of cooperative submission.
-- **v.128** "Our Lord, and make us surrendered (مُسْلِمَيْنِ, muslimayni) unto Thee, and of our offspring a community surrendered (أُمَّةً مُّسْلِمَةً, ummatan muslimatan) unto Thee." The root s-l-m here creates a chain: two individuals surrendered → a community surrendered. Islam as collective state flowing from individual surrender. The prayer is for a quality of being, not a religious label.
+- **v.128** "Our Lord, and make us surrendered (مُسْلِمَيْنِ, muslimayni) unto Thee, and of our offspring a community surrendered (أُمَّةً مُّسْلِمَةً, ummatan muslimatan) unto Thee." The root s-l-m here creates a chain: two individuals surrendered → a community devoted. Islam as collective state flowing from individual surrender. The prayer is for a quality of being, not a religious label.
 - **v.129** Abraham prays for a future messenger from among his descendants — "a messenger of them who shall recite unto them Thy signs" — the Qur'an presents Muhammad's mission as the answer to Abraham's prayer, linking the Abrahamic and Muhammadan dispensations.
 
 ### Verse 131: The Pure s-l-m Exchange
 
-"When his Lord said unto him: 'Surrender!' (أَسْلِمْ, aslim) he said: 'I have surrendered (أَسْلَمْتُ, aslamtu) unto the Lord of the worlds.'"
+"When his Lord said unto him: 'Surrender!' (أَسْلِمْ, aslim) he said: 'I have devoted (أَسْلَمْتُ, aslamtu) unto the Lord of the worlds.'"
 
 The most compressed exchange in the surah: one-word command, one-word response. The root s-l-m appears in both — imperative and past tense, forming a complete transaction of divine call and human answer. Abraham does not negotiate, delay, or seek specifications (contrast with the cow narrative, vv.67–71). This is the opposite of the Children of Israel's pattern: where they complicated every command, Abraham simply surrenders.
 
@@ -310,7 +310,7 @@ The root ذ-ك-ر (dh-k-r) means to remember, to mention, to invoke. ذِكْر 
 
 This also connects to the Qur'an itself as ذِكْر (dhikr, Remembrance) — the text is not merely information but an act of mutual recollection between Creator and creation. Compare with 15:9 "We have sent down the Remembrance (الذِّكْرَ), and We are its guardians" — the Qur'an as preserved remembrance.
 
-The reciprocal structure — "remember Me / I remember you" — mirrors the s-l-m exchange of v.131 ("Surrender!" / "I have surrendered"). Both are compressed dialogues of call and response between God and the human soul.
+The reciprocal structure — "remember Me / I remember you" — mirrors the s-l-m exchange of v.131 ("Devote!" / "I have devoted"). Both are compressed dialogues of call and response between God and the human soul.
 
 ### Verse 156: The Return
 
@@ -493,7 +493,7 @@ Three petitions (take us not to task / lay not a burden / burden us not) followe
 - **v.106 n-s-kh (transcription) ↔ 33:40 kh-t-m (seal/authentication)**: both describe how revelation renews while preserving
 - **v.112 s-l-m by meaning ↔ v.71 musallamat ↔ v.128 ummatan muslimatan ↔ v.131 aslim/aslamtu**: the s-l-m thread from cow to Abraham to community
 - **v.115 the Face of God ↔ 55:27 the Countenance of thy Lord**: the same wajh, omnipresent and permanent
-- **v.131 "Surrender!" ↔ v.285 "We hear and we obey"**: the arc from Abraham's instantaneous response to the community's final acceptance
+- **v.131 "Devote!" ↔ v.285 "We hear and we obey"**: the arc from Abraham's instantaneous response to the community's final acceptance
 - **v.138 ṣibghat Allāh (God's dyeing) ↔ v.135 ḥanīf (upright)**: God's colour is the natural inclination restored
 - **v.152 reciprocal dhikr ↔ v.282 writing as dhikr-preservation**: remembrance as both spiritual practice and documentary practice
 - **v.177 righteousness verse ↔ v.83 the covenant's content**: two parallel ethical programmes, the second more comprehensive

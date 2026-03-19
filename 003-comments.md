@@ -2,21 +2,21 @@
 
 ## General Observations
 
-Al-Imran is the Qur'an's most sustained Christological surah, tracing the lineage from Imran through Mary to Jesus, while simultaneously asserting that Abraham — who predates Judaism and Christianity — was "surrendered" (muslim) rather than belonging to any later sect. The surah pivots between two poles: the miraculous births (Yahya, Jesus) and the aftermath of the Battle of Uhud, weaving theology and history into a single argument about trust in God's design.
+Al-Imran is the Qur'an's most sustained Christological surah, tracing the lineage from Imran through Mary to Jesus, while simultaneously asserting that Abraham — who predates Judaism and Christianity — was "devoted" (muslim) rather than belonging to any later sect. The surah pivots between two poles: the miraculous births (Yahya, Jesus) and the aftermath of the Battle of Uhud, weaving theology and history into a single argument about trust in God's design.
 
 ## Key Root Findings
 
-### Root س-ل-م (s-l-m) — "surrender" saturating the surah
+### Root س-ل-م (s-l-m) — "devotion" saturating the surah
 
 The root pervades Al-Imran as its theological spine:
 - Verse 19: "the religion with God is surrender" (الدين عند الله الإسلام) — not "Islam" as a label but surrender as a universal quality.
-- Verse 20: "Have ye surrendered?" — a question posed to both the People of the Book and the unlettered. The question is about a state, not an affiliation.
-- Verse 52: The Devoted say "bear witness that we are surrendered" — Jesus's own followers claim the same quality Abraham had.
-- Verse 64: "Bear witness that we are surrendered" — repeated as the formula for common ground between communities.
-- Verse 67: "Abraham was neither a Jew nor a Christian, but he was upright, surrendered" — the root argument of the surah. Abraham's surrender predates every institutional religion.
-- Verse 83: "unto Him hath surrendered whoso is in the heavens and the Earth" — cosmic surrender, extending the concept beyond humanity.
+- Verse 20: "Have ye devoted?" — a question posed to both the People of the Book and the unlettered. The question is about a state, not an affiliation.
+- Verse 52: The Devoted say "bear witness that we are devoted" — Jesus's own followers claim the same quality Abraham had.
+- Verse 64: "Bear witness that we are devoted" — repeated as the formula for common ground between communities.
+- Verse 67: "Abraham was neither a Jew nor a Christian, but he was upright, devoted" — the root argument of the surah. Abraham's surrender predates every institutional religion.
+- Verse 83: "unto Him hath devoted whoso is in the heavens and the Earth" — cosmic surrender, extending the concept beyond humanity.
 - Verse 85: "whoso seeketh other than surrender as a religion, it shall not be accepted" — the culmination.
-- Verse 102: "die not save while ye are surrendered" — addressed to believers, making surrender a continuous state, not a one-time conversion.
+- Verse 102: "die not save while ye are devoted" — addressed to believers, making surrender a continuous state, not a one-time conversion.
 
 The sheer density of this root in a single surah makes Al-Imran the Qur'an's primary text on surrender as universal principle.
 
@@ -71,7 +71,7 @@ Arabic: إني متوفيك — God says to Jesus "I shall cause thee to die" (m
 
 ### Verse 67: Abraham — neither Jew nor Christian
 
-The pivotal declaration: Abraham was حنيف مسلم (ḥanīf muslim) — "upright, surrendered." The word حنيف (ḥanīf, root ح-ن-ف, to incline/be upright) describes one who turns away from idolatry toward the one God. Abraham's surrender predates Torah and Gospel both. This is the Qur'an's universalist claim: the true religion is older than any sect.
+The pivotal declaration: Abraham was حنيف مسلم (ḥanīf muslim) — "upright, devoted." The word حنيف (ḥanīf, root ح-ن-ف, to incline/be upright) describes one who turns away from idolatry toward the one God. Abraham's surrender predates Torah and Gospel both. This is the Qur'an's universalist claim: the true religion is older than any sect.
 
 ### Verse 110: "the best community"
 
@@ -88,9 +88,9 @@ Arabic: فبما رحمة من الله لنت لهم — "And by mercy from God
 ## Integrative Links
 
 - **v.7 allegorical/firm ↔ 55:54 ẓāhir/bāṭin**: The muḥkam/mutashābih distinction is the hermeneutic form of the apparent/hidden duality that governs the entire Qur'an and the garden sections of Surah 55.
-- **v.19 surrender ↔ 5:3 "am well pleased with surrender as a religion"**: Al-Imran declares it; Al-Ma'idah confirms it as perfected.
-- **v.52 the Devoted ↔ 55:72 the Devoted sheltered in dwellings ↔ 5:111–112 the Devoted and the Table**: One root (ḥ-w-r) threading through Jesus's disciples, the paradisiacal community, and the eucharistic meal.
+- **v.19 surrender ↔ 5:3 "am well pleased with Devotion as a religion"**: Al-Imran declares it; Al-Ma'idah confirms it as perfected.
+- **v.52 the Devoted ↔ 55:72 the Devoted sheltered in dwellings ↔ 5:111–112 the Returners and the Table**: One root (ḥ-w-r) threading through Jesus's disciples, the paradisiacal community, and the eucharistic meal.
 - **v.55 "I shall cause thee to die" ↔ 4:157 "they slew him not with certainty"**: Al-Imran says God will take Jesus in death; An-Nisa says the boasters did not slay him with certainty. No contradiction — the agency differs.
-- **v.67 Abraham surrendered ↔ 2:131 "I have surrendered unto the Lord of the worlds"**: The same declaration across surahs, building the case for surrender as pre-institutional.
+- **v.67 Abraham surrendered ↔ 2:131 "I have devoted unto the Lord of the worlds"**: The same declaration across surahs, building the case for surrender as pre-institutional.
 - **v.81 Covenant of the Prophets ↔ 33:40 Seal of the Prophets**: Each prophet covenanted to believe in the next messenger. The chain continues. The seal authenticates; it does not terminate in the sense of foreclosing future divine communication.
 - **v.144 Muhammad's mortality ↔ 5:75 "the Messiah, son of Mary, is naught but a messenger; messengers have passed away before him"**: The same formula applied to both Jesus and Muhammad — neither is immortal, both are preceded by others.

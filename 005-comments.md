@@ -14,7 +14,7 @@ The same root gives us: ولاية (walāya, guardianship/authority), والي (
 
 ### Root ح-و-ر (ḥ-w-r) — The Devoted and the Table (vv.111–115)
 
-Verses 111–112: "And when I inspired the Devoted (الحواريين): 'Believe in Me and in My messenger.' ... When the Devoted said: 'O Jesus son of Mary, is thy Lord able to send down upon us a table from the heaven?'"
+Verses 111–112: "And when I inspired the Devoted (الحواريين): 'Believe in Me and in My messenger.' ... When the Returners said: 'O Jesus son of Mary, is thy Lord able to send down upon us a table from the heaven?'"
 
 The Devoted (ḥawāriyyūn) reappear here in their most dramatic scene. The root ح-و-ر connects them to the ḥūr of 55:72 — the same community of devoted returners. Their request for the Table (مائدة, mā'ida) is not doubt but desire for experiential knowledge: "that our hearts be set at rest, and that we may know that thou hast spoken the truth" (v.113). This is the Qur'anic version of the Last Supper — a communal meal that descends from heaven, connecting to the eucharistic tradition.
 
@@ -37,7 +37,7 @@ Verse 48: "For each of you We have made a law and a way" (شرعة ومنهاج�
 
 ### Verse 3: Religion Perfected
 
-Arabic: اليوم أكملت لكم دينكم وأتممت عليكم نعمتي ورضيت لكم الإسلام ديناً — "This day I have perfected your religion for you and completed My blessing upon you and am well pleased with surrender as a religion for you."
+Arabic: اليوم أكملت لكم دينكم وأتممت عليكم نعمتي ورضيت لكم الإسلام ديناً — "This day I have perfected your religion for you and completed My blessing upon you and am well pleased with Devotion as a religion for you."
 
 Three verbs: أكملت (akmaltu, perfected, root ك-م-ل, to complete), أتممت (atmamtu, completed, root ت-م-م, to finish), رضيت (raḍītu, am well pleased, root ر-ض-ي, to be content). The religion is described as surrender (الإسلام), not as a named institution. God is "well pleased" with the quality of surrender — this connects to 3:19 ("the religion with God is surrender") as its fulfilment.
 
@@ -71,10 +71,10 @@ Jesus's words to God are the most Christ-like utterance in the Qur'an: pure serv
 
 ## Integrative Links
 
-- **v.3 religion perfected ↔ 3:19 religion is surrender**: Al-Imran declares the principle; Al-Ma'idah declares its completion.
+- **v.3 religion perfected ↔ 3:19 religion is Devotion**: Al-Imran declares the principle; Al-Ma'idah declares its completion.
 - **v.32 sanctity of life ↔ 55:26–27 "all upon it shall perish, and there remaineth the Countenance of thy Lord"**: Individual life is sacred because it bears the divine image; all mortality points to God's permanence.
 - **v.48 law and way for each ↔ 2:148 "for each a direction toward which he turneth"**: Pluralism is consistent across the Qur'an, not an anomaly.
 - **v.51 guardians ↔ 3:28 "take not those who cover over as guardians"**: The same prohibition, but 3:28 makes clear it is about those who actively cover over, not about religious identity per se.
 - **v.82 Christians nearest ↔ 9:34 critique of priests who devour wealth**: The Qur'an's view of Christians is not monolithic — it praises the humble and condemns the corrupt, just as it does with every community.
-- **vv.111–115 the Devoted and the Table ↔ 55:72 the Devoted sheltered in the dwellings ↔ 3:52 the Devoted as helpers of God**: The ḥ-w-r root connects Jesus's followers, the paradisiacal community, and the eucharistic-Table scene into a single narrative of devoted return.
+- **vv.111–115 the Returners and the Table ↔ 55:72 the Devoted sheltered in the dwellings ↔ 3:52 the Devoted as helpers of God**: The ḥ-w-r root connects Jesus's followers, the paradisiacal community, and the eucharistic-Table scene into a single narrative of devoted return.
 - **v.116 Jesus denies divinity ↔ 19:30 "I am the servant of God" ↔ 4:157–158 crucifixion passage**: The Qur'an's Christology is consistent across surahs: Jesus is servant, not god; he died, was raised, and cannot be claimed as divine.
