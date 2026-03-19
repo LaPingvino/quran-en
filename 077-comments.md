@@ -96,6 +96,18 @@ Coda: refusal to bow (48) → refrain at 49 → closing question (50)
 
 The progression mirrors a courtroom: evidence (oaths), charges (destruction of deniers), exhibits (creation, earth), sentencing (hellfire), acquittal (paradise), final statement (what else will you believe?).
 
-## Possible Corrections
+## Cross-Surah: The Pattern of Refusal
 
-- **v.8** "estinguished" → should be "extinguished" (typo)
+The closing verse "Then in what later message do they believe?" (v.50) is the capstone of a theme that runs through the entire Qur'an:
+
+- **Surah 55** asks the question 31 times: "which of thy Lord's Bestowals will ye contradict?" — the root ك-ذ-ب (k-dh-b) appearing as تُكَذِّبَانِ (ye two contradict)
+- **Surah 77** names the consequence 10 times: "Woe, that Day, to the deniers" — the same root as المُكَذِّبِينَ (the deniers/contradictors)
+- **Surah 2** provides the evidence: generation after generation — Iblís, the Israelites, the People of the Book — each receiving and refusing
+
+The word حديث (ḥadīth, message) in v.50 is key. It means not just any speech but a *new* narration, a fresh telling. The question is: after all the messages God has sent — through creation (vv.20–27), through destruction (vv.16–18), through paradise and hellfire — what *new* message could possibly convince those who have contradicted every previous one? This echoes 2:91 where they say "we believe in what was sent down unto us" while covering over everything beyond it, and 2:87 where "whensoever a messenger cometh" pride and denial follow.
+
+The answer, as Al-Baqarah makes clear, is not more messages but surrender (أَسْلِمْ, 2:131) — the breaking of the pattern itself.
+
+## Resolved Corrections
+
+- ~~**v.8** "estinguished" → "extinguished"~~ — fixed

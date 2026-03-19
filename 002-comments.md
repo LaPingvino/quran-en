@@ -181,3 +181,38 @@ A devastating comparison: stones are better than hardened hearts because at leas
 - **v.31 teaching of names ↔ 55:2 teaching the Recitation ↔ 55:4 teaching Expression**: God as the great Teacher, each teaching building on the last
 - **v.48 no soul avails another ↔ 55:26–27 all perish, only God's Countenance remains**: radical equality before the divine
 - **v.50 parting the sea (f-r-q) ↔ 77:4 Measure of separation (f-r-q)**: divine separation as the root act of justice
+- **v.71 musallamat (unblemished, s-l-m) ↔ "Islam" by meaning**: the cow in a state of islām — wholeness, surrender — the word used as quality, not religion label. Same root as v.112 "submitteth his countenance," v.128 "surrendered unto Thee," v.131 "Surrender!"
+- **v.87 progressive revelation rejected ↔ 55:13 "which Bestowals will ye contradict?" ↔ 77:50 "what later message do they believe?"**: the pattern of refusal across all three surahs
+
+## Cross-Surah Theme: The Pattern of Refusal
+
+The single most pervasive theme connecting surahs 2, 55, and 77 is the **pattern of refusal** — humanity's recurring rejection of divine Bestowals across every age.
+
+### The Root: ك-ذ-ب (k-dh-b) — to contradict, to call a lie
+
+This root appears in:
+- **55:13 etc.** تُكَذِّبَانِ (tukadhdhibān) — "will ye contradict?" — 31 times in Ar-Rahman
+- **77:15 etc.** المُكَذِّبِينَ (al-mukadhdhibīn) — "the deniers" — 10 times in Al-Mursalat
+- **2:10, 39, 87, 91** يَكْذِبُونَ / كَذَّبْتُمْ (yakdhibūn / kadhdhabtum) — "they lie / ye deny" — throughout Al-Baqarah
+
+The refrain of Surah 55 asks *which* Bestowal will be contradicted — implying that each and every one has been or will be. Surah 77 names the consequence: "Woe, that Day, to the deniers." Surah 2 gives the historical evidence: this is exactly what happened, generation after generation.
+
+### The Pattern Across History (as told in Al-Baqarah)
+
+1. **Adam** (v.34): Iblís refuses to prostrate — the first refusal
+2. **The Children of Israel** (v.51–93): the golden calf, demanding to see God, substituting words, breaking the Sabbath, delaying the cow's slaughter, hardening hearts, distorting scripture, killing prophets
+3. **Those who received the Book** (v.87–91): "Is it that whensoever a messenger cometh to you with what your souls desire not, ye are proud — and some ye deny and some ye slay?"
+4. **The universal pattern** (v.100): "Is it that whensoever they make a covenant, a party of them cast it aside?"
+
+### The Capstone: 77:50
+
+Al-Mursalat's final verse — "Then in what later message (حديث, ḥadīth) do they believe?" — is the devastating conclusion. After creation, provision, warning, judgement, paradise, hellfire — after *everything* has been shown — what more could possibly convince them? This echoes:
+- **2:91** "We believe in what was sent down unto us" — refusing anything beyond their own tradition
+- **55:13–78** the 31-fold refrain asking which Bestowal is contradicted — the answer being *all of them*
+- **2:87** the pattern of proud refusal "whensoever a messenger cometh"
+
+The Qur'an's answer is not more evidence but a call to *surrender* (أَسْلِمْ, 2:131) — the only way to break the pattern is to stop covering over, stop contradicting, and submit to the truth regardless of which messenger or which age it comes in.
+
+### Modern Resonance
+
+The pattern did not end with the Qur'an. In the Bahá'í reading, the same refusal met the Báb and Bahá'u'lláh — both bearing the name ʿAlí, both contradicted (the ālā'/ʿAlí pun of Surah 55). The refrain "which of thy Lord's Bestowals will ye contradict?" is not a historical question but an ever-present one. Each new Manifestation is a new Bestowal; each age's refusal is a new answer to the refrain.
