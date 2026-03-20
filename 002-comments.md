@@ -17,7 +17,7 @@ Verse 30. The root خ-ل-ف (kh-l-f) means to succeed, follow after, deputize. "
 ### "the Book" for الكتاب (al-kitāb)
 Verse 2: "That is the Book" — ذَٰلِكَ الْكِتَابُ. The demonstrative ذلك (dhālika, "that") rather than هذا (hādhā, "this") is significant. It points beyond the physical text to the eternal, pre-existent Book — the mother of the Book (أُمُّ الْكِتَابِ, 3:7, 13:39). The Qur'an is a manifestation of that Book, not the Book itself.
 
-## Verse-by-Verse Notes (1–50)
+## Verse-by-Verse Notes
 
 ### Verse 1: The Mystery Letters
 **Alif, Lám, Mím** (ا ل م) — these disconnected letters (حروف مقطعة, ḥurūf muqaṭṭaʿa) open 29 surahs. Their meaning is among the Qur'an's great mysteries. Bahá'u'lláh in the Kitáb-i-Íqán interprets such letters as condensed references to divine names and attributes. The letters may encode the names الله (Allāh — Alif, Lám) and محمد (Muḥammad — Mím), or simply serve as a divine cipher that asserts: this Book comes from beyond human composition.
@@ -91,20 +91,6 @@ The shift to addressing بَنِي إِسْرَائِيلَ (the Children of Isr
 - **v.49 "the house of Pharaoh"** — آل فرعون (āl Firʿawn), literally "the family/dynasty of Pharaoh." The Qur'an never names the specific Pharaoh — he is a type, a recurring pattern of tyrannical power. Every age has its Pharaoh.
 - **v.50 "parted the sea"** — فَرَقْنَا بِكُمُ الْبَحْرَ. The root ف-ر-ق (f-r-q) again — the same root as فرقان (criterion) and the فارقات (separators) of 77:4. God's parting of the sea is not merely a physical miracle but an act of فرق — separation, distinction, judgement. The sea parts truth from falsehood, the saved from the drowned.
 
-## Structural Notes (Verses 1–50)
-
-The opening 50 verses establish the surah's architecture:
-
-1. **Three kinds of people** (1–20): believers (2–5), those who cover over (6–7), hypocrites (8–20)
-2. **Call to worship and the challenge** (21–25): worship the Creator, the Book is inimitable
-3. **Cosmic context** (26–29): God's likenesses, the covenant, the cycle of life, seven heavens
-4. **The Adam narrative** (30–39): vicegerency, knowledge, fall, promise of guidance
-5. **The Children of Israel** (40–50): covenant, confirmation, deliverance
-
-The movement mirrors the surah's overall design: from universal truths → primordial history → specific history → law (to come in later verses). Each layer builds on the last.
-
-## Verse-by-Verse Notes (51–100)
-
 ### Verses 51–56: Moses, the Mount, and the Calf
 The golden calf episode is retold twice in this surah (here and v.92–93), forming a frame. The forty nights (أَرْبَعِينَ لَيْلَةً) parallel the Biblical forty days — a recurring span of trial and transformation.
 
@@ -118,7 +104,7 @@ The golden calf episode is retold twice in this surah (here and v.92–93), form
 - **v.61 "Would ye exchange that which is lesser for that which is better?"** — The complaint about monotonous food (manna) and desire for earthly variety (herbs, cucumbers, garlic, lentils, onions) is a parable about spiritual contentment vs. material desire. The list of vegetables is strikingly mundane — the contrast between heavenly provision and onions is deliberately absurd.
 
 ### Verse 62: The Universal Verse
-Arabic: إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ — This is one of the Qur'an's most universalist verses: Muslims, Jews, Christians, and Sabians — all who believe in God and the Last Day and do good — receive their reward. The formula "no fear shall be upon them, neither shall they grieve" applies to all equally. This verse undermines any exclusivist reading of the Qur'an and embodies the progressive revelation principle: God's mercy is not confined to one community.
+The verse إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ — This is one of the Qur'an's most universalist verses: Muslims, Jews, Christians, and Sabians — all who believe in God and the Last Day and do good — receive their reward. The formula "no fear shall be upon them, neither shall they grieve" applies to all equally. This verse undermines any exclusivist reading of the Qur'an and embodies the progressive revelation principle: God's mercy is not confined to one community.
 
 Note: the Sabians (الصَّابِئِينَ) remain historically debated — Mandaeans, star-worshippers, or a broader category of monotheistic seekers. Their inclusion alongside the major Abrahamic faiths suggests the Qur'an's scope extends beyond recognized religions.
 
@@ -161,64 +147,6 @@ A devastating comparison: stones are better than hardened hearts because at leas
 - **v.97 Gabriel** — جِبْرِيل. Some objected to Gabriel as the angel of revelation (preferring Michael). The Qur'an's response: enmity toward Gabriel is enmity toward God, since Gabriel acts by God's leave (بِإِذْنِ اللَّهِ). The messenger cannot be separated from the message.
 - **v.100** The surah's recurring theme crystallized: covenant-making followed by covenant-breaking. The pattern applies beyond any one community — it is the human pattern itself.
 
-## Structural Notes (Verses 51–100)
-
-6. **Moses and the wilderness** (51–61): calf, Sinai, manna, springs, ingratitude
-7. **Universal salvation** (62): the great levelling verse
-8. **Covenant and transgression** (63–74): Mount, Sabbath, cow, hardened hearts
-9. **Scripture distortion** (75–82): taḥrīf, false scribes, false security
-10. **The greater covenant** (83–86): ethical programme and selective belief
-11. **Progressive revelation rejected** (87–93): Moses → Jesus → Muhammad, each denied
-12. **Tests of sincerity** (94–100): death wish, Gabriel, broken covenants
-
-## Integrative Links
-
-- **v.7 sealed hearts ↔ 55:4 Expression**: God gave humanity the power of expression; those who cover over have it sealed away
-- **v.18 deaf/dumb/blind ↔ 77:35 "they will not speak"**: the loss of faculties as consequence of denial
-- **v.22 Earth as resting-place ↔ 55:10 Earth put to sleep**: the same pastoral image of the prepared Earth
-- **v.27 "join what God commanded to be joined" ↔ 55:19–20 the seas meeting**: unity as divine command, with the barrier unharmed
-- **v.28 cycle of life ↔ 77:25–26 Earth receiving living and dead**: the Earth as vessel for the cycle
-- **v.31 teaching of names ↔ 55:2 teaching the Recitation ↔ 55:4 teaching Expression**: God as the great Teacher, each teaching building on the last
-- **v.48 no soul avails another ↔ 55:26–27 all perish, only God's Countenance remains**: radical equality before the divine
-- **v.50 parting the sea (f-r-q) ↔ 77:4 Measure of separation (f-r-q)**: divine separation as the root act of justice
-- **v.71 musallamat (unblemished, s-l-m) ↔ "Islam" by meaning**: the cow in a state of islām — wholeness, devotion — the word used as quality, not religion label. Same root as v.112 "devoteth his countenance," v.128 "devoted unto Thee," v.131 "Devote!"
-- **v.87 progressive revelation rejected ↔ 55:13 "which Bestowals will ye contradict?" ↔ 77:50 "what later message do they believe?"**: the pattern of refusal across all three surahs
-
-## Cross-Surah Theme: The Pattern of Refusal
-
-The single most pervasive theme connecting surahs 2, 55, and 77 is the **pattern of refusal** — humanity's recurring rejection of divine Bestowals across every age.
-
-### The Root: ك-ذ-ب (k-dh-b) — to contradict, to call a lie
-
-This root appears in:
-- **55:13 etc.** تُكَذِّبَانِ (tukadhdhibān) — "will ye contradict?" — 31 times in Ar-Rahman
-- **77:15 etc.** المُكَذِّبِينَ (al-mukadhdhibīn) — "the deniers" — 10 times in Al-Mursalat
-- **2:10, 39, 87, 91** يَكْذِبُونَ / كَذَّبْتُمْ (yakdhibūn / kadhdhabtum) — "they lie / ye deny" — throughout Al-Baqarah
-
-The refrain of Surah 55 asks *which* Bestowal will be contradicted — implying that each and every one has been or will be. Surah 77 names the consequence: "Woe, that Day, to the deniers." Surah 2 gives the historical evidence: this is exactly what happened, generation after generation.
-
-### The Pattern Across History (as told in Al-Baqarah)
-
-1. **Adam** (v.34): Iblís refuses to prostrate — the first refusal
-2. **The Children of Israel** (v.51–93): the golden calf, demanding to see God, substituting words, breaking the Sabbath, delaying the cow's slaughter, hardening hearts, distorting scripture, killing prophets
-3. **Those who received the Book** (v.87–91): "Is it that whensoever a messenger cometh to you with what your souls desire not, ye are proud — and some ye deny and some ye slay?"
-4. **The universal pattern** (v.100): "Is it that whensoever they make a covenant, a party of them cast it aside?"
-
-### The Capstone: 77:50
-
-Al-Mursalat's final verse — "Then in what later message (حديث, ḥadīth) do they believe?" — is the devastating conclusion. After creation, provision, warning, judgement, paradise, hellfire — after *everything* has been shown — what more could possibly convince them? This echoes:
-- **2:91** "We believe in what was sent down unto us" — refusing anything beyond their own tradition
-- **55:13–78** the 31-fold refrain asking which Bestowal is contradicted — the answer being *all of them*
-- **2:87** the pattern of proud refusal "whensoever a messenger cometh"
-
-The Qur'an's answer is not more evidence but a call to *surrender* (أَسْلِمْ, 2:131) — the only way to break the pattern is to stop covering over, stop contradicting, and submit to the truth regardless of which messenger or which age it comes in.
-
-### Modern Resonance
-
-The pattern did not end with the Qur'an. In the Bahá'í reading, the same refusal met the Báb and Bahá'u'lláh — both bearing the name ʿAlí, both contradicted (the ālā'/ʿAlí pun of Surah 55). The refrain "which of thy Lord's Bestowals will ye contradict?" is not a historical question but an ever-present one. Each new Manifestation is a new Bestowal; each age's refusal is a new answer to the refrain.
-
-## Verse-by-Verse Notes (101–286)
-
 ### Verses 101–103: Solomon, Sorcery, and the Two Angels
 
 - **v.101** "Cast the Book of God behind their backs, as though they knew not" — the physical gesture of casting behind mirrors the spiritual act of wilful ignorance. The verb نَبَذَ (nabadha, to cast away) recurs in 3:187 for the same pattern: covenant-holders throwing away their own scripture.
@@ -228,7 +156,7 @@ The pattern did not end with the Qur'an. In the Bahá'í reading, the same refus
 
 ### Verse 106: The Abrogation Verse
 
-Arabic: مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا — "Whatever sign We abrogate or cause to be forgotten."
+The verse مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا — "Whatever sign We abrogate or cause to be forgotten."
 
 The root ن-س-خ (n-s-kh) is one of the most consequential in Islamic jurisprudence. Its meanings include: to copy, to transcribe, to transfer, to supersede. The PRIMARY meaning in pre-Qur'anic Arabic is *to copy* or *to transcribe* — a scribe نَسَخَ (nasakha) a manuscript by copying it onto a new surface. The sense of "abrogation" is secondary, derived from the idea that a new copy replaces an old one.
 
@@ -242,7 +170,7 @@ The word آيَة (āya, sign/verse) here means both Qur'anic verse and divine s
 
 The translation renders: "Nay! Whoso devoteth his countenance unto God, and he is a doer of good — for him his reward is with his Lord."
 
-Arabic: بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — the root س-ل-م (s-l-m) used as a verb, not a label. The one who has أَسْلَمَ (aslama, devoted) his وَجْه (wajh, face/countenance/direction) unto God. This is Islam by *meaning*: the act of turning one's entire orientation toward God. It is not a denominational identity but a spiritual state.
+The root س-ل-م (s-l-m) used as a verb, not a label. The one who has أَسْلَمَ (aslama, devoted) his وَجْه (wajh, face/countenance/direction) unto God. This is Islam by *meaning*: the act of turning one's entire orientation toward God. It is not a denominational identity but a spiritual state.
 
 The same root appears in the unblemished cow of v.71 (مُسَلَّمَة, musallamat — whole, in a state of islām), in Abraham's declaration at v.131, and in the prayer at v.128. The surah weaves a thread of s-l-m from animal wholeness through patriarchal devotion to communal identity — showing that "Islam" names a quality before it names a community.
 
@@ -250,7 +178,7 @@ The same root appears in the unblemished cow of v.71 (مُسَلَّمَة, musa
 
 "Unto God belongeth the East and the West; so whithersoever ye turn, there is the Face of God."
 
-Arabic: فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ — the وَجْه (wajh, face) of God is universal, not directional. This verse demolishes any claim that God is confined to a single direction of prayer. Combined with 55:27 where "the Countenance of thy Lord remaineth" (وَجْهُ رَبِّكَ), the Face of God is both omnipresent (here, in every direction) and permanent (there, surviving all annihilation).
+The وَجْه (wajh, face) of God is universal, not directional. This verse demolishes any claim that God is confined to a single direction of prayer. Combined with 55:27 where "the Countenance of thy Lord remaineth" (وَجْهُ رَبِّكَ), the Face of God is both omnipresent (here, in every direction) and permanent (there, surviving all annihilation).
 
 The root و-ل-ي (w-l-y) in تُوَلُّوا (turn) also echoes the concept of وَلِيّ (walī, protector/friend of God) — wherever you *turn toward*, God's presence is already there.
 
@@ -258,7 +186,7 @@ The root و-ل-ي (w-l-y) in تُوَلُّوا (turn) also echoes the concept o
 
 "The Originator of the heavens and the Earth. When He decreeth a thing, He saith unto it only: 'Be!' and it is."
 
-Arabic: كُن فَيَكُونُ — both forms from the root ك-و-ن (k-w-n, to be, to exist). The imperative كُن (kun, Be!) and the indicative يَكُون (yakūn, it is) — creation as pure speech-act. The gap between command and fulfilment is zero. This formula recurs at 3:47, 3:59, 6:73, 16:40, 19:35, 36:82, 40:68 — always for creation ex nihilo. In 36:82 (Ya Sin), the formula is linked to God's dominion over all things, confirming that creative power and sovereign authority are one.
+The formula كُن فَيَكُونُ — both forms from the root ك-و-ن (k-w-n, to be, to exist). The imperative كُن (kun, Be!) and the indicative يَكُون (yakūn, it is) — creation as pure speech-act. The gap between command and fulfilment is zero. This formula recurs at 3:47, 3:59, 6:73, 16:40, 19:35, 36:82, 40:68 — always for creation ex nihilo. In 36:82 (Ya Sin), the formula is linked to God's dominion over all things, confirming that creative power and sovereign authority are one.
 
 The root ك-و-ن also gives كَوْن (kawn, the cosmos) — the universe is literally the product of "Be!"
 
@@ -267,18 +195,18 @@ The root ك-و-ن also gives كَوْن (kawn, the cosmos) — the universe is l
 - **v.124** Abraham is tested and succeeds: "I am making thee a leader (إِمَامًا, imām) for the people." The root أ-م-م (a-m-m) gives both إِمَام (leader) and أُمَّة (umma, community) — the leader and the community share a root. Abraham asks for his descendants; God answers: "My covenant reacheth not the wrongdoers" — lineage alone does not secure the covenant.
 - **v.125** The Ka'ba as مَثَابَةً (mathābatan, a place of return), from ث-و-ب (th-w-b, to return, to reward). The same root as ثَوَاب (thawāb, reward). The Ka'ba is not merely a destination but a place of spiritual return and recompense.
 - **v.127** Abraham and Ishmael raise the foundations: "Our Lord, accept from us! Verily, Thou art the All-Hearing, the All-Knowing." The dual supplication of father and son building together — an image of cooperative submission.
-- **v.128** "Our Lord, and make us surrendered (مُسْلِمَيْنِ, muslimayni) unto Thee, and of our offspring a community surrendered (أُمَّةً مُّسْلِمَةً, ummatan muslimatan) unto Thee." The root s-l-m here creates a chain: two individuals surrendered → a community devoted. Islam as collective state flowing from individual devotion. The prayer is for a quality of being, not a religious label.
+- **v.128** "Our Lord, and make us devoted (مُسْلِمَيْنِ, muslimayni) unto Thee, and of our offspring a community devoted (أُمَّةً مُّسْلِمَةً, ummatan muslimatan) unto Thee." The root s-l-m here creates a chain: two individuals devoted → a community devoted. Islam as collective state flowing from individual devotion. The prayer is for a quality of being, not a religious label.
 - **v.129** Abraham prays for a future messenger from among his descendants — "a messenger of them who shall recite unto them Thy signs" — the Qur'an presents Muhammad's mission as the answer to Abraham's prayer, linking the Abrahamic and Muhammadan dispensations.
 
 ### Verse 131: The Pure s-l-m Exchange
 
-"When his Lord said unto him: 'Surrender!' (أَسْلِمْ, aslim) he said: 'I have devoted (أَسْلَمْتُ, aslamtu) unto the Lord of the worlds.'"
+"When his Lord said unto him: 'Devote!' (أَسْلِمْ, aslim) he said: 'I have devoted (أَسْلَمْتُ, aslamtu) unto the Lord of the worlds.'"
 
-The most compressed exchange in the surah: one-word command, one-word response. The root s-l-m appears in both — imperative and past tense, forming a complete transaction of divine call and human answer. Abraham does not negotiate, delay, or seek specifications (contrast with the cow narrative, vv.67–71). This is the opposite of the Children of Israel's pattern: where they complicated every command, Abraham simply surrenders.
+The most compressed exchange in the surah: one-word command, one-word response. The root s-l-m appears in both — imperative and past tense, forming a complete transaction of divine call and human answer. Abraham does not negotiate, delay, or seek specifications (contrast with the cow narrative, vv.67–71). This is the opposite of the Children of Israel's pattern: where they complicated every command, Abraham simply devotes.
 
 This verse is the surah's thesis statement for what Islam means as a quality.
 
-### Verse 135: Abraham the Upright (ḥanīf)
+### Verse 135: Abraham the Upright (hanif)
 
 "The creed of Abraham, the upright (حَنِيفًا, ḥanīfan), and he was not of those who associate."
 
@@ -286,11 +214,11 @@ The root ح-ن-ف (ḥ-n-f) means to incline away from falsehood toward truth, t
 
 The term appears also at 3:67, 3:95, 4:125, 6:79, 6:161, 16:120, 16:123 — always for Abraham, always paired with "not of those who associate." The ḥanīf is the spiritual prototype: one who arrives at devotion (islām) through innate recognition, not institutional transmission.
 
-### Verse 138: The Dyeing of God (ṣibghat Allāh)
+### Verse 138: The Dyeing of God (sibghat Allah)
 
-Arabic: صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً — "The dyeing of God! And who is better than God in dyeing?"
+The verse صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً — "The dyeing of God! And who is better than God in dyeing?"
 
-The root ص-ب-غ (ṣ-b-gh) means to dye, to colour, to immerse. صِبْغَة (ṣibgha) is the act of dyeing or the dye itself. In Syriac Christian usage, the cognate ṣebghtā means *baptism* — immersion in water as spiritual colouring. The Qur'an takes the metaphor and universalises it: God's "dyeing" is not a ritual of water but the colouring of the soul with faith. Every soul that surrenders receives God's colour.
+The root ص-ب-غ (ṣ-b-gh) means to dye, to colour, to immerse. صِبْغَة (ṣibgha) is the act of dyeing or the dye itself. In Syriac Christian usage, the cognate ṣebghtā means *baptism* — immersion in water as spiritual colouring. The Qur'an takes the metaphor and universalises it: God's "dyeing" is not a ritual of water but the colouring of the soul with faith. Every soul that devotes receives God's colour.
 
 "Who is better than God in dyeing?" — a rhetorical question asserting that no human ritual (Christian baptism, Jewish circumcision, any denominational marker) can match God's own spiritual colouring. The verse follows the call to Abraham's creed (v.135), implying that the ḥanīf's natural inclination IS God's dyeing — the original colour beneath all institutional overlays.
 
@@ -304,7 +232,7 @@ The word شُهَدَاءَ (shuhadā', witnesses) from ش-ه-د (sh-h-d, to wit
 
 ### Verse 152: Reciprocal Remembrance
 
-Arabic: فَاذْكُرُونِي أَذْكُرْكُمْ — "Remember Me, I shall remember you."
+The verse فَاذْكُرُونِي أَذْكُرْكُمْ — "Remember Me, I shall remember you."
 
 The root ذ-ك-ر (dh-k-r) means to remember, to mention, to invoke. ذِكْر (dhikr) is the central practice of Islamic spirituality — the remembrance of God. This verse makes dhikr reciprocal: human remembrance of God provokes divine remembrance of the human. The transaction is instantaneous and mutual.
 
@@ -314,7 +242,7 @@ The reciprocal structure — "remember Me / I remember you" — mirrors the s-l-
 
 ### Verse 156: The Return
 
-Arabic: إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ — "Verily, we are God's, and verily, unto Him we are returning."
+The verse إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ — "Verily, we are God's, and verily, unto Him we are returning."
 
 The root ر-ج-ع (r-j-ʿ) means to return, to go back, to revert. This formula, recited by Muslims at every bereavement, encodes a complete theology: origin (we are God's, we came from Him) and destiny (we return to Him). The double إِنَّا (innā, verily we) makes both clauses emphatic — there is no doubt about either belonging or return.
 
@@ -375,7 +303,7 @@ The root ه-ل-ل (h-l-l) gives أَهِلَّة (ahilla, new moons/crescents). 
 
 "And cast not yourselves by your own hands into destruction."
 
-Arabic: وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ — the root ه-ل-ك (h-l-k, to perish, to destroy). The verse sits in the context of fighting and spending, but its scope is universal: do not engineer your own ruin. This has been read as a prohibition on suicide, on reckless warfare, on withholding charity (spiritual self-destruction), and on despair itself.
+The root ه-ل-ك (h-l-k, to perish, to destroy) in the verse وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ. The verse sits in the context of fighting and spending, but its scope is universal: do not engineer your own ruin. This has been read as a prohibition on suicide, on reckless warfare, on withholding charity (spiritual self-destruction), and on despair itself.
 
 ### Verse 219: Wine and Gambling
 
@@ -383,7 +311,7 @@ Arabic: وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى الت
 
 The root أ-ث-م ('-th-m) means to sin, to commit wrong. The Qur'an does not deny that wine and gambling have benefits — it acknowledges them openly. The ruling is a matter of proportion: the harm outweighs the good. This is the Qur'an's method of graduated legislation — not an immediate total ban (that comes later in 5:90–91) but a rational weighing. Progressive revelation operates even *within* the Qur'an itself, moving from acknowledgement (here) to prohibition (5:90).
 
-### Verse 255: The Throne Verse (Āyat al-Kursī)
+### Verse 255: The Throne Verse (Ayat al-Kursi)
 
 The most celebrated single verse of the Qur'an. The translation renders: "God — there is no god save He, the Living (الْحَيُّ, al-Ḥayy), the Self-Subsisting (الْقَيُّومُ, al-Qayyūm). Neither slumber overtaketh Him, nor sleep. Unto Him belongeth whatsoever is in the heavens and whatsoever is in the Earth. Who is he that shall intercede with Him save by His leave? He knoweth what is before them and what is behind them, and they encompass naught of His knowledge save what He willeth. His Throne (كُرْسِيُّهُ, kursiyyuhu) embraceth the heavens and the Earth, and the sustaining of them both burdeneth Him not. And He is the Most High, the Most Great."
 
@@ -469,12 +397,26 @@ The closing supplication: "Our Lord, take us not to task if we forget or err. Ou
 
 Three petitions (take us not to task / lay not a burden / burden us not) followed by three requests (pardon / forgive / have mercy). The surah that began with three kinds of people (believers, coverers-over, hypocrites) ends with three requests for clemency. The final word of the final supplication is الْكَافِرِينَ (al-kāfirīn, "those who cover over") — the surah's great theme, from first to last.
 
-## Structural Notes (Verses 101–286)
+## Structural Notes
 
+The surah's architecture unfolds in 27 movements:
+
+1. **Three kinds of people** (1–20): believers (2–5), those who cover over (6–7), hypocrites (8–20)
+2. **Call to worship and the challenge** (21–25): worship the Creator, the Book is inimitable
+3. **Cosmic context** (26–29): God's likenesses, the covenant, the cycle of life, seven heavens
+4. **The Adam narrative** (30–39): vicegerency, knowledge, fall, promise of guidance
+5. **The Children of Israel** (40–50): covenant, confirmation, deliverance
+6. **Moses and the wilderness** (51–61): calf, Sinai, manna, springs, ingratitude
+7. **Universal salvation** (62): the great levelling verse
+8. **Covenant and transgression** (63–74): Mount, Sabbath, cow, hardened hearts
+9. **Scripture distortion** (75–82): tahrif, false scribes, false security
+10. **The greater covenant** (83–86): ethical programme and selective belief
+11. **Progressive revelation rejected** (87–93): Moses → Jesus → Muhammad, each denied
+12. **Tests of sincerity** (94–100): death wish, Gabriel, broken covenants
 13. **Sorcery and Solomon** (101–103): false knowledge vs. divine knowledge
 14. **Abrogation and transcription** (104–112): how revelation renews itself
 15. **Universal orientation** (113–121): the Face of God in every direction
-16. **Abraham and the Ka'ba** (124–141): the patriarch as model of surrender
+16. **Abraham and the Ka'ba** (124–141): the patriarch as model of devotion
 17. **The middle community** (142–152): direction of prayer, reciprocal remembrance
 18. **Patience and return** (153–163): God's nearness, one God
 19. **The ethical manifesto** (164–177): signs in creation, comprehensive righteousness
@@ -485,22 +427,67 @@ Three petitions (take us not to task / lay not a burden / burden us not) followe
 24. **Abraham's proofs** (258–260): debate, death and resurrection, the four birds
 25. **Charity and usury** (261–281): the economics of generosity vs. extraction
 26. **The debt verse** (282–283): writing as sacred preservation
-27. **The great resolution** (284–286): "We hear and we obey" — the arc from refusal to surrender
+27. **The great resolution** (284–286): "We hear and we obey" — the arc from refusal to devotion
 
-## Integrative Links (101–286)
+The movement mirrors the surah's overall design: from universal truths → primordial history → specific history → law → resolution. Each layer builds on the last.
 
+## Integrative Links
+
+- **v.7 sealed hearts ↔ 55:4 Expression**: God gave humanity the power of expression; those who cover over have it sealed away
+- **v.18 deaf/dumb/blind ↔ 77:35 "they will not speak"**: the loss of faculties as consequence of denial
+- **v.22 Earth as resting-place ↔ 55:10 Earth put to sleep**: the same pastoral image of the prepared Earth
+- **v.27 "join what God commanded to be joined" ↔ 55:19–20 the seas meeting**: unity as divine command, with the barrier unharmed
+- **v.28 cycle of life ↔ 77:25–26 Earth receiving living and dead**: the Earth as vessel for the cycle
+- **v.31 teaching of names ↔ 55:2 teaching the Recitation ↔ 55:4 teaching Expression**: God as the great Teacher, each teaching building on the last
+- **v.48 no soul avails another ↔ 55:26–27 all perish, only God's Countenance remains**: radical equality before the divine
+- **v.50 parting the sea (f-r-q) ↔ 77:4 Measure of separation (f-r-q)**: divine separation as the root act of justice
+- **v.71 musallamat (unblemished, s-l-m) ↔ "Islam" by meaning**: the cow in a state of islam — wholeness, devotion — the word used as quality, not religion label. Same root as v.112 "devoteth his countenance," v.128 "devoted unto Thee," v.131 "Devote!"
+- **v.87 progressive revelation rejected ↔ 55:13 "which Bestowals will ye contradict?" ↔ 77:50 "what later message do they believe?"**: the pattern of refusal across all three surahs
 - **v.102 sorcery as covering over ↔ v.7 sealed hearts**: both are forms of k-f-r, the great covering
 - **v.106 n-s-kh (transcription) ↔ 33:40 kh-t-m (seal/authentication)**: both describe how revelation renews while preserving
 - **v.112 s-l-m by meaning ↔ v.71 musallamat ↔ v.128 ummatan muslimatan ↔ v.131 aslim/aslamtu**: the s-l-m thread from cow to Abraham to community
 - **v.115 the Face of God ↔ 55:27 the Countenance of thy Lord**: the same wajh, omnipresent and permanent
 - **v.131 "Devote!" ↔ v.285 "We hear and we obey"**: the arc from Abraham's instantaneous response to the community's final acceptance
-- **v.138 ṣibghat Allāh (God's dyeing) ↔ v.135 ḥanīf (upright)**: God's colour is the natural inclination restored
+- **v.138 sibghat Allah (God's dyeing) ↔ v.135 hanif (upright)**: God's colour is the natural inclination restored
 - **v.152 reciprocal dhikr ↔ v.282 writing as dhikr-preservation**: remembrance as both spiritual practice and documentary practice
 - **v.177 righteousness verse ↔ v.83 the covenant's content**: two parallel ethical programmes, the second more comprehensive
 - **v.185 the Recitation (q-r-') ↔ 55:2 "taught the Recitation"**: God as teacher of the spoken word in both surahs
 - **v.186 God's proximity ↔ 55:19–20 the meeting seas**: God near without intermediary, the seas meeting without barrier
-- **v.255 al-Qayyūm (q-y-m) ↔ 1:6 al-mustaqīm (q-w-m) ↔ 4:34 qawwāmūn (q-w-m)**: all uprightness derives from the One who self-subsists
+- **v.255 al-Qayyum (q-y-m) ↔ 1:6 al-mustaqim (q-w-m) ↔ 4:34 qawwamun (q-w-m)**: all uprightness derives from the One who self-subsists
 - **v.256 k-r-h (compulsion) ↔ 24:33 k-r-h (compulsion unto prostitution)**: the same root forbids coercion of soul and body
-- **v.275 usurer cannot stand (q-w-m) ↔ v.255 God the Qayyūm (q-y-m)**: usury as anti-uprightness
+- **v.275 usurer cannot stand (q-w-m) ↔ v.255 God the Qayyum (q-y-m)**: usury as anti-uprightness
 - **v.285 "We hear and we obey" ↔ v.93 "We hear and we disobey"**: the surah's defining reversal
-- **v.286 w-s-ʿ (capacity) ↔ v.255 w-s-ʿ (Throne encompasses)**: God's vastness calibrates the soul's burden
+- **v.286 w-s-' (capacity) ↔ v.255 w-s-' (Throne encompasses)**: God's vastness calibrates the soul's burden
+
+## Cross-Surah Theme: The Pattern of Refusal
+
+The single most pervasive theme connecting surahs 2, 55, and 77 is the **pattern of refusal** — humanity's recurring rejection of divine Bestowals across every age.
+
+### The Root: ك-ذ-ب (k-dh-b) — to contradict, to call a lie
+
+This root appears in:
+- **55:13 etc.** تُكَذِّبَانِ (tukadhdhibān) — "will ye contradict?" — 31 times in Ar-Rahman
+- **77:15 etc.** المُكَذِّبِينَ (al-mukadhdhibīn) — "the deniers" — 10 times in Al-Mursalat
+- **2:10, 39, 87, 91** يَكْذِبُونَ / كَذَّبْتُمْ (yakdhibūn / kadhdhabtum) — "they lie / ye deny" — throughout Al-Baqarah
+
+The refrain of Surah 55 asks *which* Bestowal will be contradicted — implying that each and every one has been or will be. Surah 77 names the consequence: "Woe, that Day, to the deniers." Surah 2 gives the historical evidence: this is exactly what happened, generation after generation.
+
+### The Pattern Across History (as told in Al-Baqarah)
+
+1. **Adam** (v.34): Iblis refuses to prostrate — the first refusal
+2. **The Children of Israel** (v.51–93): the golden calf, demanding to see God, substituting words, breaking the Sabbath, delaying the cow's slaughter, hardening hearts, distorting scripture, killing prophets
+3. **Those who received the Book** (v.87–91): "Is it that whensoever a messenger cometh to you with what your souls desire not, ye are proud — and some ye deny and some ye slay?"
+4. **The universal pattern** (v.100): "Is it that whensoever they make a covenant, a party of them cast it aside?"
+
+### The Capstone: 77:50
+
+Al-Mursalat's final verse — "Then in what later message (حديث, hadīth) do they believe?" — is the devastating conclusion. After creation, provision, warning, judgement, paradise, hellfire — after *everything* has been shown — what more could possibly convince them? This echoes:
+- **2:91** "We believe in what was sent down unto us" — refusing anything beyond their own tradition
+- **55:13–78** the 31-fold refrain asking which Bestowal is contradicted — the answer being *all of them*
+- **2:87** the pattern of proud refusal "whensoever a messenger cometh"
+
+The Qur'an's answer is not more evidence but a call to *devote* (أَسْلِمْ, 2:131) — the only way to break the pattern is to stop covering over, stop contradicting, and devote to the truth regardless of which messenger or which age it comes in.
+
+### Modern Resonance
+
+The pattern did not end with the Qur'an. In the Bahá'í reading, the same refusal met the Bab and Bahá'u'lláh — both bearing the name 'Ali, both contradicted (the ala'/'Ali pun of Surah 55). The refrain "which of thy Lord's Bestowals will ye contradict?" is not a historical question but an ever-present one. Each new Manifestation is a new Bestowal; each age's refusal is a new answer to the refrain.
