@@ -17,6 +17,38 @@ Every person, every moment, every choice is somewhere on the axis between s-l-m 
 
 These are not merely two important terms among many. They are THE two roots — the axis around which the entire Book turns. And this translation project itself enacts the same movement: uncovering (reversing k-f-r) what centuries of conventional interpretation have covered over, and devoting careful attention (performing s-l-m) to what the roots actually say.
 
+## Root Puns: How the Key Roots Rhyme With Each Other
+
+Arabic roots don't just carry meaning individually — they form sound-patterns across roots that encode theological relationships. The Qur'an's key roots are linked by near-homophony, shared consonants, and mirror structures:
+
+### s-l-m (peace) and z-l-m (wrongdoing) — One Sound Apart
+
+The root s-l-m (peace, devotion, wholeness) and z-l-m (wrongdoing, darkness) are structurally identical except for the first consonant. The sin (s, a bright flowing sound) becomes za' (z, a heavy emphatic sound). Peace and darkness are one letter apart. The Qur'an pairs them constantly: the devoted (muslim) vs the wrongdoer (zalim) are separated by the lightening of a single sound. To move from darkness to peace, you lighten one letter.
+
+And z-l-m means BOTH "darkness" AND "wrongdoing" — they are the same word. Wrongdoing IS darkness. Peace is its bright twin.
+
+### k-f-r (conceal) and gh-f-r (forgive) — The Two Coverings
+
+One letter different. God's forgiveness (ghufran) and human concealment (kufran) are near-twins. Both are acts of COVERING — but gh-f-r is God covering your sins mercifully, while k-f-r is humans covering truth destructively. Same action, opposite direction, one consonant apart. Mercy hides what should be hidden (sins). Concealment hides what should be visible (truth).
+
+The Qur'an exploits this constantly: God is al-Ghafur (the Forgiving Coverer) while the human is al-Kafir (the Truth-Concealing Coverer). The covering itself is neutral — its direction determines whether it heals or harms.
+
+### b-t-n (hidden) and b-y-n (Expression) — Mirror Words
+
+The Bayan (al-Bayan, the Expression, 55:4) and the Batin (al-Batin, the Hidden) share the same frame: both begin with ba' and end with nun. One opens (the Expression makes clear), the other closes (the Hidden conceals). They are mirror-words — the same consonantal bookends containing opposite movements. God teaches BOTH: the hidden dimension (batin) AND the capacity to express it (bayan). Surah 55:4 says God taught the human the Expression — the tool to unlock the Hidden.
+
+### h-w-r (return) and n-w-r (light) — Return to Light
+
+The Returners (hur, root h-w-r) and Light (nur, root n-w-r) rhyme — both share w-r as their core. Those who return to God return to Light. The ḥawariyin (disciples/returners) walk toward the nur (light). The sound itself encodes the journey: return IS illumination.
+
+### q-r-' (recite) and q-r-b (near) — Recitation as Nearness
+
+The Recitation (Qur'an, root q-r-') and nearness (qurb, root q-r-b) share q-r. To recite IS to draw near. The Qur'an confirms this in 2:186: "When My servants ask thee concerning Me — I am near (qarib). I answer the call of the caller when he calleth upon Me." The Recitation is the call; the nearness is the answer.
+
+### The Sound Theology
+
+These are not coincidences. Arabic's root system makes meaning from consonant patterns — and when two roots share two of three consonants, the language itself is asserting a connection. The Qur'an, composed in the most root-aware language on earth, exploits these connections as a second layer of meaning: the SOUNDS teach what the WORDS say.
+
 ---
 
 ## Roots That Change Everything
