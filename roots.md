@@ -45,6 +45,17 @@ The Returners (hur, root h-w-r) and Light (nur, root n-w-r) rhyme — both share
 
 The Recitation (Qur'an, root q-r-') and nearness (qurb, root q-r-b) share q-r. To recite IS to draw near. The Qur'an confirms this in 2:186: "When My servants ask thee concerning Me — I am near (qarib). I answer the call of the caller when he calleth upon Me." The Recitation is the call; the nearness is the answer.
 
+### The ra' family: return, mercy, pleasure, spirit
+
+The letter ra' (r) opens a family of roots that all point homeward:
+
+- r-j-ʿ (rujuʿ, return) — "unto Him we are returning" (2:156)
+- r-ḥ-m (Raḥman, mercy/womb) — the All-Merciful, the first word of Surah 55
+- r-ḍ-w (Ridwan, God's good pleasure) — the Garden where contentment dwells
+- r-w-ḥ (ruḥ, spirit) — the Spirit breathed into creation
+
+All begin with ra' — the rolling, returning sound. The tongue literally rolls back when pronouncing it. You return (r-j-ʿ) to mercy (r-ḥ-m) and find pleasure (r-ḍ-w) through the Spirit (r-w-ḥ). The letter ra' is the Qur'an's homing signal — every ra'-root points back toward the Source.
+
 ### The Sound Theology
 
 These are not coincidences. Arabic's root system makes meaning from consonant patterns — and when two roots share two of three consonants, the language itself is asserting a connection. The Qur'an, composed in the most root-aware language on earth, exploits these connections as a second layer of meaning: the SOUNDS teach what the WORDS say.
