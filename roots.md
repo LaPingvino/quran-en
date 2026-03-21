@@ -6,6 +6,17 @@ The Qur'an was preserved in Arabic because Arabic's root system is tamper-resist
 
 This document catalogues the root discoveries made during this translation project — cases where returning to the Arabic root recovers a meaning that centuries of conventional translation have obscured.
 
+## The Central Axis: s-l-m and k-f-r
+
+The two most important roots in the Qur'an are also its two opposing movements:
+
+- **س-ل-م (s-l-m)** — to be whole, at peace, devoted, open. The movement of the soul *toward* God. Opening up. Letting light in.
+- **ك-ف-ر (k-f-r)** — to cover, conceal, close, be ungrateful. The movement of the soul *away from* God. Closing down. Blocking the light.
+
+Every person, every moment, every choice is somewhere on the axis between s-l-m (opening) and k-f-r (covering). The Qur'an's entire project is to move the reader from one to the other — from covering to opening, from ingratitude to wholeness.
+
+These are not merely two important terms among many. They are THE two roots — the axis around which the entire Book turns. And this translation project itself enacts the same movement: uncovering (reversing k-f-r) what centuries of conventional interpretation have covered over, and devoting careful attention (performing s-l-m) to what the roots actually say.
+
 ---
 
 ## Roots That Change Everything
