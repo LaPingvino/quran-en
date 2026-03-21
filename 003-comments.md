@@ -51,7 +51,9 @@ Verse 7 introduces the concept of مُتَشَابِه (mutashābih) — the "al
 
 ### Verse 7: The Hermeneutic Key
 
-The most important verse for this entire translation project. The Qur'an divides its own content into محكم (muḥkam, firm/clear, root ح-ك-م, to judge/govern) and متشابه (mutashābih, resembling/allegorical, root ش-ب-ه). The "mother of the Book" (أم الكتاب) is the firm verses. The allegorical verses are the ones that require root analysis to penetrate. This verse authorizes the very method we use: looking past the apparent (ẓāhir) to recover the hidden (bāṭin) through the roots.
+The most important verse for this entire translation project. The Qur'an divides its own content into firm (root h-k-m, to judge/govern) and allegorical (root sh-b-h, to resemble). The "mother of the Book" is the firm verses. The allegorical verses require root analysis to penetrate.
+
+Critical punctuation: "And none knoweth its interpretation save God and those firm in knowledge." Bahá'u'lláh quotes this verse twice in the Kitáb-i-Íqán, and in both instances Shoghi Effendi's authorized translation renders it without a stop: "None knoweth the interpretation thereof but God and they that are well-grounded in knowledge." The scholars/Manifestations ARE included among those who know. The conventional reading (full stop after "God") makes the hidden meaning unknowable; removing the stop makes it knowable through the Manifestations. The Arabic waqf mark was added by later editors, not part of the original revelation. This single punctuation choice determines whether the Qur'an says its own depths are permanently sealed or progressively opened.
 
 ### Verse 19: "The religion with God is devotion"
 
