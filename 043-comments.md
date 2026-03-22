@@ -3,7 +3,7 @@
 ## Key Root Findings
 
 ### Root ز-خ-ر-ف (z-kh-r-f) — "ornament, adornment"
-Verse 35: "and ornaments (زُخْرُفًا). And all that is but the enjoyment of the life of this world." The root means to adorn, to embellish, to gild. The surah strips ornament of ultimate value — silver roofs, golden doors, and luxury couches are offered as what God could give to those who cover over, precisely because such things are worthless in the Hereafter. Ornament is the ẓāhir divorced from bāṭin.
+Verse 35: "and ornaments (زُخْرُفًا). And all that is but the enjoyment of the life of this world." The root means to adorn, to embellish, to gild. The surah strips ornament of ultimate value — silver roofs, golden doors, and luxury couches are offered as what God could give to those who cover over, precisely because such things are worthless in the Latter. Ornament is the ẓāhir divorced from bāṭin.
 
 ### Root ق-ل-د (q-l-d) — "to imitate, to follow blindly"
 Verses 22-23: "we found our fathers upon a way" is the refrain of every generation that refuses renewal. The root of taqlīd (blind imitation) underpins this rejection pattern. Every township's affluent class says the same words. The surah identifies ancestral habit as the primary barrier to recognizing a new messenger.

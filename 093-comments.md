@@ -14,4 +14,4 @@ Verse 6: "Did He not find thee an orphan and shelter thee?" The term **آوى** 
 ## Integrative Links
 
 - **v.9-11 orphan, beggar, bounty ↔ 89:17-20 and 107:1-3**: three surahs share the same social ethic — care for orphans and the poor is not charity but the minimum response to divine bounty.
-- **v.4 "the Hereafter is better for thee than the first" ↔ 87:17 "the Hereafter is better and more lasting"**: identical teaching, near-identical phrasing across the two surahs.
+- **v.4 "the Latter is better for thee than the first" ↔ 87:17 "the Latter is better and more lasting"**: identical teaching, near-identical phrasing across the two surahs.

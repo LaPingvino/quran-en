@@ -6,7 +6,7 @@
 Verse 13: "the Thunder glorifieth His praise." The root means to tremble, to thunder, to be in awe. Thunder is not merely a weather phenomenon but an act of glorification — the sky trembling before its Lord. The surah names itself after this cosmic worship, framing all natural phenomena as signs of active divine praise.
 
 ### Root م-ت-ع (m-t-ʿ) — "passing comfort"
-Verse 26: "the life of this world is but a passing comfort (مَتَاع) beside the Hereafter." The root means to enjoy, to use temporarily. The word implies a utensil, something borrowed. This world is not evil but borrowed — its value is real but its tenure is brief.
+Verse 26: "the life of this world is but a passing comfort (مَتَاع) beside the Latter." The root means to enjoy, to use temporarily. The word implies a utensil, something borrowed. This world is not evil but borrowed — its value is real but its tenure is brief.
 
 ### Root ز-ب-د (z-b-d) — "foam, refuse"
 Verse 17: the flood parable where foam passes away but what profits people remains. The root means to froth, to produce scum. God "setteth forth the true and the false" through the image of smelting — falsehood is the dross that burns off, truth is the metal that endures. The likeness applies to revelation itself: interpretive foam rises and passes, the root meaning remains.

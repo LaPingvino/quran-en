@@ -143,6 +143,6 @@ Arabic: بَل رَّفَعَهُ اللَّهُ إِلَيْهِ — "Nay, God 
 
 ### Integrative Links
 - ** The term شُبِّهَ (made ambiguous) ↔ 55:54 بَطَائِن (inner linings/the hidden)**: the ẓāhir/bāṭin principle — appearance differs from reality
-- ** The term يَقِين (certainty) ↔ 2:4 يُوقِنُونَ (believe firmly in the Hereafter)**: certainty as the highest knowledge, which the crucifixion-boasters lack
+- ** The term يَقِين (certainty) ↔ 2:4 يُوقِنُونَ (believe firmly in the Latter)**: certainty as the highest knowledge, which the crucifixion-boasters lack
 - ** The term رَفَعَ (raised) ↔ 55:7 رَفَعَهَا (raised the heaven)**: divine raising as the transformative act
 - **The refusal pattern**: those who boast of killing Jesus are the ultimate contradictors — they claim to have destroyed God's Bestowal, which is precisely what Surah 55's refrain asks: "which of thy Lord's Bestowals will ye contradict?"

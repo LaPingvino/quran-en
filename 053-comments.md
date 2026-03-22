@@ -11,8 +11,8 @@ Verses 8–9: "Then he drew nigh (دَنَا) and came down, until he was at a d
 ### Root ق-ل-ب (q-l-b) — "heart"
 Verse 11: "The heart (الفُؤَاد) lied not of what it saw." The word فُؤَاد (fu'ād) is a synonym for قَلْب (qalb) but emphasizes the heart as seat of perception rather than emotion. The heart *sees* — it does not merely feel. The Prophet's vision is cardiac, not ocular. This challenges the ẓāhir/bāṭin divide: the inner organ perceives the outer reality more truly than the eyes.
 
-### Root آ-خ-ر ('-kh-r) — "the Hereafter and the former"
-Verse 25: "Unto God belongeth the Hereafter (الآخِرَة) and the former life (الأُولَى)." Both temporal domains belong to God — not merely the next world but this one. The conventional emphasis on the Hereafter obscures that the "former" (الأُولَى) is equally God's possession. There is no secular domain.
+### Root آ-خ-ر ('-kh-r) — "the Latter and the former"
+Verse 25: "Unto God belongeth the Latter (الآخِرَة) and the former life (الأُولَى)." Both temporal domains belong to God — not merely the next world but this one. The conventional emphasis on the Latter obscures that the "former" (الأُولَى) is equally God's possession. There is no secular domain.
 
 ## Integrative Links
 

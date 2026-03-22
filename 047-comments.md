@@ -13,6 +13,6 @@ Verse 7: "If ye succour (تَنصُرُوا) God, He will succour you." The root
 
 ## Integrative Links
 
-- Verse 15's garden description ("rivers of water unpolluted, rivers of milk, rivers of wine, rivers of honey") is the most detailed paradise topography in the Qur'an. The wine (خَمْر) of paradise does not cloud — the root kh-m-r (to cover) is inverted in the Hereafter, where covering ceases.
+- Verse 15's garden description ("rivers of water unpolluted, rivers of milk, rivers of wine, rivers of honey") is the most detailed paradise topography in the Qur'an. The wine (خَمْر) of paradise does not cloud — the root kh-m-r (to cover) is inverted in the Latter, where covering ceases.
 - Verse 38 ("if ye turn away, He will exchange you for another people") echoes 5:54, establishing that no community has permanent tenure — the root ب-د-ل (exchange) applies to peoples as well as deeds.
 - Verse 19 ("know that there is no god but God") is the surah's theological axis, the shahāda embedded in its middle. The root ع-ل-م (to know) here demands not recitation but realization.

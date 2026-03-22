@@ -15,4 +15,4 @@ Verse 26: "I am emigrating (مُهَاجِرٌ) unto my Lord." The root means to
 
 - Verse 46 ("dispute not with the People of the Book save in the best way... our God and your God is One") establishes the interfaith principle alongside 5:51's و-ل-ي root discussion — the Qur'an forbids taking others as guardians while commanding respectful engagement.
 - Verse 69 ("those who strive in Us, We shall surely guide them in Our ways") closes the surah with the root ج-ه-د (to strive), making guidance the reward of effort — not its prerequisite.
-- Verse 64 ("the abode of the Hereafter, it is the Life") inverts expectations: this world is play, the next is the real living. The root ح-ي-و (to live) is reserved for the Hereafter.
+- Verse 64 ("the abode of the Latter, it is the Life") inverts expectations: this world is play, the next is the real living. The root ح-ي-و (to live) is reserved for the Latter.

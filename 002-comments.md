@@ -25,7 +25,7 @@ Verse 2: "That is the Book" — ذَٰلِكَ الْكِتَابُ. The demonst
 Note the integrative link: the mystery letters assert the Book's divine origin, and v.23 immediately challenges doubters to produce a surah like it — the letters themselves are already proof of inimitable composition.
 
 ### Verses 2–5: The Pious
-These verses describe المتقين (al-muttaqīn, the pious ones) through five qualities: belief in the unseen, steadfastness in prayer, spending from provision, belief in all revelation (past and present), and certainty of the Hereafter. The progressive revelation principle is embedded here from the outset — true piety requires believing in *all* that has been sent down, not just this Book.
+These verses describe المتقين (al-muttaqīn, the pious ones) through five qualities: belief in the unseen, steadfastness in prayer, spending from provision, belief in all revelation (past and present), and certainty of the Latter. The progressive revelation principle is embedded here from the outset — true piety requires believing in *all* that has been sent down, not just this Book.
 
 ### Verses 6–7: Those Who Cover Over
 The sealing of hearts, hearing, and sight in v.7 connects directly to the gift of البيان (al-bayān, Expression) in 55:4 and the threefold "deaf, dumb, blind" of v.18. God gave humanity expression, hearing, sight — those who cover over lose all three. The veil (غشاوة, ghishāwa) on their sight echoes the root meaning of كفر itself — covering.
@@ -140,7 +140,7 @@ A devastating comparison: stones are better than hardened hearts because at leas
 - **v.93 "made to drink the calf into their hearts"** — وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ. One of the Qur'an's most striking metaphors: idolatry as a liquid that is *drunk into the heart*. The calf is not merely worshipped externally but absorbed, internalized. Idolatry becomes part of one's being. This connects to v.10 "in their hearts is a sickness" — the disease is the internalized idol.
 
 ### Verses 94–96: The Death Wish Challenge
-- **v.94–95** "Wish for death, if ye be truthful" / "And they shall never wish for it" — if the Hereafter is exclusively theirs, they should welcome death. Their refusal proves their doubt. This is the Qur'an's pragmatic test of sincerity.
+- **v.94–95** "Wish for death, if ye be truthful" / "And they shall never wish for it" — if the Latter is exclusively theirs, they should welcome death. Their refusal proves their doubt. This is the Qur'an's pragmatic test of sincerity.
 - **v.96 "a thousand years"** — أَلْفَ سَنَةٍ. Their clinging to life, even more than the polytheists (الَّذِينَ أَشْرَكُوا), exposes the contradiction: claiming exclusive access to paradise while fearing death more than anyone.
 
 ### Verses 97–100: Gabriel, Revelation, and Broken Covenants
@@ -151,7 +151,7 @@ A devastating comparison: stones are better than hardened hearts because at leas
 
 - **v.101** "Cast the Book of God behind their backs, as though they knew not" — the physical gesture of casting behind mirrors the spiritual act of wilful ignorance. The verb نَبَذَ (nabadha, to cast away) recurs in 3:187 for the same pattern: covenant-holders throwing away their own scripture.
 - **v.102** The root س-ح-ر (s-ḥ-r) means to enchant, to bewitch, to divert from truth. سِحْر (siḥr, sorcery) is fundamentally *diversion* — turning the eye away from reality. Solomon is explicitly cleared: "Solomon covered not over" (وَمَا كَفَرَ سُلَيْمَانُ) — the k-f-r root used precisely: Solomon did not cover over truth with sorcery. The devils did.
-- Hārūt and Mārūt teach sorcery only after warning: "We are but a trial, so cover not over" (فَلَا تَكْفُرْ) — again k-f-r, making sorcery a subset of covering over. The one who learns what separates husband from wife "hath no portion in the Hereafter" — same commercial language as the hypocrites who "bought error with guidance" (v.16).
+- Hārūt and Mārūt teach sorcery only after warning: "We are but a trial, so cover not over" (فَلَا تَكْفُرْ) — again k-f-r, making sorcery a subset of covering over. The one who learns what separates husband from wife "hath no portion in the Latter" — same commercial language as the hypocrites who "bought error with guidance" (v.16).
 - **v.103** "Had they believed and been pious, a reward from God were better — if they but knew" — the tragic refrain: the knowledge is available but unused.
 
 ### Verse 106: The Abrogation Verse
