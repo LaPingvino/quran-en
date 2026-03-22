@@ -11,6 +11,9 @@ Verse 1 opens with **سُبْحَانَ** (glory be) and v.44 declares "there is
 ### Root ر-و-ح (r-w-ḥ) in v.85 — "the spirit is of the command of my Lord"
 The term **الرُّوحُ مِنْ أَمْرِ رَبِّي** (the spirit is of the command of my Lord) defines the spirit not as a substance but as a divine command. The root ر-و-ح means breath, wind, spirit, mercy. Spirit is God's command made manifest — connecting to 16:2 where angels descend "with the spirit of His command" (بِالرُّوحِ مِنْ أَمْرِهِ).
 
+### Root ل-ف-ف (l-f-f) in v.104 — "We shall bring you intermingled"
+The word **لَفِيفًا** (lafīfan) from root ل-ف-ف (to wrap, to intermingle, to gather mixed) does not mean merely "as a crowd" or "all together." A lafīf is a mixed multitude — people wrapped together, intertwined. The promise to the Children of Israel is not that they will return as a separate nation, but that they will be brought together *intermingled* with others. Read alongside the Latter promise (الآخرة, root أ-خ-ر = the latter/final), this verse speaks not of a nationalist return but of a coming-together of peoples. In the context of Israel/Palestine, this reading is striking: the promise is fulfilled not through separation but through intermingling.
+
 ## Integrative Links
 
 - Verse 88 — the challenge to produce "the like of this Recitation" even if "mankind and spectres gathered together" — is the fullest form of the literary challenge (taḥaddī) also found in 2:23, 10:38, and 11:13. Each surah raises the stakes differently.
